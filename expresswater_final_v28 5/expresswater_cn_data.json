@@ -1,0 +1,121 @@
+{
+  "hero_image": "https://assets.zyrosite.com/A0xvpOXalvHBpQLW/hero-m7VDnqzxwPuLRnQo.jpg",
+  "background_images": [],
+  "about": "Eco Express Water is a high-tech enterprise specializing in filter materials and equipment for water purification. Based in Yuanhua Town, Zhejiang Province, the company offers a range of high-quality products that are widely used in various industries. Eco Express Water is committed to technical innovation, professionalism, and continuous improvement to contribute to environmental protection. We have been producing water filter cartridges and water purifiers since 1998.",
+  "contact": {
+    "phone": "+86-19908311885",
+    "email": "info@expresswater.cn",
+    "address": "Factory: #1 Chuangxin Rd. Yuanhua Town Haining Zhejiang China",
+    "whatsapp": "+86-19908311885"
+  },
+  "products": [
+    {
+      "name": "Express Water Carbon Block Filter",
+      "desc": "NSF certified high-performance water filter that efficiently removes contaminants from tap water. Uses activated carbon technology to eliminate impurities such as chlorine, VOCs, and other harmful chemicals.",
+      "image": "https://assets.zyrosite.com/express-water-carbon-block-filter.jpg",
+      "category": "Carbon Block Filter"
+    },
+    {
+      "name": "GAC Filter Flat Cap",
+      "desc": "Universal GAC filter with Flat Cap Connection, made with silicon rubber Flat Cap. Designed to effectively remove chlorine, sediment, and other contaminants from your water.",
+      "image": "https://assets.zyrosite.com/gac-filter-flat-cap.jpg",
+      "category": "GAC Filter"
+    },
+    {
+      "name": "Golden color water dispenser (MT-900G)",
+      "desc": "Wall-mounted pipeline water dispenser with 5 stages of water volume (150ML to 850ML) and 5 levels of water temperature (25C to 100C). Features a 316L titanium gold stainless steel heating element and child safety lock.",
+      "image": "https://assets.zyrosite.com/mt-900g.jpg",
+      "category": "Water Dispenser"
+    },
+    {
+      "name": "White Color water dispenser (MT-S800)",
+      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power. Fast 3 seconds hot water output. 5 stages water volume and temperature adjustment.",
+      "image": "https://assets.zyrosite.com/mt-s800.jpg",
+      "category": "Water Dispenser"
+    },
+    {
+      "name": "Dark Green water dispenser (MT-600DG)",
+      "desc": "Wall-mounted pipeline water dispenser with a sleek and modern design in unique dark green color. Saves floor space and provides a continuous supply of clean water.",
+      "image": "https://assets.zyrosite.com/mt-600dg.jpg",
+      "category": "Water Dispenser"
+    },
+    {
+      "name": "Black Color water dispenser (MT-B600)",
+      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power and fast 3 seconds heating. Features a whole glass panel and matte spray plastic parts.",
+      "image": "https://assets.zyrosite.com/mt-b600.jpg",
+      "category": "Water Dispenser"
+    },
+    {
+      "name": "Desktop Water Dispenser (MT-D-20)",
+      "desc": "Compact design available in black and white. Features intuitive push-button controls for hot and cold water options and a removable drip tray.",
+      "image": "https://assets.zyrosite.com/mt-d-20.jpg",
+      "category": "Water Dispenser"
+    },
+    {
+      "name": "100G Direct Drinking Water Dispenser (MT-DW-20)",
+      "desc": "Efficient heating and cooling with a 3L hot gallbladder and 15L/H water supply rate. Features intelligent TDS water quality detection.",
+      "image": "https://assets.zyrosite.com/mt-dw-20.jpg",
+      "category": "Water Dispenser"
+    },
+    {
+      "name": "Vertical Water Dispenser (MT-V-600)",
+      "desc": "Features an LED digital screen and provides 20L/H hot water supply. Available in black and white with electronic or compressor cooling options.",
+      "image": "https://assets.zyrosite.com/mt-v-600.jpg",
+      "category": "Water Dispenser"
+    },
+    {
+      "name": "1000W Vertical Water Dispenser (MT-DV-E600)",
+      "desc": "High-power vertical water dispenser with 304 Stainless Steel tank and 1KW heating power. Includes LED digital screen.",
+      "image": "https://assets.zyrosite.com/mt-dv-e600.jpg",
+      "category": "Water Dispenser"
+    },
+    {
+      "name": "Vertical Water Dispenser (MT-V-E300A)",
+      "desc": "Vertical water dispenser with 304 Stainless Steel Water Tank and multiple water outlet options.",
+      "image": "https://assets.zyrosite.com/mt-v-e300a.jpg",
+      "category": "Water Dispenser"
+    },
+    {
+      "name": "Mineralized Small T33 Inline Water Filter",
+      "desc": "Improves taste and odor by removing chlorine and adding beneficial minerals to water for improved health and hydration.",
+      "image": "https://assets.zyrosite.com/mineralized-small-t33.jpg",
+      "category": "Inline Filter"
+    },
+    {
+      "name": "Inline Small Molecule Antibacterial Mineralization Filter Cartridge",
+      "desc": "Provides advanced filtration by removing harmful bacteria and viruses while adding beneficial minerals to water.",
+      "image": "https://assets.zyrosite.com/inline-small-molecule.jpg",
+      "category": "Inline Filter"
+    },
+    {
+      "name": "Antibacterial mineralization Filter Cartridge",
+      "desc": "Advanced filtration option that effectively removes harmful bacteria and viruses and adds beneficial minerals.",
+      "image": "https://assets.zyrosite.com/antibacterial-mineralization.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Inline Cation Resin Filter Cartridge",
+      "desc": "Softens water by removing hard minerals such as calcium and magnesium, reducing scale buildup in appliances.",
+      "image": "https://assets.zyrosite.com/inline-cation-resin.jpg",
+      "category": "Inline Filter"
+    },
+    {
+      "name": "PP Melt-blown filter sediments",
+      "desc": "Melt blown with 100% pure polypropylene microfibers. Removes Rust, Silt, Scale, Sediment, Dirt, Coarse Sand.",
+      "image": "https://assets.zyrosite.com/pp-melt-blown.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Pre-activated carbon UDF filter",
+      "desc": "Made from High Iodine Value Carbon. Reduces Chlorine, Organic Chemicals, and Unnatural Tastes and Odors.",
+      "image": "https://assets.zyrosite.com/udf-filter.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Post-compressing activated carbon Block Filter CTO",
+      "desc": "Made from high quality carbon in a block construction for high chemical absorption rate.",
+      "image": "https://assets.zyrosite.com/cto-filter.jpg",
+      "category": "Filter Cartridge"
+    }
+  ]
+}

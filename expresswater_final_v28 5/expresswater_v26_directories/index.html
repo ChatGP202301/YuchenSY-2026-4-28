@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Express Water - Redirecting...</title>
+    <script>
+        (function() {
+            var languages = ['en', 'es', 'ar', 'pt', 'fr', 'de', 'ru', 'ja', 'ko', 'it', 'nl', 'tr', 'vi', 'th', 'id', 'ms', 'pl', 'sv', 'no', 'da', 'fi', 'he', 'ta', 'my', 'km', 'lo', 'fa', 'kk', 'uz', 'ps', 'sw', 'ha', 'zu', 'uk', 'cs', 'hu', 'ro', 'el'];
+            var userLang = (navigator.language || navigator.userLanguage).toLowerCase().split('-')[0];
+            if (languages.indexOf(userLang) !== -1) {
+                window.location.href = '/' + userLang + '/';
+            } else {
+                window.location.href = '/en/';
+            }
+        })();
+    </script>
+</head>
+<body>
+    <p>Redirecting... If you are not redirected, <a href="/en/">click here</a>.</p>
+</body>
+</html>

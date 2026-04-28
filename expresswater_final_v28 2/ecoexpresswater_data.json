@@ -1,0 +1,157 @@
+{
+  "hero_image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/IMG_5611-scaled.jpg",
+  "workshop_images": [
+    "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/PP-滤芯-生产线-300x170.png",
+    "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/Carbon-Block-Filter碳棒生产-1024x577.png",
+    "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/快接生产线-300x167.png",
+    "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/自动测漏机-300x169.png"
+  ],
+  "sgs_images": [],
+  "exhibition_images": [
+    "https://www.ecoexpresswater.com/wp-content/uploads/2023/06/Waterfilters-1024x576.jpeg.webp",
+    "https://www.ecoexpresswater.com/wp-content/uploads/2023/06/water-filters-1024x576.jpg.webp",
+    "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/WechatIMG7861-1024x768.jpeg",
+    "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/WechatIMG7860-1024x768.jpeg"
+  ],
+  "about": "Welcome to Eco Express Water, a high-tech environment protection enterprise specializing in filter materials and filter equipment for water purification. Our products integrate the full stream from research and development, manufacturing, marketing to technical support. Our company is located in Yuanhua Town, Haining City, Zhejiang Province. We have a first-class technical expert team, integrated functional middle test/expanding test, and a large-scale manufacturing center. We continuously research and develop filter elements for water purification equipment, covering various multi-functions such as anti-scale, antibiosis, and more. Our workshop offers an array of filter production services, including PP filter production, carbon block filter production, and quick-connecting type filter production. We also conduct rigorous filter leakage tests to ensure that our products meet the highest standards of performance and reliability. We are a certified supplier of halal water filters, catering to the unique needs and requirements of Muslim consumers in Malaysia, Indonesia, and other Muslim countries.",
+  "contact": {
+    "address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "phone": "+86-19908311885",
+    "email": "expresswater025@gmail.com",
+    "whatsapp": "+86-19908311885"
+  },
+  "products": [
+    {
+      "name": "reverse osmosis water filter under sink without pump",
+      "desc": "A gravity-fed reverse osmosis system that relies on water pressure from the incoming water supply to push water through the RO membrane. Includes multiple stages: sediment filter, carbon filter, and RO membrane.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/IMG_5846-scaled-768x1024.jpg",
+      "category": "RO System"
+    },
+    {
+      "name": "30inches Three Stage Big Blue Water Filter",
+      "desc": "Designed with three stages of filtration: PP Filter (removes large particles), RO Membrane (removes heavy metals, bacteria, viruses), and CTO Carbon Block Filter (removes chlorine and improves taste).",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/IMG_8856-scaled-768x1024.jpg",
+      "category": "Filter Housing/System"
+    },
+    {
+      "name": "Three stages Plus UV Water Purifier",
+      "desc": "A three-stage water purification system enhanced with UV sterilization for superior water safety.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/ed1b75a2f9de969d15bf4904160302e-768x1024.jpg",
+      "category": "Water Purifier"
+    },
+    {
+      "name": "Mid size water filter",
+      "desc": "A medium-sized water filter cartridge featuring a copper connector for robust installation and performance.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/08/MG_9234-scaled.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Eco Express water Housing Filter",
+      "desc": "Carbon block filter using activated carbon compressed into a block to remove chlorine, chloramines, pesticides, and odors. Available in various connecting types.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/IMG_5618-scaled-1024x768.jpg",
+      "category": "Filter Housing"
+    },
+    {
+      "name": "carbon block filter",
+      "desc": "Utilizes coconut shell activated carbon with a high iodine value (1000) for effective purification. Dimensions: 10 inches length, 2.5 inches outer diameter.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/carbon-block-filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "PP Spun Filter",
+      "desc": "Melt blown with 100% pure POLYPROPYLENE microfibers. Removes rust, silt, scale, sediment, and dirt. Available in 10, 20, 30, and 40 inches.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/PP-Spun-Filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "UDF Filter cartridge",
+      "desc": "Standard 10 inch Granular Activated Carbon Filter. Made from high iodine value carbon to reduce chlorine, organic chemicals, and unnatural tastes.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/UDF-Filter-cartridge-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Eco Express Water Ceramic Filter",
+      "desc": "High-quality ceramic filter cartridge for removing fine particles and bacteria.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Eco Express Water Resin Filter",
+      "desc": "Ion-exchange resin filter cartridge used for water softening and removal of heavy metals.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/WeChat48b644654d6e0f5e709716ba2298b556-889x1024.png",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Ultra Filter(UF) Cartridge",
+      "desc": "Hollow fiber ultrafiltration membrane cartridge for removal of bacteria, viruses, and colloidal matter.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Ultra-FilterUF-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Maifan Inline Filter Cartridge",
+      "desc": "Inline filter containing Maifan stones to mineralize water and improve taste.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Maifan-stone-Filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Inline Mineral Filter Cartridge",
+      "desc": "Adds essential minerals back into purified water to enhance health benefits and taste.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Mineral-Filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "RO Membrane Filter Cartridge",
+      "desc": "Reverse osmosis membrane cartridge, the core component of RO systems for desalination and purification.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/RO-Membrane-Filter-Cartridge-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Filter cartridge combination",
+      "desc": "A combination of various filter cartridges designed for multi-stage purification.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Filter-cartridge-combination-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Post T33 Inline Filter",
+      "desc": "Post-filtration inline carbon filter for polishing water taste and removing residual odors.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Post-T33-Filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Inline Filter PP Cartridge",
+      "desc": "Inline polypropylene sediment filter for compact water purification systems.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/PP-filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "PPF Filter Cartridge",
+      "desc": "Polypropylene fiber filter cartridge for sediment removal.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/PPF-Filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Pre UDF Filter cartridge",
+      "desc": "Pre-filtration granular activated carbon cartridge to protect downstream membranes.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Pre-UDF-Filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "T33 post Filter cartridge",
+      "desc": "High-quality post-carbon filter for final stage purification.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/T33-post-Filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "Ultra Film Filter cartridge",
+      "desc": "Advanced ultrafiltration film cartridge for high-efficiency filtration.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/Ultra-Film-Filter-copy.jpg",
+      "category": "Filter Cartridge"
+    },
+    {
+      "name": "UF Filter cartridge",
+      "desc": "Ultrafiltration cartridge for fine suspended solids removal.",
+      "image": "https://www.ecoexpresswater.com/wp-content/uploads/2022/04/UF-Filter-copy.jpg",
+      "category": "Filter Cartridge"
+    }
+  ]
+}

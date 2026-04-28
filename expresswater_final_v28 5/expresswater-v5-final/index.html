@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Express Water | Advanced Industrial Water Purification & NSF Certified Filtration</title>
+    <meta name="description" content="Official manufacturer of NSF certified water filters. Carbon Block, RO Systems, and SUS 304 Industrial solutions. Trusted OEM/ODM partner for global water safety.">
+    <meta name="keywords" content="Express Water, NSF Certified Filters, Industrial Water Purification, Carbon Block, RO System, Water Dispenser Manufacturer">
+    
+    <!-- Multi-language SEO -->
+    <link rel="alternate" hreflang="en" href="index.html?lang=en">
+    <link rel="alternate" hreflang="ru" href="index.html?lang=ru">
+    <link rel="alternate" hreflang="es" href="index.html?lang=es">
+    <link rel="alternate" hreflang="ja" href="index.html?lang=ja">
+    <link rel="alternate" hreflang="fr" href="index.html?lang=fr">
+
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "IndustrialBusiness",
+      "name": "Express Water (Eco Express Water)",
+      "url": "https://expresswater.cn",
+      "logo": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=181,fit=crop/A85Dpv78OotyVQVx/22.12.11-kamamuta-logo-copy-YX42bL733lUr11RD.png",
+      "description": "Leading manufacturer of high-tech environment protection filter materials and equipment.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "#1 Chuangxin Rd. Yuanhua Town",
+        "addressLocality": "Haining",
+        "addressRegion": "Zhejiang",
+        "addressCountry": "China"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+86-19908311885",
+        "contactType": "sales",
+        "email": "expresswater025@gmail.com"
+      }
+    }
+    </script>
+
+    <style>
+        :root {
+            --primary: #485342; /* Forest Green */
+            --accent: #B5A48B; /* Champagne Gold */
+            --bg-light: #FFFFFF;
+            --bg-muted: #F9F9F7;
+            --text-main: #2C2E2C;
+            --text-light: #FFFFFF;
+            --transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
+        body { background: var(--bg-light); color: var(--text-main); scroll-behavior: smooth; overflow-x: hidden; }
+
+        /* Navigation */
+        nav {
+            position: fixed; top: 0; width: 100%; height: 90px; background: rgba(255,255,255,0.95);
+            display: flex; align-items: center; justify-content: space-between; padding: 0 5%;
+            z-index: 1000; box-shadow: 0 2px 20px rgba(0,0,0,0.05);
+            backdrop-filter: blur(10px);
+        }
+        .logo img { height: 50px; }
+        .nav-links { display: flex; gap: 40px; list-style: none; }
+        .nav-links a { text-decoration: none; color: var(--text-main); font-weight: 600; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; transition: var(--transition); }
+        .nav-links a:hover { color: var(--accent); }
+        .lang-switcher select { border: 1px solid #ddd; padding: 8px 12px; border-radius: 2px; cursor: pointer; background: transparent; font-weight: 600; }
+
+        /* Hero Section */
+        .hero {
+            height: 100vh; display: flex; align-items: center; justify-content: center; text-align: center;
+            background: linear-gradient(rgba(72, 83, 66, 0.7), rgba(72, 83, 66, 0.7)), url('https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1920,fit=crop/A85Dpv78OotyVQVx/img_5611-Yyvy7nEvNPUO3M3M.JPG');
+            background-size: cover; background-position: center; color: white; padding: 0 5%;
+        }
+        .hero h1 { font-family: 'Playfair Display', serif; font-size: clamp(3rem, 8vw, 5.5rem); margin-bottom: 20px; line-height: 1.1; }
+        .hero p { font-size: 1.2rem; max-width: 800px; margin: 0 auto 40px; opacity: 0.9; font-weight: 300; }
+        .cta-btn { padding: 18px 45px; background: var(--accent); color: white; border: none; font-weight: 700; text-transform: uppercase; cursor: pointer; transition: var(--transition); border-radius: 2px; letter-spacing: 1px; }
+        .cta-btn:hover { background: #a3937a; transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+
+        /* Products Section */
+        .section { padding: 120px 5%; max-width: 1400px; margin: 0 auto; }
+        .section-header { text-align: center; margin-bottom: 80px; }
+        .section-header h2 { font-family: 'Playfair Display', serif; font-size: 3.5rem; margin-bottom: 15px; color: var(--primary); }
+        .section-header p { color: #666; font-size: 1.1rem; }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 40px; }
+        .card { background: var(--bg-muted); overflow: hidden; transition: var(--transition); cursor: pointer; border: 1px solid #f0f0f0; }
+        .card:hover { transform: translateY(-10px); box-shadow: 0 30px 60px rgba(0,0,0,0.08); border-color: var(--accent); }
+        .card img { width: 100%; height: 320px; object-fit: contain; padding: 30px; background: white; transition: var(--transition); }
+        .card:hover img { transform: scale(1.05); }
+        .card-body { padding: 30px; }
+        .card h3 { font-family: 'Playfair Display', serif; font-size: 1.4rem; margin-bottom: 10px; color: var(--primary); }
+        .card p { font-size: 0.95rem; color: #555; line-height: 1.6; }
+
+        /* Modal */
+        .modal { position: fixed; inset: 0; background: rgba(72, 83, 66, 0.98); z-index: 2000; display: none; align-items: center; justify-content: center; padding: 40px; overflow-y: auto; }
+        .modal-inner { background: white; display: grid; grid-template-columns: 1fr 1.2fr; gap: 60px; max-width: 1200px; width: 100%; padding: 60px; position: relative; animation: slideUp 0.6s ease; }
+        @keyframes slideUp { from { opacity: 0; transform: translateY(50px); } to { opacity: 1; transform: translateY(0); } }
+        .close-btn { position: absolute; top: 30px; right: 30px; font-size: 2.5rem; cursor: pointer; color: var(--primary); }
+        .modal img { width: 100%; max-height: 500px; object-fit: contain; }
+        .modal h2 { font-family: 'Playfair Display', serif; font-size: 2.8rem; margin-bottom: 25px; color: var(--primary); }
+        .modal-desc { font-size: 1.1rem; line-height: 1.8; color: #444; margin-bottom: 40px; }
+        .spec-table { width: 100%; border-collapse: collapse; margin-bottom: 40px; }
+        .spec-table td { padding: 15px 0; border-bottom: 1px solid #eee; font-size: 0.95rem; }
+        .spec-label { font-weight: 700; color: var(--accent); text-transform: uppercase; font-size: 0.75rem; letter-spacing: 1.5px; width: 150px; }
+
+        /* Contact Section */
+        .contact-section { background: var(--primary); color: white; padding: 100px 5%; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; }
+        .contact-content h2 { font-family: 'Playfair Display', serif; font-size: 3.5rem; margin-bottom: 30px; }
+        .contact-content p { font-size: 1.2rem; opacity: 0.8; margin-bottom: 50px; }
+        .contact-info { display: grid; gap: 30px; }
+        .info-item { display: flex; align-items: center; gap: 20px; }
+        .info-item i { font-size: 1.5rem; color: var(--accent); }
+        
+        /* Footer */
+        footer { padding: 60px 5%; text-align: center; border-top: 1px solid #eee; font-size: 0.9rem; color: #888; }
+
+        /* WhatsApp */
+        .wa-float { position: fixed; bottom: 40px; right: 40px; background: #25D366; color: white; width: 65px; height: 65px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 2.2rem; box-shadow: 0 10px 30px rgba(0,0,0,0.15); z-index: 1000; text-decoration: none; transition: var(--transition); }
+        .wa-float:hover { transform: scale(1.1); }
+
+        @media (max-width: 1000px) {
+            .modal-inner { grid-template-columns: 1fr; padding: 40px; }
+            .contact-section { grid-template-columns: 1fr; }
+            .hero h1 { font-size: 3.5rem; }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="logo"><img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=181,fit=crop/A85Dpv78OotyVQVx/22.12.11-kamamuta-logo-copy-YX42bL733lUr11RD.png" alt="Express Water Logo"></div>
+        <ul class="nav-links">
+            <li><a href="#products" data-i18n="nav.products">Products</a></li>
+            <li><a href="#contact" data-i18n="nav.contact">Contact Us</a></li>
+        </ul>
+        <div class="lang-switcher">
+            <select onchange="updateLang(this.value)">
+                <option value="en">English</option>
+                <option value="ru">Русский</option>
+                <option value="es">Español</option>
+                <option value="ja">日本語</option>
+                <option value="fr">Français</option>
+            </select>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-content">
+            <h1 data-i18n="hero.title">Industrial Water Excellence.</h1>
+            <p data-i18n="hero.subtitle">Advancing global water safety through NSF-certified precision engineering and innovative filtration solutions.</p>
+            <a href="#products" class="cta-btn" data-i18n="hero.cta">Explore Systems</a>
+        </div>
+    </header>
+
+    <main class="section" id="products">
+        <div class="section-header">
+            <h2 data-i18n="products.title">Premier Collection</h2>
+            <p data-i18n="products.subtitle">Our most advanced filtration systems designed for performance and reliability.</p>
+        </div>
+        <div class="grid" id="productGrid"></div>
+    </main>
+
+    <div class="modal" id="modal">
+        <span class="close-btn" onclick="closeModal()">&times;</span>
+        <div class="modal-inner">
+            <img id="mImg" src="" alt="">
+            <div>
+                <h2 id="mTitle"></h2>
+                <p class="modal-desc" id="mDesc"></p>
+                <table class="spec-table" id="mSpecs"></table>
+                <a href="https://wa.me/8619908311885" class="cta-btn" style="display: inline-block; width: 100%; text-align: center;" data-i18n="modal.wa">Inquire via WhatsApp</a>
+            </div>
+        </div>
+    </div>
+
+    <section class="contact-section" id="contact">
+        <div class="contact-content">
+            <h2 data-i18n="nav.contact">Contact Us</h2>
+            <p>Our technical experts are ready to assist you with customized water treatment solutions. Reach out for OEM/ODM inquiries.</p>
+            <div class="contact-info">
+                <div class="info-item">Phone: +86-19908311885</div>
+                <div class="info-item">Email: expresswater025@gmail.com</div>
+                <div class="info-item">Location: Yuanhua Town, Haining, Zhejiang, China</div>
+            </div>
+        </div>
+        <div style="background: white; padding: 50px; border-radius: 2px;">
+            <h3 style="color: var(--primary); margin-bottom: 20px;">Direct Inquiry</h3>
+            <input type="text" placeholder="Full Name" style="width: 100%; padding: 15px; margin-bottom: 15px; border: 1px solid #eee;">
+            <input type="email" placeholder="Email Address" style="width: 100%; padding: 15px; margin-bottom: 15px; border: 1px solid #eee;">
+            <textarea placeholder="Your Message" rows="4" style="width: 100%; padding: 15px; margin-bottom: 25px; border: 1px solid #eee;"></textarea>
+            <button class="cta-btn" style="width: 100%;">Send Message</button>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Express Water | Eco Express Water. All Rights Reserved.</p>
+    </footer>
+
+    <a href="https://wa.me/8619908311885" class="wa-float">
+        <svg viewBox="0 0 24 24" width="35" height="35" fill="white"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.284l-.582 2.128 2.185-.573c.948.594 1.94.908 3.147.908 3.181 0 5.767-2.586 5.768-5.766 0-3.18-2.587-5.766-5.769-5.766zm3.23 7.843c-.164.464-.84.866-1.129.943-.289.077-.38.08-.114.114.342.049.771.072 1.246-.08.289-.092.659-.213 1.129-.418 1.989-.86 3.285-2.859 3.383-2.992.1-.133.81-1.072.81-2.049 0-.977-.509-1.456-.691-1.654a.729.729 0 0 0-.529-.247c-.133 0-.267.001-.38.007l-.36.012c-.124.007-.291.027-.442.34-.153.313-.522 1.272-.568 1.364-.046.092-.077.201-.016.324.061.123.092.201.183.313s.184.225.275.342c.092.115.192.241.084.426-.108.185-.478.789-1.022 1.274-.7.624-1.289.818-1.474.911-.185.093-.292.077-.4-.046-.108-.124-.464-.538-.588-.72-.124-.182-.247-.154-.415-.092s-1.066.503-1.25.594c-.185.093-.308.139-.37.247-.062.109-.062.631-.226 1.095z"/></svg>
+    </a>
+
+    <script>
+        const i18n = {
+            en: { "nav.products": "Products", "nav.contact": "Contact Us", "hero.title": "Industrial Water Excellence.", "hero.subtitle": "Advancing global water safety through NSF-certified precision engineering and innovative filtration solutions.", "hero.cta": "Explore Systems", "products.title": "Premier Collection", "products.subtitle": "High-performance filtration technology.", "modal.wa": "Inquire via WhatsApp" },
+            ru: { "nav.products": "Продукция", "nav.contact": "Контакты", "hero.title": "Промышленное качество.", "hero.subtitle": "Обеспечение безопасности воды во всем мире с помощью прецизионного машиностроения.", "hero.cta": "Каталог продукции", "products.title": "Премьер Коллекция", "products.subtitle": "Высокоэффективные технологии фильтрации.", "modal.wa": "Запрос через WhatsApp" },
+            es: { "nav.products": "Productos", "nav.contact": "Contacto", "hero.title": "Excelencia Industrial.", "hero.subtitle": "Impulsando la seguridad hídrica global mediante ingeniería de precisión y soluciones innovadoras.", "hero.cta": "Ver Sistemas", "products.title": "Colección Premier", "products.subtitle": "Tecnología de filtración de alto rendimiento.", "modal.wa": "Consultar por WhatsApp" },
+            ja: { "nav.products": "製品一覧", "nav.contact": "お問い合わせ", "hero.title": "産業用水の卓越性。", "hero.subtitle": "NSF認定の精密工学と革新的なろ過ソリューションを通じて、世界の水の安全を推進します。", "hero.cta": "システムを見る", "products.title": "プレミアコレクション", "products.subtitle": "高性能ろ過技術。", "modal.wa": "WhatsAppで問い合わせ" },
+            fr: { "nav.products": "Produits", "nav.contact": "Contact", "hero.title": "Excellence Industrielle.", "hero.subtitle": "Faire progresser la sécurité de l'eau grâce à l'ingénierie de précision et à la filtration innovante.", "hero.cta": "Explorer la gamme", "products.title": "Collection Premier", "products.subtitle": "Technologie de filtration haute performance.", "modal.wa": "Contact via WhatsApp" }
+        };
+
+        const products = [
+            { id: 1, name: "MT-900G Golden Dispenser", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=720,fit=crop/A85Dpv78OotyVQVx/ee2ae-3-4-copy-mePynXO7bpcqML47.png", desc: "Wall-mounted smart dispenser with 316L titanium gold heating element and 3s instant heat.", specs: {"Model": "MT-900G", "Heating": "316L Titanium Gold", "Speed": "3 Seconds", "Safety": "Child Lock / TDS Detect"} },
+            { id: 2, name: "Carbon Block Filter (CTO)", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=964,fit=crop/A85Dpv78OotyVQVx/img_5159-YNqDroMg44fBN0ZM.JPG", desc: "High-density extruded carbon block for maximum reduction of chlorine, taste, and odor.", specs: {"Rating": "5-10 Micron", "Media": "Activated Carbon", "Certification": "NSF/ANSI 42", "Life": "6-12 Months"} },
+            { id: 3, name: "PP Sediment Filter", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=964,fit=crop/A85Dpv78OotyVQVx/img_5159-YNqDroMg44fBN0ZM.JPG", desc: "Professional melt-blown polypropylene filter for efficient sediment removal (MG_9234 series).", specs: {"Material": "100% Polypropylene", "Rating": "1-5 Micron", "Usage": "Pre-filtration", "Temp": "5°C - 60°C"} },
+            { id: 4, name: "GAC/UDF Pre-Filter", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=964,fit=crop/A85Dpv78OotyVQVx/img_5160-mP4ZnZb0Zof3Xjye.JPG", desc: "Granular activated carbon filter designed to protect RO membranes from harsh chemicals (WeChatea9711c6 series).", specs: {"Type": "UDF Pre-Filter", "Media": "Premium Carbon", "Case": "Food Grade", "Flow": "High Flow Rate"} },
+            { id: 5, name: "Advanced RO System", img: "https://s.alicdn.com/@sc04/kf/Hd72b6d538a534249aa3d18f2eafbca99L.jpg_720x720.jpg", desc: "Clinical-grade 6-stage reverse osmosis system for ultra-pure water production (IMG_5846 series).", specs: {"Stages": "6-Stage Matrix", "Accuracy": "0.0001 Micron", "Membrane": "NSF Certified", "Pump": "Electric Booster"} },
+            { id: 6, name: "T33 Post Filter", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=721,fit=crop/A85Dpv78OotyVQVx/cto-coconut-shell-YbNb2474nyFVLqNo.jpg", desc: "Inline coconut shell carbon filter for polishing water taste and final purification (ed1b75 series).", specs: {"Media": "Coconut Shell", "Function": "Taste Polishing", "Connection": "1/4\" QC", "Life": "12 Months"} },
+            { id: 7, name: "SUS 304 C10 Housing", img: "https://sc02.alicdn.com/kf/A1457c99afbbe4d759541ba60adb95af4V.png", desc: "Premium food-grade 304 stainless steel housing for high-pressure industrial applications.", specs: {"Material": "SUS 304 Steel", "Size": "10\" Universal", "Pressure": "Up to 300 PSI", "Feature": "Corrosion Proof"} },
+            { id: 8, name: "MT-V-600 Vertical Hub", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=720,fit=crop/A85Dpv78OotyVQVx/e-600-bw-dWxeGeNwMWu0NzBY.png", desc: "Smart vertical dispenser with LED digital screen and large hot/cold tank capacity.", specs: {"Model": "MT-V-600", "Display": "LED Digital", "Power": "800W", "Dimensions": "320x390x1350mm"} },
+            { id: 9, name: "MT-DV-E600 1000W", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=721,fit=crop/A85Dpv78OotyVQVx/mt-dv-e600-mxBj0l5gB4U8pZwq.png", desc: "High-power vertical dispenser with 1000W heating element and advanced cooling core.", specs: {"Model": "MT-DV-E600", "Power": "1000W / 1KW", "Tank": "SUS 304", "Cooling": "Compressor/Elec"} },
+            { id: 10, name: "MT-V-E300A Office", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=721,fit=crop/A85Dpv78OotyVQVx/mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.png", desc: "Sleek floor-standing unit for office environments with dual temperature settings.", specs: {"Model": "MT-V-E300A", "Tank": "304 Stainless", "Hot Supply": "20L/H", "Inlet": "2/5 inch"} },
+            { id: 11, name: "Wall-Mounted Hub E500", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=886,fit=crop/A85Dpv78OotyVQVx/e500-png-dJoe8eobvjSVo8QG.png", desc: "Compact wall-mounted control hub for smart building filtration management.", specs: {"Type": "Smart Hub", "Feature": "Auto Flush", "Port": "Universal", "Life": "Industrial Grade"} },
+            { id: 12, name: "GAC Flat Cap Filter", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=721,fit=crop/A85Dpv78OotyVQVx/c1-2e2-1-copy-YD0r4gjVybULQ1pw.png", desc: "Universal flat cap granular carbon filter for leak-proof industrial performance.", specs: {"Gasket": "Silicon Rubber", "Media": "GAC Carbon", "Flow": "Maximized", "Fit": "10\" Standard"} },
+            { id: 13, name: "UDF Carbon Pre-Filter", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=721,fit=crop/A85Dpv78OotyVQVx/cto-AoPD54wvQgHGk10l.jpg", desc: "Primary stage carbon filter for removing bulk organic pollutants.", specs: {"Micron": "10 Micron", "Media": "Coal/Coconut Mix", "Housing": "Reinforced", "Safety": "SGS Tested"} },
+            { id: 14, name: "PVDF Ultrafiltration", img: "https://sc01.alicdn.com/kf/H76b692c55260410dbd67a742a247cecaI.jpg", desc: "Hollow fiber PVDF membrane for removing 99.9% of bacteria and viruses.", specs: {"Pore": "0.01 Micron", "Material": "PVDF", "Recovery": "90%", "Flow": "1000L/H"} },
+            { id: 15, name: "Resin Softener Cartridge", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=721,fit=crop/A85Dpv78OotyVQVx/cto-AoPD54wvQgHGk10l.jpg", desc: "Ion-exchange resin filter for removing scale-forming calcium and magnesium ions.", specs: {"Media": "Cation Resin", "Action": "Water Softening", "Life": "Rechargeable", "Fit": "Standard 10\""} },
+            { id: 16, name: "Coconut Shell CTO 20\"", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=721,fit=crop/A85Dpv78OotyVQVx/cto-coconut-shell-YbNb2474nyFVLqNo.jpg", desc: "Large 20-inch carbon block for whole-house or commercial filtration systems.", specs: {"Size": "20 x 2.5 Inch", "Iodine": "1100 mg/g", "Media": "100% Coconut", "Flow": "High Capacity"} },
+            { id: 17, name: "Silver-Loaded Carbon", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=721,fit=crop/A85Dpv78OotyVQVx/1676798780042-mxBzn2ovGlUabZgO.jpg", desc: "Specialized carbon filter with silver ions to prevent bacterial growth inside the filter.", specs: {"Feature": "Antibacterial", "Ions": "Ag+ Loaded", "Safety": "Food Grade", "Life": "6 Months"} },
+            { id: 18, name: "Commercial 800G RO", img: "https://s.alicdn.com/@sc04/kf/Hd72b6d538a534249aa3d18f2eafbca99L.jpg_720x720.jpg", desc: "High-volume 800 GPD reverse osmosis machine for restaurants and offices.", specs: {"Capacity": "800 GPD", "Membrane": "Industrial RO", "Frame": "Steel Hub", "Ratio": "1.5:1 Pure/Drain"} },
+            { id: 19, name: "Whole House Pre-Filter", img: "https://sc02.alicdn.com/kf/A1457c99afbbe4d759541ba60adb95af4V.png", desc: "Manual backwash pre-filter with SUS316L mesh for primary sediment protection.", specs: {"Model": "KA-G50D", "Mesh": "SUS316L", "Port": "3/4 inch", "Flow": "6T/H"} },
+            { id: 20, name: "PCO Specialty Filter", img: "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=721,fit=crop/A85Dpv78OotyVQVx/1676798780042-mxBzn2ovGlUabZgO.jpg", desc: "Photocatalytic oxidation technology for advanced organic molecule destruction.", specs: {"Tech": "PCO Oxidation", "UV": "UVC Integration", "Target": "VOCs / Viruses", "Grade": "Medical/Industrial"} }
+        ];
+
+        let currentLang = 'en';
+        function updateLang(l) {
+            currentLang = l;
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.dataset.i18n;
+                if (i18n[currentLang][key]) el.innerText = i18n[currentLang][key];
+            });
+            render();
+        }
+
+        function render() {
+            document.getElementById('productGrid').innerHTML = products.map(p => `
+                <div class="card" onclick="openModal(${p.id})">
+                    <img src="${p.img}" alt="${p.name}">
+                    <div class="card-body">
+                        <h3>${p.name}</h3>
+                        <p>${p.desc}</p>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function openModal(id) {
+            const p = products.find(x => x.id === id);
+            document.getElementById('mImg').src = p.img;
+            document.getElementById('mTitle').innerText = p.name;
+            document.getElementById('mDesc').innerText = p.desc;
+            document.getElementById('mSpecs').innerHTML = Object.entries(p.specs).map(([k, v]) => `
+                <tr><td class="spec-label">${k}</td><td>${v}</td></tr>
+            `).join('');
+            document.getElementById('modal').style.display = 'flex';
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeModal() {
+            document.getElementById('modal').style.display = 'none';
+            document.body.style.overflow = 'auto';
+        }
+
+        window.onclick = function(event) {
+            if (event.target == document.getElementById('modal')) closeModal();
+        }
+
+        updateLang('en');
+    </script>
+</body>
+</html>

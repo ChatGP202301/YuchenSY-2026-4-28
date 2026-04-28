@@ -1,0 +1,69 @@
+{
+  "company_name": "Haining Xinwei Machinery Metatecno(Chongqing)Technology Co.,LTD",
+  "brand_name": "Metatecno",
+  "website": "http://www.solarwaterheatermachinery.com",
+  "established": 1998,
+  "design": {
+    "vibe": "Industrial, professional, B2B engineering",
+    "color_scheme": ["Dark Grey", "White", "Red"],
+    "typography": "Sans-Serif",
+    "key_features": ["Sticky header", "YouTube integrations", "Multi-language support"]
+  },
+  "site_structure": [
+    "Home",
+    "About US",
+    "Product",
+    "FAQ",
+    "Inertial Sensor System(IMU)",
+    "Contact US"
+  ],
+  "products": [
+    {
+      "category": "Enamel Tank Production Line",
+      "description": "Corrosion protection technology for inner tanks using glass fusion."
+    },
+    {
+      "category": "Solar Water Heater Production Line",
+      "description": "Lines for automatic outer tank and pressurized inner tanks."
+    },
+    {
+      "category": "Solar Collectors",
+      "sub_types": ["Flat Plate", "Heat Pipe", "Commercial"]
+    },
+    {
+      "category": "Solar PV Mounting Structure",
+      "material": "Aluminum 6005-T5 & SUS 304"
+    }
+  ],
+  "services": [
+    "Full production line setup",
+    "Installation and Training",
+    "Technical Support",
+    "Enamel Tank Design"
+  ],
+  "contact": {
+    "phone": "+86-19908311885",
+    "whatsapp": "+8619908311885",
+    "email": "info@solarwaterheatermachinery.com",
+    "addresses": [
+      {
+        "type": "Factory",
+        "location": "#1 Chuangxin Road, Yuanhua, Haining, Zhejiang Province, China"
+      },
+      {
+        "type": "Operation Office",
+        "location": "No. 188, Beizhan East Road, Yubei Road Street, Chongqing, China"
+      },
+      {
+        "type": "Mexico Office",
+        "location": "Himno nacional 2500-f, col. Estadio C.P.78280 San Luis Potosí S.L.P., México"
+      }
+    ]
+  },
+  "key_images": [
+    "https://www.solarwaterheatermachinery.com/wp-content/uploads/2021/10/cropped-Screen-Shot-2021-01-01-at-8.56.14-PM-1-120x40.png",
+    "http://www.solarwaterheatermachinery.com/wp-content/uploads/2021/10/IMG_0963.jpg-%E6%8B%B7%E8%B4%9D-scaled.jpg",
+    "https://www.solarwaterheatermachinery.com/wp-content/uploads/2021/10/IMG_0269-1.jpg",
+    "https://www.solarwaterheatermachinery.com/wp-content/uploads/2021/10/E578D664-9460-43AE-B871-E28522213316-1608-000002AB870E91F9_tmp-1-1024x683.jpg"
+  ]
+}

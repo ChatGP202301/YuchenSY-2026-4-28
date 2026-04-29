@@ -4,35 +4,64 @@
 body { font-family:'Inter',sans-serif; background:var(--bg); color:var(--dark); line-height:1.6; }
 .container { max-width:1400px; margin:0 auto; padding:0 20px; }
 .header { background:#fff; border-bottom:1px solid var(--border); position:sticky; top:0; z-index:1000; height:100px; display:flex; align-items:center; }
-.logo img { height:75px; }
-.nav { margin-left:40px; display:flex; gap:25px; }
+.logo img { height:75px; width:auto; display:block; }
+.nav { margin-left:40px; display:flex; gap:25px; align-items:center; }
 .nav a { text-decoration:none; color:var(--dark); font-weight:600; font-size:1rem; transition:0.3s; }
-.nav a:hover { color:var(--accent); }
+.nav a:hover, .nav a.active { color:var(--accent); }
 .spacer { flex:1; }
 .cta { background:var(--primary); color:#fff; padding:12px 28px; border-radius:6px; text-decoration:none; font-weight:600; }
 .section { padding:80px 0; }
-.section-title { font-size:2.5rem; color:var(--primary); margin-bottom:40px; text-align:center; }
-.product-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(320px, 1fr)); gap:40px; }
-.product-card { background:#fff; border:1px solid var(--border); border-radius:12px; padding:30px; text-align:center; text-decoration:none; color:inherit; transition:0.3s; box-shadow:0 5px 15px rgba(0,0,0,0.02); }
-.product-card:hover { transform:translateY(-8px); box-shadow:0 20px 40px rgba(0,0,0,0.08); }
+.section-title { font-size:3rem; color:var(--primary); margin-bottom:60px; text-align:center; font-family:'Playfair Display',serif; }
+.product-grid { display:grid; grid-template-columns:repeat(4, 1fr); gap:40px; }
+.product-card { background:#fff; border:1px solid var(--border); border-radius:12px; padding:30px; text-align:center; text-decoration:none; color:inherit; transition:0.3s; display:flex; flex-direction:column; }
+.product-card:hover { transform:translateY(-8px); box-shadow:0 20px 40px rgba(0,0,0,0.08); border-color:var(--accent); }
 .product-img { height:280px; display:flex; align-items:center; justify-content:center; margin-bottom:20px; }
 .product-img img { max-width:100%; max-height:100%; object-fit:contain; }
-.footer { background:var(--primary); color:#fff; padding:80px 0; text-align:center; margin-top:100px; }
-.footer h4 { color:var(--accent); margin-bottom:20px; }
+.detail-grid { display:grid; grid-template-columns:1fr 1fr; gap:80px; align-items:start; }
+.detail-img { background:#fff; padding:60px; border-radius:20px; border:1px solid var(--border); position:sticky; top:120px; }
+.detail-img img { width:100%; height:auto; object-fit:contain; }
+.detail-info h1 { font-size:3.5rem; color:var(--primary); margin:20px 0; font-family:'Playfair Display',serif; }
+.detail-cat { color:var(--accent); text-transform:uppercase; letter-spacing:2px; font-weight:700; }
+.detail-desc { font-size:1.25rem; color:#555; margin-bottom:40px; line-height:1.8; }
+.specs-table { width:100%; border-collapse:collapse; margin-top:30px; }
+.specs-table td { padding:15px 0; border-bottom:1px solid #eee; }
+.specs-table td:first-child { font-weight:700; color:var(--primary); width:200px; }
+.footer { background:var(--primary); color:#fff; padding:80px 0; margin-top:100px; }
+.footer-grid { display:grid; grid-template-columns:2fr 1fr 1fr 1fr; gap:60px; text-align:left; }
+.footer h4 { color:var(--accent); margin-bottom:25px; }
+.footer ul { list-style:none; }
+.footer ul li { margin-bottom:12px; }
+.footer ul li a { color:rgba(255,255,255,0.7); text-decoration:none; transition:0.3s; }
+.footer ul li a:hover { color:#fff; }
+@media (max-width: 1200px) { .product-grid { grid-template-columns:repeat(2, 1fr); } .detail-grid { grid-template-columns:1fr; } .footer-grid { grid-template-columns:1fr; } }
 [dir="rtl"] { text-align:right; }
 [dir="rtl"] .nav { margin-left:0; margin-right:40px; flex-direction:row-reverse; }
+[dir="rtl"] .footer-grid { text-align:right; }
 </style></head><body>
-    <header class="header">
-        <div class="container" style="display:flex; align-items:center; width:100%;">
-            <a href="index.html" class="logo"><img src="../assets/logo.png"></a>
-            <nav class="nav">
-                <a href="index.html">Home</a>
-                <a href="about.html">About Us</a>
-                <a href="products.html">Products</a>
-                <a href="workshop.html">Workshop</a>
-                <a href="contact.html">Contact</a>
-            </nav>
-            <div class="spacer"></div>
-            <a href="https://wa.me/8619908311885" class="cta">WhatsApp</a>
+        <header class="header">
+            <div class="container" style="display:flex; align-items:center; width:100%;">
+                <a href="index.html" class="logo"><img src="../assets/logo.png" alt="Logo"></a>
+                <nav class="nav">
+                    <a href="index.html" class="">בית</a>
+                    <a href="about.html" class="">עלינו</a>
+                    <a href="products.html" class="">מוצרים</a>
+                    <a href="workshop.html" class="">סדנא</a>
+                    <a href="contact.html" class="active">צור קשר</a>
+                </nav>
+                <div class="spacer"></div>
+                <div style="display:flex; align-items:center; gap:20px;">
+                    <select onchange="window.location.href='../'+this.value+'/index.html'" style="padding:8px; border-radius:4px; border:1px solid var(--border);">
+                        <option value="en" >EN</option><option value="es" >ES</option><option value="ar" >AR</option><option value="pt" >PT</option><option value="fr" >FR</option><option value="de" >DE</option><option value="ru" >RU</option><option value="ja" >JA</option><option value="ko" >KO</option><option value="it" >IT</option><option value="nl" >NL</option><option value="tr" >TR</option><option value="vi" >VI</option><option value="th" >TH</option><option value="id" >ID</option><option value="ms" >MS</option><option value="pl" >PL</option><option value="sv" >SV</option><option value="no" >NO</option><option value="da" >DA</option><option value="fi" >FI</option><option value="he" selected>HE</option><option value="ta" >TA</option><option value="my" >MY</option><option value="km" >KM</option><option value="lo" >LO</option><option value="fa" >FA</option><option value="kk" >KK</option><option value="uz" >UZ</option><option value="ps" >PS</option><option value="sw" >SW</option><option value="ha" >HA</option><option value="zu" >ZU</option><option value="uk" >UK</option><option value="cs" >CS</option><option value="hu" >HU</option><option value="ro" >RO</option><option value="el" >EL</option>
+                    </select>
+                    <a href="https://wa.me/8619908311885" class="cta">שלחו לנו הודעה בוואטסאפ</a>
+                </div>
+            </div>
+        </header><section class='section'><div class='container'><h2 class='section-title'>צור קשר</h2><div style='background:#fff; padding:80px; border-radius:20px; text-align:center; border:1px solid var(--border); box-shadow:0 30px 60px rgba(0,0,0,0.03);'><h3 style='font-size:2.5rem; color:var(--primary);'>Global Wholesale & Inquiry</h3><p style='font-size:2rem; font-weight:700; color:var(--primary); margin:40px 0;'>WhatsApp: +86-19908311885</p><p style='font-size:1.4rem; opacity:0.7;'>Email: expresswater025@gmail.com</p></div></div></section>
+    <footer class="footer">
+        <div class="container footer-grid">
+            <div><h4>Eco Express Water</h4><p style="opacity:0.7;">Global bulk wholesale supplier of high-performance PP Melt Blown, CTO, GAC filters, and RO membranes. Since 1998, we provide NSF/ISO certified OEM/ODM...</p></div>
+            <div><h4>מוצרים</h4><ul><li><a href="products.html">Filter Cartridges</a></li><li><a href="products.html">RO Systems</a></li></ul></div>
+            <div><h4>עלינו</h4><ul><li><a href="about.html">About Us</a></li><li><a href="workshop.html">Workshop</a></li></ul></div>
+            <div><h4>צור קשר</h4><p style="opacity:0.7;">WhatsApp: +86-19908311885</p><p style="opacity:0.7;">Email: expresswater025@gmail.com</p></div>
         </div>
-    </header><section class='section'><div class='container'><h2 class='section-title'>Contact</h2><div style='background:#fff; padding:80px; border-radius:20px; text-align:center; border:1px solid var(--border); box-shadow:0 30px 60px rgba(0,0,0,0.03);'><h3 style='font-size:2.5rem; color:var(--primary);'>Global Wholesale & Inquiry</h3><p style='font-size:2rem; font-weight:700; color:var(--primary); margin:40px 0;'>WhatsApp: +86-19908311885</p><p style='font-size:1.4rem; opacity:0.7;'>Email: expresswater025@gmail.com</p><div style='margin-top:60px;'><a href='https://wa.me/8619908311885' class='cta' style='padding:25px 60px; font-size:1.2rem;'>Start Live Chat</a></div></div></div></section><footer class='footer'><div class='container'><h4>Eco Express Water (雨晨三溢)</h4><p>High-end Water Purification Factory & OEM/ODM Partner</p><p style='margin-top:20px; opacity:0.6;'>&copy; 2026 yuchensy.com. All Rights Reserved.</p></div></footer></body></html>
+    </footer></body></html>

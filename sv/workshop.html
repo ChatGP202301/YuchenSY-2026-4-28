@@ -1,0 +1,44 @@
+<!DOCTYPE html><html lang='sv' dir='ltr'><head><meta charset='UTF-8'><style>
+:root { --primary: #485342; --accent: #B5A48B; --bg: #F9F9F7; --dark: #1A1A1A; --border: #E5E5E0; }
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Inter',sans-serif; background:var(--bg); color:var(--dark); line-height:1.6; }
+.container { max-width:1400px; margin:0 auto; padding:0 20px; }
+.header { background:#fff; border-bottom:1px solid var(--border); position:sticky; top:0; z-index:1000; height:100px; display:flex; align-items:center; }
+.logo img { height:75px; }
+.nav { margin-left:40px; display:flex; gap:25px; }
+.nav a { text-decoration:none; color:var(--dark); font-weight:600; font-size:1rem; transition:0.3s; }
+.nav a:hover { color:var(--accent); }
+.spacer { flex:1; }
+.cta { background:var(--primary); color:#fff; padding:12px 28px; border-radius:6px; text-decoration:none; font-weight:600; }
+.section { padding:80px 0; }
+.section-title { font-size:2.5rem; color:var(--primary); margin-bottom:40px; text-align:center; }
+.product-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(320px, 1fr)); gap:40px; }
+.product-card { background:#fff; border:1px solid var(--border); border-radius:12px; padding:30px; text-align:center; text-decoration:none; color:inherit; transition:0.3s; box-shadow:0 5px 15px rgba(0,0,0,0.02); }
+.product-card:hover { transform:translateY(-8px); box-shadow:0 20px 40px rgba(0,0,0,0.08); }
+.product-img { height:280px; display:flex; align-items:center; justify-content:center; margin-bottom:20px; }
+.product-img img { max-width:100%; max-height:100%; object-fit:contain; }
+.footer { background:var(--primary); color:#fff; padding:80px 0; text-align:center; margin-top:100px; }
+.footer h4 { color:var(--accent); margin-bottom:20px; }
+[dir="rtl"] { text-align:right; }
+[dir="rtl"] .nav { margin-left:0; margin-right:40px; flex-direction:row-reverse; }
+</style></head><body>
+    <header class="header">
+        <div class="container" style="display:flex; align-items:center; width:100%;">
+            <a href="index.html" class="logo"><img src="../assets/logo.png"></a>
+            <nav class="nav">
+                <a href="index.html">Home</a>
+                <a href="about.html">About Us</a>
+                <a href="products.html">Products</a>
+                <a href="workshop.html">Workshop</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+            <div class="spacer"></div>
+            <a href="https://wa.me/8619908311885" class="cta">WhatsApp</a>
+        </div>
+    </header><section class='section'><div class='container'><h2 class='section-title'>Workshop</h2>
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:40px;">
+        <div style="text-align:center;"><img src="https://www.ecoexpresswater.com/wp-content/uploads/2022/08/PP-滤芯-生产线-1024x581.png" style="width:100%; border-radius:15px; margin-bottom:15px;"><h4>PP Filter Line</h4></div>
+        <div style="text-align:center;"><img src="https://www.ecoexpresswater.com/wp-content/uploads/2022/08/Carbon-Block-Filter碳棒生产-1024x577.png" style="width:100%; border-radius:15px; margin-bottom:15px;"><h4>Carbon Block Line</h4></div>
+        <div style="text-align:center;"><img src="https://www.ecoexpresswater.com/wp-content/uploads/2022/08/快接生产线-1024x571.png" style="width:100%; border-radius:15px; margin-bottom:15px;"><h4>Quick-connect Line</h4></div>
+        <div style="text-align:center;"><img src="https://www.ecoexpresswater.com/wp-content/uploads/2022/08/自动测漏机-1024x575.png" style="width:100%; border-radius:15px; margin-bottom:15px;"><h4>Automatic Leak Testing</h4></div>
+    </div></div></section><footer class='footer'><div class='container'><h4>Eco Express Water (雨晨三溢)</h4><p>High-end Water Purification Factory & OEM/ODM Partner</p><p style='margin-top:20px; opacity:0.6;'>&copy; 2026 yuchensy.com. All Rights Reserved.</p></div></footer></body></html>

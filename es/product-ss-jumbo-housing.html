@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang='es' dir='ltr'><head><meta charset='UTF-8'><style>
+:root { --primary: #485342; --accent: #B5A48B; --bg: #F9F9F7; --dark: #1A1A1A; --border: #E5E5E0; }
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Inter',sans-serif; background:var(--bg); color:var(--dark); line-height:1.6; }
+.container { max-width:1400px; margin:0 auto; padding:0 20px; }
+.header { background:#fff; border-bottom:1px solid var(--border); position:sticky; top:0; z-index:1000; height:100px; display:flex; align-items:center; }
+.logo img { height:75px; }
+.nav { margin-left:40px; display:flex; gap:25px; }
+.nav a { text-decoration:none; color:var(--dark); font-weight:600; font-size:1rem; transition:0.3s; }
+.nav a:hover { color:var(--accent); }
+.spacer { flex:1; }
+.cta { background:var(--primary); color:#fff; padding:12px 28px; border-radius:6px; text-decoration:none; font-weight:600; }
+.section { padding:80px 0; }
+.section-title { font-size:2.5rem; color:var(--primary); margin-bottom:40px; text-align:center; }
+.product-grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(320px, 1fr)); gap:40px; }
+.product-card { background:#fff; border:1px solid var(--border); border-radius:12px; padding:30px; text-align:center; text-decoration:none; color:inherit; transition:0.3s; box-shadow:0 5px 15px rgba(0,0,0,0.02); }
+.product-card:hover { transform:translateY(-8px); box-shadow:0 20px 40px rgba(0,0,0,0.08); }
+.product-img { height:280px; display:flex; align-items:center; justify-content:center; margin-bottom:20px; }
+.product-img img { max-width:100%; max-height:100%; object-fit:contain; }
+.footer { background:var(--primary); color:#fff; padding:80px 0; text-align:center; margin-top:100px; }
+.footer h4 { color:var(--accent); margin-bottom:20px; }
+[dir="rtl"] { text-align:right; }
+[dir="rtl"] .nav { margin-left:0; margin-right:40px; flex-direction:row-reverse; }
+</style></head><body>
+    <header class="header">
+        <div class="container" style="display:flex; align-items:center; width:100%;">
+            <a href="index.html" class="logo"><img src="../assets/logo.png"></a>
+            <nav class="nav">
+                <a href="index.html">Inicio</a>
+                <a href="about.html">Nosotros</a>
+                <a href="products.html">Productos</a>
+                <a href="workshop.html">Taller</a>
+                <a href="contact.html">Contacto</a>
+            </nav>
+            <div class="spacer"></div>
+            <a href="https://wa.me/8619908311885" class="cta">WhatsApp</a>
+        </div>
+    </header><div class='container' style='padding:80px 0; display:grid; grid-template-columns:1fr 1fr; gap:80px; align-items:center;'><div style='background:#fff; padding:60px; border-radius:20px; border:1px solid var(--border); box-shadow:0 10px 30px rgba(0,0,0,0.02);'><img src='../assets/products/ss-jumbo-housing-v4.png' style='width:100%; object-fit:contain; max-height:500px;'></div><div><p style='color:var(--accent); font-weight:700; text-transform:uppercase;'>Housing</p><h1 style='font-size:3.5rem; color:var(--primary); margin:20px 0;'>SS Industrial Jumbo Filter Housing</h1><p style='font-size:1.3rem; color:#555; margin-bottom:50px; line-height:1.8;'>Heavy-duty 304/316L stainless steel jumbo filter housing. <br><br> Industrial-grade manufacturing with strict QC and global certifications. Customizable for wholesale and OEM distribution.</p><a href='https://wa.me/8619908311885' class='cta' style='display:inline-block; padding:22px 50px; font-size:1.1rem;'>Inquiry via WhatsApp</a></div></div><footer class='footer'><div class='container'><h4>Eco Express Water (雨晨三溢)</h4><p>High-end Water Purification Factory & OEM/ODM Partner</p><p style='margin-top:20px; opacity:0.6;'>&copy; 2026 yuchensy.com. All Rights Reserved.</p></div></footer></body></html>

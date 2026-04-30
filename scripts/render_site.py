@@ -20,7 +20,7 @@ from templates import (
     navbar_html, footer_html
 )
 
-I18N_DIR = os.path.join(ROOT, "assets 15.45.13/i18n")
+I18N_DIR = os.path.join(ROOT, "assets/i18n")
 FAQ_DIR = os.path.join(ROOT, "scripts/faq_i18n")
 
 UI_DEFAULTS = {

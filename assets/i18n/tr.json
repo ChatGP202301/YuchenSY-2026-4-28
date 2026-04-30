@@ -9,647 +9,666 @@
     "cta_whatsapp": "WhatsApp",
     "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
     "topbar_email": "✉ <a href=\"mailto:expresswater025@gmail.com\">expresswater025@gmail.com</a>",
-    "topbar_tag": "Global Bulk Wholesale · OEM/ODM Specialist · Since 1998",
-    "hero_eyebrow": "✦ Leading China Water Filter Manufacturer | NSF & ISO Certified Factory",
-    "hero_title": "Industrial-Grade Water Purification & OEM Solutions",
-    "hero_desc": "Global bulk wholesale supplier of high-performance PP Melt Blown, CTO, GAC filters, and RO membranes. Since 1998, we provide NSF/ISO certified OEM/ODM technical support for 50+ countries.",
-    "hero_btn_explore": "Ürünleri Keşfedin",
-    "hero_btn_quote": "Teklif Alın",
-    "stats_years": "Yıllık Deneyim",
-    "stats_models": "Ürün Modelleri",
-    "stats_countries": "Hizmet Verilen Ülkeler",
+    "topbar_tag": "Küresel Toptan Satış · OEM/ODM Uzmanı · 1998'den Beri",
+    "hero_eyebrow": "✦ Lider Çin Su Filtresi Üreticisi | NSF ve ISO Sertifikalı Fabrika",
+    "hero_title": "Endüstriyel Sınıf Su Arıtma ve OEM Çözümleri",
+    "hero_desc": "Yüksek performanslı PP Melt Blown, CTO, GAC filtreleri ve RO membranlarının küresel toptan tedarikçisi. 1998'den beri 50'den fazla ülke için NSF/ISO sertifikalı OEM/ODM teknik desteği sağlıyoruz.",
+    "hero_btn_explore": "Fabrika Portföyünü Görüntüle",
+    "hero_btn_quote": "Toptan Teklif İste",
+    "stats_years": "Yıllık Tecrübe",
+    "stats_models": "Ürün Modeli",
+    "stats_countries": "Hizmet Verilen Ülke",
     "stats_area": "Üretim Alanı",
     "about_eyebrow": "Hakkımızda",
-    "about_title": "Su Filtrasyonunda 20 Yılı Aşkın Mükemmellik",
-    "about_desc": "Eco Express Water, su arıtma için filtre malzemeleri ve filtre ekipmanları konusunda uzmanlaşmış yüksek teknolojiye sahip bir çevre koruma kuruluşudur. 1998 yılında kurulan ürünlerimiz; araştırma ve geliştirme, üretim, pazarlamadan teknik desteğe kadar tüm süreci entegre eder. Şirketimiz Zhejiang Eyaleti, Haining Şehri, Yuanhua Kasabası'nda yer almaktadır. Birinci sınıf teknik uzman ekibimiz, entegre fonksiyonel orta test/genişletme testi ve büyük ölçekli bir üretim merkezimiz bulunmaktadır. Malezya, Endonezya ve diğer Müslüman ülkelerdeki Müslüman tüketicilerin benzersiz ihtiyaçlarını karşılayan sertifikalı bir Helal su filtresi tedarikçisiyiz.",
+    "about_title": "20 Yılı Aşkın Su Filtrasyon Mükemmelliği",
+    "about_desc": "Eco Express Water, su arıtma için filtre malzemeleri ve filtre ekipmanları konusunda uzmanlaşmış bir yüksek teknoloji çevre koruma kuruluşudur. 1998 yılında kurulan ürünlerimiz, Ar-Ge, üretim, pazarlamadan teknik desteğe kadar tüm süreci entegre eder. Şirketimiz Zhejiang Eyaleti, Haining Şehri'nde yer almaktadır. Birinci sınıf teknik uzman ekibimiz ve büyük ölçekli bir üretim merkezimiz bulunmaktadır. Malezya, Endonezya ve diğer ülkelerdeki Müslüman tüketicilerin ihtiyaçlarını karşılayan sertifikalı helal su filtresi tedarikçisiyiz.",
     "about_feat_1": "1998'de Kuruldu – Yirmi yılı aşkın üretim uzmanlığı",
     "about_feat_2": "Tam dikey entegrasyon: Ar-Ge, Üretim, Kalite Kontrol, Lojistik",
-    "about_feat_3": "NSF, ISO, CE, and Halal certified manufacturing center",
-    "about_feat_4": "Professional OEM/ODM technical support for global brands",
-    "about_feat_5": "Haining, Zhejiang'da yerleşik – Çin'in su filtrasyon merkezi",
+    "about_feat_3": "NSF, ISO, CE ve Helal sertifikalı üretim merkezi",
+    "about_feat_4": "Küresel markalar için profesyonel OEM/ODM teknik desteği",
+    "about_feat_5": "Haining, Zhejiang'da – Çin'in su filtrasyon merkezi",
     "why_eyebrow": "Neden Biz?",
     "why_title": "Güvenilir Üretim Ortağı",
-    "why_desc": "Hammaddeden son kontrole kadar her ürün, titiz kalite kontrol sistemimizden geçer.",
+    "why_desc": "Hammaddeden son muayeneye kadar her ürün titiz kalite kontrol sistemimizden geçer.",
     "why_card1_title": "Sertifikalı Kalite",
-    "why_card1_desc": "Ürettiğimiz her parti tarafından desteklenen NSF / ISO / CE / Helal sertifikaları.",
+    "why_card1_desc": "Ürettiğimiz her partide NSF / ISO / CE / Helal sertifikaları.",
     "why_card2_title": "OEM / ODM Hazır",
     "why_card2_desc": "Pazarınıza uygun özel markalama, paketleme ve ürün özellikleri.",
-    "why_card3_title": "Tesis İçi Üretim",
-    "why_card3_desc": "PP, Karbon, Hızlı bağlantı ve Sızdırmazlık Testini kapsayan 4 özel üretim hattı.",
+    "why_card3_title": "Kendi Üretimimiz",
+    "why_card3_desc": "PP, Karbon, Hızlı Bağlantı ve Sızdırmazlık Testi dahil 4 özel üretim hattı.",
     "why_card4_title": "Dünya Çapında Nakliye",
-    "why_card4_desc": "50'den fazla ülkeye yerleşik ihracat lojistiği ile 7-15 gün teslim süresi.",
+    "why_card4_desc": "50'den fazla ülkeye yerleşik ihracat lojistiği ile 7–15 gün teslim süresi.",
     "products_eyebrow": "Ürünlerimiz",
     "products_title": "Eksiksiz Su Filtrasyon Portföyü",
-    "products_desc": "İnline kartuşlardan dikey sebillere ve eksiksiz RO sistemlerine kadar 8 kategoride 42 model.",
+    "products_desc": "Hat içi kartuşlardan dikey sebillere ve eksiksiz RO sistemlerine kadar 8 kategoride 42 model.",
     "cat_all": "Tüm Ürünler",
-    "product_view_details": "Detayları Görüntüle",
+    "product_view_details": "Detayları Gör",
     "workshop_eyebrow": "Üretim",
     "workshop_title": "Atölyemizin İçinden",
-    "workshop_desc": "4 özel üretim hattı: PP filtre, Karbon blok, Hızlı bağlantı inline ve otomatik sızıntı tespiti.",
+    "workshop_desc": "4 özel üretim hattı: PP filtre, Karbon blok, Hızlı bağlantı ve Otomatik sızıntı tespiti.",
     "workshop_pp": "PP Filtre Üretim Hattı",
     "workshop_carbon": "Karbon Blok Filtre Üretimi",
     "workshop_quick": "Hızlı Bağlantı Filtre Üretimi",
     "workshop_leak": "Otomatik Sızıntı Testi",
     "exhibition_eyebrow": "Fuarlar",
-    "exhibition_title": "Küresel Fuarlar",
-    "exhibition_desc": "AquaTech Shanghai ve diğer önemli sektör etkinliklerinde ekibimizle tanışın.",
+    "exhibition_title": "Küresel Sergi Faaliyetleri",
+    "exhibition_desc": "AquaTech Shanghai ve diğer büyük endüstri etkinliklerinde ekibimizle tanışın.",
     "exhibition_aqua1": "AquaTech Shanghai Standı",
     "exhibition_aqua2": "AquaTech Shanghai Sergisi",
-    "exhibition_show": "Ticaret Fuarı Standı",
+    "exhibition_show": "Sergi Standı",
     "exhibition_customers": "Fuar Müşterileri",
     "contact_eyebrow": "İletişime Geçin",
     "contact_title": "Birlikte İnşa Edelim",
-    "contact_desc": "Bize projenizden bahsedin. Satış mühendislerimiz 24 saat içinde yanıt verir.",
+    "contact_desc": "Projenizden bahsedin. Satış mühendislerimiz 24 saat içinde yanıt verecektir.",
     "contact_address_label": "Fabrika Adresi",
-    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_address": "1# Chuangxin Yolu, Yuanhua Kasabası, Haining, Zhejiang, Çin",
     "contact_phone_label": "Telefon / WhatsApp",
     "contact_email_label": "E-posta Adresi",
-    "form_title": "Soru Gönder",
-    "form_sub": "Özellikleriniz için detaylı bir teklif alın.",
+    "form_title": "Teklif İste",
+    "form_sub": "Detaylı teklif alın.",
     "form_name": "Adınız",
-    "form_email": "E-posta Adresi",
-    "form_company": "Şirket Adı",
-    "form_msg": "Mesaj / Özellikler",
-    "form_btn": "Soru Gönder",
-    "footer_brand_desc": "Leading China manufacturer of water filtration solutions since 1998. Specialized in PP Melt Blown, CTO Carbon Block, GAC, and RO membranes for global bulk wholesale and OEM/ODM partners.",
+    "form_email": "E-posta Adresiniz",
+    "form_company": "Şirket",
+    "form_msg": "Mesaj",
+    "form_btn": "Gönder",
+    "footer_brand_desc": "1998'den beri lider Çinli su filtrasyon çözümleri üreticisi. Küresel toptan ve OEM/ODM ortaklıkları için PP Melt Blown, CTO Karbon Blok, GAC ve RO membranlarında uzman.",
     "footer_products": "Ürünler",
     "footer_company": "Şirket",
     "footer_contact": "İletişim",
     "footer_rights": "Tüm hakları saklıdır.",
     "modal_specs_title": "Teknik Özellikler",
-    "modal_btn_wa": "WhatsApp ile Sor",
-    "modal_btn_email": "E-posta ile Sor"
+    "modal_btn_wa": "WhatsApp",
+    "modal_btn_email": "Email"
   },
   "categories": {
     "Filter Cartridge": "Filtre Kartuşu",
-    "Filter Housing": "Filtre Kabı",
+    "Filter Housing": "Filtre Muhafazası",
     "Flat Cap Filter": "Düz Kapaklı Filtre",
     "Industrial Filter": "Endüstriyel Filtre",
-    "Inline Filter": "İnline Filtre",
+    "Inline Filter": "Sıralı Filtre",
     "RO System": "RO Sistemi",
-    "Water Dispenser": "Su Sebili",
+    "Water Dispenser": "Water Dispenser",
     "Water Purifier": "Su Arıtma Cihazı"
   },
   "products": [
     {
       "id": "alkaline-purifier",
-      "name": "Alkaline Water Purifier System",
+      "name": "Alkali Su Arıtma Sistemi",
       "category": "Water Purifier",
-      "desc": "Produces alkaline water by increasing pH levels and adding essential minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "pH seviyelerini yükselterek ve temel mineralleri ekleyerek alkali su üretir. Fabrika doğrudan tedariği, OEM/ODM özelleştirilebilir. Endüstriyel ve ticari su arıtma için NSF/ISO sertifikalı.",
       "specs": {
-        "Type": "Alkaline",
-        "pH range": "8.5 - 9.5"
-      }
+        "Filtrasyon Aşamaları": "Çok aşamalı (PP + GAC + UF / RO)",
+        "Günlük Çıkış": "100 L/gün'e kadar (evsel) – 1.000 L/gün (ticari)",
+        "Malzeme": "Gıda sınıfı FDA onaylı PP / ABS / SUS 304",
+        "Çalışma Basıncı": "0.1 – 0.4 MPa",
+        "Çalışma Sıcaklığı": "5°C – 45°C",
+        "Sertifikalar": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "Garanti": "Gövde ve elektroniklerde 12 – 24 ay",
+        "Uygulama": "Ev, restoran, okul, otel, endüstriyel ticari kullanım",
+        "Tip": "Alkali",
+        "pH aralığı": "8.5 - 9.5",
+        "Fonksiyon": "Mineralizasyon",
+        "Avantajlar": "Gelişmiş tat, sağlık"
+      },
+      "image": "../assets/products/alkaline-purifier.png"
     },
     {
       "id": "antibacterial-mineralization",
-      "name": "Antibacterial Mineralization Filter Cartridge",
+      "name": "Antibakteriyel Mineralizasyon Filtre Kartuşu",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.png",
-      "desc": "Effectively removes harmful bacteria and viruses and adds beneficial minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Zararlı bakteri ve virüsleri etkili bir şekilde temizler ve faydalı mineraller ekler. Fabrika tedariği, OEM/ODM özelleştirilebilir.",
       "specs": {
-        "Function": "Antibacterial + Mineralization"
+        "Gövde": "Gıda sınıfı PE / PP tek parça mühürlü gövde",
+        "Bağlantı": "1/4\" veya 3/8\" Hızlı Bağlantı",
+        "Filtrasyon Ortamı": "Hindistan cevizi kabuğu karbonu / KDF / Maifan taşı / mineral topları",
+        "Maksimum Çalışma Basıncı": "0.6 MPa (87 psi)",
+        "Hizmet Ömrü": "12 ay / 6.000 L",
+        "Çalışma Sıcaklığı": "5°C – 38°C",
+        "Sertifikalar": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Mevcut · özel logo baskısı · MOQ 2.000 adet",
+        "Fonksiyon": "Mineralizasyon",
+        "Avantajlar": "Gelişmiş tat, sağlık"
       },
-      "image_local": "assets/products/antibacterial-mineralization_antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.jpg"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "big-blue-3stage",
-      "name": "30-inch Three Stage Big Blue Water Filter",
+      "name": "30 İnç Üç Aşamalı Big Blue Su Filtresi",
       "category": "Filter Housing",
-      "image": "assets/products/2.png",
-      "desc": "Three-stage filtration: PP filter (large particles), RO membrane (heavy metals, bacteria, viruses), CTO Carbon Block (chlorine, taste). Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Temiz ve güvenli su sağlamak için tasarlanmış üç aşamalı Big Blue filtre. PP, RO ve CTO filtreleri ile kirleticileri giderir.",
       "specs": {
-        "Size": "30 inches",
-        "Stages": "3",
-        "Type": "Big Blue"
+        "Gövde Malzemesi": "Takviyeli FDA sınıfı PP / SUS 304 / SUS 316L paslanmaz çelik",
+        "Kapak Malzemesi": "ABS / PP / SUS 304",
+        "Giriş/Çıkış": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Maksimum Çalışma Basıncı": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "Hidrostatik Test": "Anma basıncının 1.5 katı",
+        "Çalışma Sıcaklığı": "1°C – 50°C",
+        "Sertifikalar": "NSF, FDA, ISO 9001:2015, CE",
+        "Sızdırmazlık": "Gıda sınıfı silikon O-ringler",
+        "Boyut": "30 inç",
+        "Aşamalar": "3 (PP, RO, CTO)",
+        "Tip": "Big Blue",
+        "Marka": "Eco Express Water"
       },
-      "image_local": "assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg"
+      "image": "../assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg"
     },
     {
       "id": "carbon-block",
-      "name": "CTO Coconut Shell CTO Carbon Block Filter Cartridge",
+      "name": "Hindistan Cevizi Kabuğu CTO Aktif Karbon Blok Filtre Kartuşu",
       "category": "Filter Cartridge",
-      "image": "assets/products/1.png",
-      "desc": "Coconut shell activated carbon with high iodine value (1000) for effective purification. 10 inches length, 2.5 inch outer diameter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Karbon blok filtremiz, klor ve VOC gideriminde benzersiz performans için tescilli aktif karbon ve sinterlenmiş hindistan cevizi kabuğu karışımı kullanır.",
       "specs": {
-        "Iodine": "1000",
-        "Material": "Coconut Carbon",
-        "Size": "10×2.5 inch"
+        "Malzeme": "Aktif karbon ve sinterlenmiş hindistan cevizi kabuğu",
+        "Filtrasyon Hassasiyeti": "1 µm / 5 µm / 10 µm",
+        "Standart Uzunluk": "10\" / 20\"",
+        "Çalışma Sıcaklığı": "5°C – 45°C",
+        "Maksimum Çalışma Basıncı": "0.4 MPa (60 psi)",
+        "Hizmet Ömrü": "3 – 12 ay",
+        "Sertifikalar": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Mevcut · MOQ 1.000 adet",
+        "İyot": "1000",
+        "Boyut": "10×2.5 inç",
+        "Teknoloji": "Gelişmiş Karbon Blok",
+        "Giderim": "Klor, VOC'ler, tortu"
       },
-      "image_local": "assets/products/carbon-block_carbon-block-filter-copy.jpg"
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
     },
     {
       "id": "carbon-block-2",
-      "name": "Compressed Activated CTO Carbon Block",
+      "name": "Sıkıştırılmış Aktif CTO Karbon Blok",
       "category": "Industrial Filter",
-      "image": "assets/products/3.png",
-      "desc": "High-density compressed carbon block for superior chlorine and VOC removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Klor ve organik bileşiklerin üstün giderimi için yüksek yoğunluklu karbon blok filtre.",
       "specs": {
-        "Density": "High",
-        "Removes": "Chlorine, VOCs"
+        "Malzeme": "Aktif karbon ve sinterlenmiş hindistan cevizi kabuğu",
+        "Uzunluk Seçenekleri": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtrasyon Derecesi": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "Uç Kapak Tipi": "DOE / SOE 222 / SOE 226",
+        "Maksimum Çalışma Basıncı": "0.6 MPa (87 psi)",
+        "Maksimum Çalışma Sıcaklığı": "60°C",
+        "Sertifikalar": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Uygulama": "Endüstriyel ön filtrasyon, RO işlemi, yiyecek ve içecek",
+        "Yoğunluk": "Yüksek",
+        "Giderim": "Klor, VOC'ler, tortu"
       },
-      "image_local": "assets/products/carbon-block-2_wechatimg25674-mk3lrNoaEaUvnLg7.jpeg"
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
     },
     {
       "id": "carbon-block-industrial",
-      "name": "Industrial High-Flow CTO Carbon Block Filter",
+      "name": "Yüksek Akışlı Endüstriyel CTO Karbon Blok Filtre",
       "category": "Industrial Filter",
-      "image": "assets/products/4.png",
-      "desc": "Industrial-grade activated carbon block filter for high-flow chemical absorption applications. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Yüksek akış ve verimli kimyasal safsızlık giderimi gerektiren endüstriyel uygulamalar için tasarlanmıştır.",
       "specs": {
-        "Type": "Carbon Block",
-        "Industry": "Industrial"
+        "Malzeme": "Aktif karbon ve sinterlenmiş hindistan cevizi kabuğu",
+        "Uzunluk Seçenekleri": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtrasyon Derecesi": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "Uç Kapak Tipi": "DOE / SOE 222 / SOE 226",
+        "Sertifikalar": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Uygulama": "Endüstriyel kullanım, RO sistemi ön arıtma",
+        "Tip": "Karbon Blok",
+        "Endüstri": "Endüstriyel",
+        "Teknoloji": "Gelişmiş Karbon Blok",
+        "Giderim": "Klor, VOC'ler, tortu"
       },
-      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
     },
     {
       "id": "ceramic-filter",
-      "name": "Ceramic Filter Cartridge",
+      "name": "Seramik Filtre Kartuşu",
       "category": "Filter Cartridge",
-      "image": "assets/products/5.png",
-      "desc": "High-quality ceramic filter cartridge for removing fine particles and bacteria. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "İnce partiküllerin ve bakterilerin giderilmesi için yüksek kaliteli seramik kartuş. Yıkanabilir ve tekrar kullanılabilir.",
       "specs": {
-        "Filtration": "0.2μm",
-        "Type": "Ceramic"
+        "Malzeme": "Gıda sınıfı Polipropilen / Aktif Karbon",
+        "Filtrasyon Hassasiyeti": "0.2 µm",
+        "Standart Uzunluk": "10\" / 20\"",
+        "Çalışma Sıcaklığı": "5°C – 45°C",
+        "Sertifikalar": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS",
+        "Tip": "Seramik"
       },
-      "image_local": "assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png"
+      "image": "../assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png"
     },
     {
       "id": "filter-combo",
-      "name": "Multi-Stage Filter Cartridge Combination",
+      "name": "Çok Aşamalı Filtre Kartuşu Kombinasyonu",
       "category": "Filter Cartridge",
-      "image": "assets/products/filter-combo-v3.png",
-      "desc": "Combination of various filter cartridges designed for multi-stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Eksiksiz çok aşamalı arıtma için özelleştirilmiş kartuş seti.",
       "specs": {
-        "Stages": "3–5",
-        "Combination": "Custom"
+        "Aşamalar": "3–5",
+        "Kombinasyon": "Özel",
+        "Teknoloji": "Gelişmiş Karbon Blok",
+        "Giderim": "Klor, VOC'ler, tortu"
       },
-      "image_local": "assets/products/filter-combo_Filter-cartridge-combination-copy.jpg"
+      "image": "../assets/products/filter-combo.png"
     },
     {
       "id": "flat-cap-cto",
-      "name": "Flat Cap CTO Carbon Block Filter",
+      "name": "Düz Kapaklı CTO Karbon Blok Filtre",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676798539834-dOqM8JyQL5fj99OO.jpg",
-      "desc": "Compressed Activated Carbon Block filter with flat cap connection for universal compatibility with standard housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Evrensel uyumluluk için düz kapak bağlantılı sıkıştırılmış karbon blok filtre.",
       "specs": {
-        "Type": "CTO",
-        "Cap": "Flat Cap"
+        "Kapak Tipi": "Düz Kapak",
+        "Uzunluk": "10\" standart",
+        "Çap": "65 mm – 70 mm",
+        "Sertifikalar": "NSF/ANSI 42 & 53, FDA",
+        "Süreç": "Fotokatalitik oksidasyon",
+        "Giderim": "Bakteriler, virüsler, klor"
       },
-      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
     },
     {
       "id": "flat-cap-gac",
-      "name": "Flat Cap GAC Filter",
+      "name": "Düz Kapaklı GAC Filtre",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/a13apsudf-mp8MqXBP8ptD7oab.jpg",
-      "desc": "Universal GAC filter with Flat Cap connection. Made with silicon rubber flat cap. Effectively removes chlorine, sediment, and other contaminants. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Silikon kauçuk düz kapak bağlantılı evrensel GAC filtre.",
       "specs": {
-        "Cap": "Silicon Rubber Flat Cap",
-        "Material": "GAC"
+        "Malzeme": "GAC",
+        "Kapak Tipi": "Silikon Kauçuk Düz Kapak",
+        "Giderim": "Bakteriler, virüsler, klor"
       },
-      "image_local": "assets/products/flat-cap-gac_a13apsudf-mp8MqXBP8ptD7oab.jpg"
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
     },
     {
       "id": "flat-cap-pp",
-      "name": "Flat Cap PP Melt Blown Sediment Filter",
+      "name": "Düz Kapaklı PP Melt Blown Tortu Filtresi",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676799952716-A0x3EWL3l7teXEKl.jpg",
-      "desc": "Polypropylene melt-blown sediment filter with flat cap design. Designed for use in standard 10\" filter housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Standart 10 inç kaplar için tasarlanmış polipropilen melt-blown filtre.",
       "specs": {
-        "Type": "PP Melt-blown",
-        "Cap": "Flat Cap"
+        "Tip": "PP Melt-blown",
+        "Kapak Tipi": "Düz Kapak"
       },
-      "image_local": "assets/products/flat-cap-pp_1676799952716-A0x3EWL3l7teXEKl.jpg"
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
     },
     {
       "id": "housing-filter",
-      "name": "Eco Express Water Housing Filter",
+      "name": "Eco Express Water Filtre Kabı",
       "category": "Filter Housing",
-      "image": "assets/products/6.png",
-      "desc": "Carbon block filter using activated carbon compressed into a block. Removes chlorine, chloramines, pesticides, and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Karbon blok filtreler ve diğer filtre elemanları için sağlam kap.",
       "specs": {
-        "Type": "Carbon Block Housing",
-        "Connector": "Various"
+        "Gövde Malzemesi": "Takviyeli PP / SUS 304",
+        "Boyut": "30 inç",
+        "Tip": "Karbon Blok Kabı"
       },
-      "image_local": "assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg"
+      "image": "../assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg"
     },
     {
       "id": "inline-cation-resin",
-      "name": "Inline Cation Resin Filter Cartridge",
+      "name": "Hat İçi Katyonik Reçine Filtre Kartuşu",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.png",
-      "desc": "Softens water by removing hard minerals such as calcium and magnesium, reducing scale buildup in appliances. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Kalsiyum ve magnezyum gibi sert mineralleri gidererek suyu yumuşatır.",
       "specs": {
-        "Function": "Water Softening",
-        "Resin": "Cation Exchange"
+        "Fonksiyon": "Su Yumuşatma",
+        "Reçine": "Katyon Değişimi"
       },
-      "image_local": "assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-pp",
-      "name": "Inline PP Cartridge",
+      "name": "Hat İçi PP Kartuş",
       "category": "Inline Filter",
-      "image": "assets/products/7.png",
-      "desc": "Inline polypropylene sediment filter for compact water purification systems. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Kompakt sistemler için hat içi polipropilen tortu filtresi.",
       "specs": {
-        "Material": "Polypropylene",
-        "Filtration": "5μm"
+        "Malzeme": "Polipropilen",
+        "Filtrasyon": "5µm"
       },
-      "image_local": "assets/products/inline-pp_PP-filter-copy.jpg"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-small-mol",
-      "name": "Small Molecule Antibacterial Mineralization Filter",
+      "name": "Küçük Molekül Antibakteriyel Mineralizasyon Filtresi",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSyVBbJ.png",
-      "desc": "Advanced filtration removing harmful bacteria and viruses while adding beneficial minerals to water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Bakterileri temizlerken suyu mineralize eden gelişmiş filtrasyon.",
       "specs": {
-        "Function": "Antibacterial + Mineralization",
-        "Connector": "Quick-connect"
+        "Fonksiyon": "Mineralizasyon",
+        "Bağlantı": "Hızlı Bağlantı"
       },
-      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-t33-coconut",
-      "name": "T33 Coconut Shell Carbon Inline Filter",
+      "name": "Hindistan Cevizi Kabuğu Karbon T33 Hat İçi Filtre",
       "category": "Inline Filter",
-      "image": "assets/products/8.png",
-      "desc": "Post-filter T33 inline cartridge with premium coconut shell activated carbon for taste polishing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Tat iyileştirme için premium hindistan cevizi kabuğu karbonlu T33 son filtre kartuşu.",
       "specs": {
-        "Carbon": "Coconut Shell",
-        "Position": "Post-filter"
+        "Karbon": "Hindistan Cevizi Kabuğu",
+        "Konum": "Son filtre"
       },
-      "image_local": "assets/products/inline-t33-coconut_wechatimg25674-m7V2npvka6TLValG.jpeg"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-t33-mineral",
-      "name": "Mineralized Small T33 Inline Water Filter",
+      "name": "Mineralize T33 Hat İçi Su Filtresi",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png",
-      "desc": "Improves taste and odor by removing chlorine and adding beneficial minerals to water for improved health and hydration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Faydalı mineraller ekleyerek tadı ve kokuyu iyileştirir.",
       "specs": {
-        "Function": "Mineralization + Polishing",
-        "Connector": "Quick-connect"
+        "Fonksiyon": "Mineralizasyon",
+        "Bağlantı": "Hızlı Bağlantı"
       },
-      "image_local": "assets/products/inline-t33-mineral_mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "maifan-inline",
-      "name": "Maifan Stone Inline Filter",
+      "name": "Maifan Taşı Hat İçi Filtre",
       "category": "Inline Filter",
-      "image": "assets/products/maifan-inline-v4.png",
-      "desc": "Inline filter containing Maifan stones to mineralize water and improve taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Suyu mineralize etmek ve tadı iyileştirmek için Maifan taşları içeren filtre.",
       "specs": {
-        "Mineral": "Maifan Stone",
-        "Function": "Mineralization"
+        "Mineral": "Maifan Taşı",
+        "Fonksiyon": "Mineralizasyon"
       },
-      "image_local": "assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg"
+      "image": "../assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg"
     },
     {
       "id": "mid-filter",
-      "name": "Medium Size Water Filter w/ Copper Connector",
+      "name": "Bakır Konnektörlü Orta Boy Su Filtresi",
       "category": "Filter Cartridge",
-      "image": "assets/products/9.png",
-      "desc": "Medium-sized water filter cartridge featuring a copper connector for robust installation and performance. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Sağlam kurulum ve performans için bakır konnektörlü orta boy kartuş.",
       "specs": {
-        "Size": "Medium",
-        "Connector": "Copper"
+        "Boyut": "Orta",
+        "Bağlantı": "Bakır"
       },
-      "image_local": "assets/products/mid-filter_MG_9234-scaled.jpg"
+      "image": "../assets/products/mid-filter_MG_9234-scaled.jpg"
     },
     {
       "id": "mineral-inline",
-      "name": "Inline Mineral Filter",
+      "name": "Hat İçi Mineral Filtre",
       "category": "Inline Filter",
-      "image": "assets/products/mineral-inline-v4.png",
-      "desc": "Adds essential minerals back into purified water to enhance health benefits and taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Arıtılmış suya temel mineralleri geri kazandırır.",
       "specs": {
-        "Function": "Mineralization",
-        "Adds": "Ca/Mg/K minerals"
+        "Fonksiyon": "Mineralizasyon",
+        "Ekleme": "Ca/Mg/K Mineralleri"
       },
-      "image_local": "assets/products/mineral-inline_Mineral-Filter-copy.jpg"
+      "image": "../assets/products/mineral-inline_Mineral-Filter-copy.jpg"
     },
     {
       "id": "mt-600dg",
-      "name": "Dark Green Water Dispenser MT-600DG",
+      "name": "Koyu Yeşil Su Sebili MT-600DG",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.png",
-      "desc": "Wall-mounted pipeline water dispenser with sleek modern design in unique dark green color. Saves floor space and provides continuous supply of clean water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Modern koyu yeşil tasarımlı duvara monte su sebili.",
       "specs": {
-        "Mount": "Wall-mounted",
-        "Color": "Dark Green",
-        "Power": "2200W"
+        "Montaj": "Duvara Monte",
+        "Renk": "Koyu Yeşil",
+        "Güç": "2200W",
+        "Isıtma": "3 saniye anında"
       },
-      "image_local": "assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg"
+      "image": "../assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg"
     },
     {
       "id": "mt-900g",
-      "name": "Golden Color Water Dispenser MT-900G",
+      "name": "Altın Su Sebili MT-900G",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ee2ae-3-4-m5KPNbPPwluQy8no.png",
-      "desc": "Wall-mounted pipeline water dispenser with 5 stages of water volume (150ml–850ml) and 5 levels of water temperature (25°C–100°C). 316L titanium gold stainless steel heating element. Child safety lock. Premium golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Altın cam panelli ve emniyet kilitli premium sebil.",
       "specs": {
-        "Power": "2200W",
-        "Volume": "5 stages 150–850ml",
-        "Temperature": "25–100°C",
-        "Material": "316L Stainless Steel"
+        "Güç": "2200W",
+        "Hacim": "5 kademeli 150–850ml",
+        "Sıcaklık": "25–100°C",
+        "Malzeme": "316L Paslanmaz Çelik"
       },
-      "image_local": "assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg"
+      "image": "../assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg"
     },
     {
       "id": "mt-b600",
-      "name": "White Color Water Dispenser MT-B600",
+      "name": "Beyaz Su Sebili MT-B600",
       "category": "Water Dispenser",
-      "image": "assets/products/mt-b600-white.png",
-      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power and fast 3-second heating. Whole glass panel with matte spray plastic parts. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "3 saniye anında ısıtma özellikli beyaz cam panel modeli.",
       "specs": {
-        "Power": "2200W",
-        "Hot Output": "3 seconds",
-        "Color": "White Glass Panel"
+        "Güç": "2200W",
+        "Renk": "Beyaz Cam Panel"
       },
-      "image_local": "assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg"
+      "image": "../assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg"
     },
     {
       "id": "mt-dv-e600",
-      "name": "1000W Vertical Water Dispenser MT-DV-E600",
+      "name": "1000W Dikey Su Sebili MT-DV-E600",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-dv-e600-mxBj0l5gB4U8pZwq.png",
-      "desc": "High-power vertical water dispenser with 304 stainless steel tank and 1KW heating power. LED digital screen. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "304 paslanmaz çelik tanklı yüksek güçlü dikey model.",
       "specs": {
-        "Power": "1000W",
-        "Tank": "304 Stainless Steel",
-        "Display": "LED Digital"
+        "Güç": "1000W",
+        "Tank": "304 Paslanmaz Çelik",
+        "Ekran": "Dijital LED"
       },
-      "image_local": "assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg"
+      "image": "../assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg"
     },
     {
       "id": "mt-e600",
-      "name": "Wall Mounted Water Dispenser MT-E600",
+      "name": "Duvara Monte Su Sebili MT-E600",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/e-600-bw-dWxeGeNwMWu0NzBY.png",
-      "desc": "Black & white dual-color wall-mounted pipeline water dispenser. Compact, energy-saving, with multi-stage water output. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Çok kademeli su çıkışlı kompakt siyah/beyaz tasarım.",
       "specs": {
-        "Mount": "Wall-mounted",
-        "Color": "Black/White"
+        "Montaj": "Duvara Monte",
+        "Renk": "Siyah/Beyaz"
       },
-      "image_local": "assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg"
+      "image": "../assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg"
     },
     {
       "id": "mt-s800",
-      "name": "Golden Color Water Dispenser MT-S800",
+      "name": "Altın Su Sebili MT-S800",
       "category": "Water Dispenser",
-      "image": "assets/products/mt-s800-golden.png",
-      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power. Fast 3-second hot water output. 5 stages water volume and temperature adjustment. Golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "3 saniye hızlı sıcak su çıkışı ve 5 kademeli ayar.",
       "specs": {
-        "Power": "2200W",
-        "Hot Output": "3 seconds",
-        "Color": "Golden Glass Panel"
+        "Güç": "2200W",
+        "Renk": "Altın Cam Panel"
       },
-      "image_local": "assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg"
+      "image": "../assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg"
     },
     {
       "id": "mt-v-e300a",
-      "name": "Vertical Water Dispenser MT-V-E300A",
+      "name": "Dikey Su Sebili MT-V-E300A",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.png",
-      "desc": "Vertical floor-standing water dispenser with 304 stainless steel water tank and multiple water outlet options. Black/White design. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Paslanmaz çelik tanklı modern tasarımlı dikey model.",
       "specs": {
-        "Type": "Vertical",
-        "Tank": "304 Stainless Steel",
-        "Color": "Black/White"
+        "Tip": "Dikey",
+        "Tank": "304 Paslanmaz Çelik"
       },
-      "image_local": "assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg"
+      "image": "../assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg"
     },
     {
       "id": "post-t33",
-      "name": "Post T33 Inline Carbon Filter",
+      "name": "Post T33 Hat İçi Karbon Filtre",
       "category": "Inline Filter",
-      "image": "assets/products/post-t33-v4.png",
-      "desc": "Post-filtration inline carbon filter for polishing water taste and removing residual odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Son aşama tat parlatma ve kalıntı koku giderme filtresi.",
       "specs": {
-        "Position": "Final stage",
-        "Material": "Activated Carbon"
+        "Konum": "Son aşama",
+        "Material": "Hindistan cevizi kabuğu karbonu"
       },
-      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg"
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg"
     },
     {
       "id": "pp-fin-cap",
-      "name": "PP Melt Blown Filter with Fin End Cap",
+      "name": "Fin Uç Kapaklı PP Melt Blown Filtre",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
-      "desc": "Industrial PP cartridge with a fin-style end cap for secure, leak-free seating in housing units. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Pürüzsüz veya oluklu yüzey seçenekli endüstriyel PP filtreler.",
       "specs": {
-        "End Cap": "Fin Type",
-        "Material": "Polypropylene"
+        "Malzeme": "Polipropilen",
+        "Uç Kapak Tipi": "Fin",
+        "Boyut": "10\" – 50\""
       },
-      "image_local": "assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg"
+      "image": "../assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg"
     },
     {
       "id": "pp-silicon-ring",
-      "name": "PP Melt Blown Filter with Silicon Ring",
+      "name": "Silikon Halkalı PP Melt Blown Filtre",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
-      "desc": "PP filter cartridge equipped with food-grade silicon sealing ring for high-reliability sealing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Gıda sınıfı silikon halkalı endüstriyel polipropilen filtre.",
       "specs": {
-        "Ring": "Food-grade Silicon",
-        "Material": "Polypropylene"
+        "Halka": "Gıda Sınıfı Silikon",
+        "Tip": "DOE veya SOE"
       },
-      "image_local": "assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg"
+      "image": "../assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg"
     },
     {
       "id": "pp-soe-doe",
-      "name": "Industrial PP Melt Blown Sediment Filter (SOE/DOE)",
+      "name": "Endüstriyel PP Tortu Filtresi (SOE/DOE)",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.png",
-      "desc": "Industrial-grade PP melt-blown filter, available in SOE (Single Open End) and DOE (Double Open End) configurations. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "SOE ve DOE konfigürasyonlarında mevcut endüstriyel filtre.",
       "specs": {
-        "Type": "SOE/DOE",
-        "Material": "Polypropylene",
-        "Industry": "Industrial"
+        "Tip": "DOE veya SOE",
+        "Endüstri": "Endüstriyel"
       },
-      "image_local": "assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg"
+      "image": "../assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg"
     },
     {
       "id": "pp-spun",
-      "name": "PP Melt Blown Sediment Filter Cartridge",
+      "name": "PP Melt Blown Tortu Filtre Kartuşu",
       "category": "Filter Cartridge",
-      "image": "assets/products/pp-spun-v4.png",
-      "desc": "Melt-blown 100% pure polypropylene microfibers. Removes rust, silt, scale, sediment, dirt. Available in 10/20/30/40 inches. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "%100 saf polipropilen mikrolifler. Pas, mil ve tortu giderir.",
       "specs": {
-        "Material": "100% Polypropylene",
-        "Sizes": "10–40 inch",
-        "Removes": "Sediment 5μm"
+        "Malzeme": "%100 Polipropilen",
+        "Boyutlar": "10–40 inç",
+        "Giderim": "5µm Tortu"
       },
-      "image_local": "assets/products/pp-spun_PP-Spun-Filter-copy.jpg"
+      "image": "../assets/products/pp-spun_PP-Spun-Filter-copy.jpg"
     },
     {
       "id": "ppf-cartridge",
-      "name": "PP Melt BlownF Polypropylene Fiber Cartridge",
+      "name": "PPF Polipropilen Elyaf Kartuş",
       "category": "Filter Cartridge",
-      "image": "assets/products/ppf-cartridge-v4.png",
-      "desc": "Polypropylene fiber filter cartridge for sediment removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Verimli tortu giderimi için polipropilen elyaf kartuş.",
       "specs": {
-        "Material": "PP Fiber",
-        "Function": "Sediment"
+        "Malzeme": "PP Elyaf",
+        "Fonksiyon": "Tortu"
       },
-      "image_local": "assets/products/ppf-cartridge_PPF-Filter-copy.jpg"
+      "image": "../assets/products/ppf-cartridge_PPF-Filter-copy.jpg"
     },
     {
       "id": "pre-udf",
-      "name": "Pre-UDF Activated Carbon Cartridge",
+      "name": "Pre-UDF Aktif Karbon Kartuş",
       "category": "Filter Cartridge",
-      "image": "assets/products/pre-udf-v4.png",
-      "desc": "Pre-filtration granular activated carbon cartridge to protect downstream membranes. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Sonraki membranları korumak için granül aktif karbon kartuş.",
       "specs": {
-        "Position": "Pre-filter",
-        "Material": "GAC"
+        "Malzeme": "GAC",
+        "Konum": "Ön filtre"
       },
-      "image_local": "assets/products/pre-udf_Pre-UDF-Filter-copy.jpg"
+      "image": "../assets/products/pre-udf_Pre-UDF-Filter-copy.jpg"
     },
     {
       "id": "resin-filter",
-      "name": "Ion-Exchange Resin Filter",
+      "name": "İyon Değiştirici Reçine Filtre",
       "category": "Filter Cartridge",
-      "image": "assets/products/10.png",
-      "desc": "Ion-exchange resin cartridge for water softening and removal of heavy metals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Su yumuşatma ve ağır metal giderimi için reçine kartuşu.",
       "specs": {
-        "Function": "Water Softening",
-        "Removes": "Ca/Mg/Heavy Metals"
+        "Fonksiyon": "Su Yumuşatma",
+        "Giderim": "Ca/Mg/Ağır Metaller"
       },
-      "image_local": "assets/products/resin-filter_WeChat48b644654d6e0f5e709716ba2298b556-889x1024.png"
+      "image": "../assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
     },
     {
       "id": "ro-membrane",
-      "name": "Reverse Osmosis (RO) Membrane Element Element",
+      "name": "Ters Ozmoz (RO) Membran Elemanı",
       "category": "Filter Cartridge",
-      "image": "assets/products/ro-membrane-v4.png",
-      "desc": "Reverse osmosis membrane cartridge — the core component of RO systems for desalination and purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Yerçekimi beslemeli RO sistemleri için yüksek performanslı membran.",
       "specs": {
-        "Type": "RO TFC Membrane",
-        "Capacity": "75/100/400 GPD"
+        "Kapasite": "75/100/400 GPD",
+        "Tip": "Yerçekimi beslemeli"
       },
-      "image_local": "assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg"
+      "image": "../assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg"
     },
     {
       "id": "ro-membrane-400g",
-      "name": "400GPD High-Flow Reverse Osmosis (RO) Membrane Element",
+      "name": "400GPD Yüksek Akışlı RO Membran Elemanı",
       "category": "RO System",
-      "desc": "High-capacity reverse osmosis membrane for residential and light commercial water purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Pompasız sistemler için yüksek kapasiteli RO membran.",
       "specs": {
-        "Capacity": "400 GPD",
-        "Type": "Dry Membrane"
-      }
+        "Kapasite": "400 GPD",
+        "Tuz Reddi Oranı": "≥ 96% – 99%"
+      },
+      "image": "../assets/products/ro-membrane-400g.png"
     },
     {
       "id": "ro-undersink",
-      "name": "Under-Sink Reverse Osmosis Water Filter",
+      "name": "Tezgah Altı Ters Ozmoz Su Filtresi",
       "category": "RO System",
-      "image": "assets/products/11.png",
-      "desc": "Gravity-fed RO system relying on incoming water pressure to push water through the RO membrane. Multi-stage: sediment filter, carbon filter, RO membrane. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Giriş su basıncına dayalı çok aşamalı RO sistemi.",
       "specs": {
-        "Stages": "Multi-stage",
-        "Type": "No Pump Required",
-        "Membrane": "RO 75GPD"
+        "Aşamalar": "Çok aşamalı",
+        "Membran": "RO 75GPD"
       },
-      "image_local": "assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg"
+      "image": "../assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg"
     },
     {
       "id": "ss-jumbo-housing",
-      "name": "304/316L Paslanmaz Çelik Endüstriyel Jumbo Filtre Muhafazası",
-      "category": "Filtre Muhafazası",
-      "image": "assets/products/ss-jumbo-housing-v4.png",
-      "desc": "10 inç ve 20 inç boyutlarında mevcut olan ağır hizmet tipi 304 paslanmaz çelik muhafaza. UF membranları, PP tortu filtreleri ve Karbon Blok filtrelerle uyumludur. Yüksek debili uygulamalar için idealdir. Toptan fabrika teslimi, OEM/ODM için özelleştirilebilir. Endüstriyel ve ticari su arıtma için NSF/ISO sertifikalıdır.",
+      "name": "304/316L Paslanmaz Çelik Endüstriyel Jumbo Filtre Kabı",
+      "category": "Filter Housing",
+      "desc": "Yüksek akışlı uygulamalar için ideal ağır hizmet tipi paslanmaz çelik kap.",
       "specs": {
-        "Material": "304 Stainless Steel",
-        "Size": "10\" / 20\" Jumbo",
-        "Compatibility": "PP, Carbon, UF",
-        "Type": "High-Pressure"
+        "Malzeme": "304 Paslanmaz Çelik",
+        "Boyut": "30 inç",
+        "Uyumluluk": "PP, Karbon, UF"
       },
-      "image_local": "assets/products/ss_jumbo_housing.jpg"
+      "image": "../assets/products/ss-jumbo-housing-v4.png"
     },
     {
       "id": "t33-post",
-      "name": "T33 Post Filter Cartridge",
+      "name": "T33 Son Filtre Kartuşu",
       "category": "Inline Filter",
-      "image": "assets/products/t33-post-v4.png",
-      "desc": "High-quality post-carbon filter for final stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Arıtmanın son aşaması için yüksek kaliteli karbon filtre.",
       "specs": {
-        "Position": "Post-filter",
-        "Function": "Polishing"
+        "Fonksiyon": "Parlatma",
+        "Material": "Hindistan cevizi kabuğu karbonu"
       },
-      "image_local": "assets/products/t33-post_T33-post-Filter-copy.jpg"
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg"
     },
     {
       "id": "udf-cartridge",
-      "name": "GAC Granular Activated Carbon (UDF) Filter Cartridge",
+      "name": "Granül Aktif Karbon (UDF) Filtre Kartuşu",
       "category": "Filter Cartridge",
-      "image": "assets/products/udf-cartridge-v4.png",
-      "desc": "Standard 10-inch GAC filter from high iodine value carbon. Reduces chlorine, organic chemicals, unnatural tastes and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Yüksek iyot değerli standart 10 inç GAC filtre.",
       "specs": {
-        "Type": "GAC",
-        "Size": "10 inch",
-        "Iodine": "1000"
+        "Tip": "GAC",
+        "İyot": "1000"
       },
-      "image_local": "assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg"
+      "image": "../assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg"
     },
     {
       "id": "uf-cartridge",
-      "name": "Ultrafiltration (UF) Cartridge",
+      "name": "Ultrafiltrasyon (UF) Kartuşu",
       "category": "Filter Cartridge",
-      "image": "assets/products/uf-cartridge-v3.png",
-      "desc": "Hollow-fiber ultrafiltration membrane cartridge for removing bacteria, viruses, and colloidal matter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Bakteri ve virüs giderimi için içi boş elyaf membran.",
       "specs": {
-        "Membrane": "Hollow Fiber",
-        "Filtration": "0.01μm"
+        "Membran": "İçi Boş Elyaf",
+        "Filtrasyon": "0.01µm"
       },
-      "image_local": "assets/products/uf-cartridge_Ultra-FilterUF-copy.jpg"
+      "image": "../assets/products/uf-cartridge.png"
     },
     {
       "id": "uf-filter-2",
-      "name": "UF Hollow Fiber Filter",
+      "name": "UF İçi Boş Elyaf Filtre",
       "category": "Filter Cartridge",
-      "image": "assets/products/uf-filter-2-v4.png",
-      "desc": "Ultrafiltration cartridge for fine suspended-solids removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "İnce askıda katı maddelerin giderimi için ultrafiltrasyon kartuşu.",
       "specs": {
-        "Material": "Hollow Fiber",
-        "Removes": "Bacteria"
+        "Giderim": "Bakteriler"
       },
-      "image_local": "assets/products/uf-filter-2_UF-Filter-copy.jpg"
+      "image": "../assets/products/uf-filter-2_UF-Filter-copy.jpg"
     },
     {
       "id": "ultra-film",
-      "name": "Ultra Film Filter Cartridge",
+      "name": "Ultra Film Filtre Kartuşu",
       "category": "Filter Cartridge",
-      "image": "assets/products/ultra-film-v4.png",
-      "desc": "Advanced ultrafiltration film cartridge for high-efficiency filtration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Yüksek verimlilik için gelişmiş ultrafiltrasyon film kartuşu.",
       "specs": {
-        "Type": "Ultra Film",
-        "Filtration": "0.01μm"
+        "Tip": "Ultra Film",
+        "Filtrasyon": "0.01µm"
       },
-      "image_local": "assets/products/ultra-film_Ultra-Film-Filter-copy.jpg"
+      "image": "../assets/products/ultra-film_Ultra-Film-Filter-copy.jpg"
     },
     {
       "id": "uv-purifier",
-      "name": "Three Stage Plus UV Water Purifier",
+      "name": "Üç Aşamalı Su Arıtıcı Artı UV",
       "category": "Water Purifier",
-      "image": "assets/products/12.png",
-      "desc": "Three-stage water purification system enhanced with UV sterilization for superior water safety. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Maksimum güvenlik için UV-C sterilizasyonuna sahip arıtma sistemi.",
       "specs": {
-        "Stages": "3 + UV",
-        "Sterilization": "UV-C"
+        "Sterilizasyon": "UV-C",
+        "Tip": "Yerçekimi beslemeli"
       },
-      "image_local": "assets/products/12.png"
+      "image": "../assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg"
     },
     {
       "id": "water-purifier-maifan",
-      "name": "Maifan Stone Mineralizing Purifier",
+      "name": "Maifan Taşı Mineralize Edici Arıtıcı",
       "category": "Water Purifier",
-      "desc": "Multi-stage purifier featuring Maifan stone for mineralization and improved water quality. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Su kalitesini artırmak için Maifan taşı içeren çok aşamalı arıtıcı.",
       "specs": {
-        "Mineral": "Maifan Stone",
-        "Stages": "5-Stage"
-      }
+        "Mineral": "Maifan Taşı",
+        "Aşamalar": "5 Aşamalı"
+      },
+      "image": "../assets/products/water-purifier-maifan.png"
     }
   ]
 }

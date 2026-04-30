@@ -1,84 +1,84 @@
 {
   "ui": {
-    "nav_home": "홈",
-    "nav_products": "제품 정보",
+    "nav_home": "Home",
+    "nav_products": "Products",
     "nav_about": "회사 소개",
-    "nav_workshop": "제조 현장",
-    "nav_exhibition": "전시회",
-    "nav_contact": "문의하기",
+    "nav_workshop": "워크숍",
+    "nav_exhibition": "Exhibitions",
+    "nav_contact": "Contact",
     "cta_whatsapp": "WhatsApp 문의",
     "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
     "topbar_email": "✉ <a href=\"mailto:expresswater025@gmail.com\">expresswater025@gmail.com</a>",
-    "topbar_tag": "Global Bulk Wholesale · OEM/ODM Specialist · Since 1998",
-    "hero_eyebrow": "✦ Leading China Water Filter Manufacturer | NSF & ISO Certified Factory",
-    "hero_title": "Industrial-Grade Water Purification & OEM Solutions",
-    "hero_desc": "Global bulk wholesale supplier of high-performance PP Melt Blown, CTO, GAC filters, and RO membranes. Since 1998, we provide NSF/ISO certified OEM/ODM technical support for 50+ countries.",
-    "hero_btn_explore": "제품 둘러보기",
-    "hero_btn_quote": "견적 요청하기",
+    "topbar_tag": "글로벌 도매 · OEM/ODM 전문가 · 1998년 설립",
+    "hero_eyebrow": "✦ 중국 선도 수처리 필터 제조사 | NSF & ISO 인증 공장",
+    "hero_title": "산업용 수처리 및 OEM 솔루션",
+    "hero_desc": "고성능 PP 멜트블로운, CTO, GAC 필터 및 RO 멤브레인 글로벌 도매 공급업체. 1998년부터 50개국 이상에 NSF/ISO 인증 OEM/ODM 기술 지원을 제공하고 있습니다.",
+    "hero_btn_explore": "공장 포트폴리오 보기",
+    "hero_btn_quote": "도매 견적 요청",
     "stats_years": "경력 년수",
     "stats_models": "제품 모델 수",
-    "stats_countries": "수출 국가 수",
-    "stats_area": "제조 시설 면적",
+    "stats_countries": "서비스 국가",
+    "stats_area": "제조 면적",
     "about_eyebrow": "회사 소개",
     "about_title": "20년 이상의 수처리 필터 전문성",
-    "about_desc": "Eco Express Water는 수질 정화를 위한 필터 소재 및 장비를 전문으로 하는 하이테크 환경 보호 기업입니다. 1998년에 설립된 당사의 제품은 연구 개발, 제조, 마케팅에서 기술 지원에 이르기까지 전 과정을 통합합니다. 당사는 중국 절강성 하이닝시 위안화진에 위치하고 있습니다. 일류 기술 전문가 팀, 통합 기능 중간 테스트/확장 테스트 시설 및 대규모 제조 센터를 보유하고 있습니다. 당사는 말레이시아, 인도네시아 및 기타 이슬람 국가의 무슬림 소비자의 고유한 요구 사항을 충족하는 할랄 인증 정수 필터 공급업체입니다.",
-    "about_feat_1": "1998년 설립 – 20년 이상의 제조 전문성 보유",
-    "about_feat_2": "수직적 통합 체계: R&D, 제조, 품질 관리(QC), 물류",
-    "about_feat_3": "NSF, ISO, CE, and Halal certified manufacturing center",
-    "about_feat_4": "Professional OEM/ODM technical support for global brands",
-    "about_feat_5": "중국 수처리 필터 산업의 중심지인 절강성 하이닝 위치",
+    "about_desc": "Eco Express Water는 수처리를 위한 필터 소재 및 장비를 전문으로 하는 하이테크 환경 보호 기업입니다. 1998년에 설립되어 R&D, 제조, 마케팅부터 기술 지원까지 전 과정을 통합 관리합니다. 중국 저장성 하이닝시 위안화진에 위치하고 있으며, 일류 기술 전문가 팀과 대규모 제조 센터를 보유하고 있습니다. 말레이시아, 인도네시아 등 이슬람 국가의 요구를 충족하는 할랄 인증 필터 공급업체이기도 합니다.",
+    "about_feat_1": "1998년 설립 – 20년 이상의 제조 노하우",
+    "about_feat_2": "수직 통합 시스템: R&D, 제조, 품질 관리, 물류",
+    "about_feat_3": "NSF, ISO, CE 및 할랄 인증 제조 센터",
+    "about_feat_4": "글로벌 브랜드를 위한 전문 OEM/ODM 기술 지원",
+    "about_feat_5": "중국 수처리 필터 산업의 중심지 저장성 하이닝 위치",
     "why_eyebrow": "선택 이유",
     "why_title": "신뢰할 수 있는 제조 파트너",
-    "why_desc": "원재료부터 최종 검사까지 모든 제품은 당사의 엄격한 품질 관리 시스템을 거칩니다.",
+    "why_desc": "원자재부터 최종 검사까지 모든 제품은 당사의 엄격한 품질 관리 시스템을 통과합니다.",
     "why_card1_title": "인증된 품질",
-    "why_card1_desc": "모든 생산 배치에 대해 NSF / ISO / CE / Halal 인증을 통해 품질을 보증합니다.",
-    "why_card2_title": "OEM / ODM 지원",
-    "why_card2_desc": "귀하의 시장에 맞춘 커스텀 브랜딩, 패키징 및 제품 사양을 제공합니다.",
-    "why_card3_title": "자체 생산 시설",
-    "why_card3_desc": "PP, 카본, 퀵 커넥트 및 누수 테스트를 포함한 4개의 전용 생산 라인 보유.",
+    "why_card1_desc": "모든 생산 배치에 대해 NSF / ISO / CE / 할랄 인증을 보장합니다.",
+    "why_card2_title": "OEM / ODM 맞춤화",
+    "why_card2_desc": "귀하의 시장에 맞춘 브랜드, 패키징 및 제품 사양을 제공합니다.",
+    "why_card3_title": "자체 생산 라인",
+    "why_card3_desc": "PP, 카본, 퀵커넥트 및 누수 테스트를 포함한 4개의 전용 생산 라인.",
     "why_card4_title": "전 세계 배송",
-    "why_card4_desc": "리드 타임 7~15일 및 50개국 이상의 기구축된 수출 물류망.",
-    "products_eyebrow": "주요 제품",
-    "products_title": "포괄적인 수처리 필터 포트폴리오",
-    "products_desc": "인라인 카트리지부터 스탠드형 정수기 및 완전한 RO 시스템까지 8개 카테고리 42개 모델 보유.",
-    "cat_all": "전체 제품",
+    "why_card4_desc": "7~15일의 리드 타임과 50개국 이상으로의 수출 물류 시스템 구축.",
+    "products_eyebrow": "제품 안내",
+    "products_title": "완벽한 수처리 필터 포트폴리오",
+    "products_desc": "인라인 카트리지부터 정수기, RO 시스템까지 8개 카테고리 42개 모델.",
+    "cat_all": "모든 제품",
     "product_view_details": "상세 보기",
-    "workshop_eyebrow": "제조 공정",
-    "workshop_title": "제조 현장 안내",
-    "workshop_desc": "PP 필터, 카본 블록, 퀵 커넥트 인라인 및 자동 누수 감지의 4가지 전문 생산 라인.",
+    "workshop_eyebrow": "제조 시설",
+    "workshop_title": "제조 현장 내부",
+    "workshop_desc": "PP 필터, 카본 블록, 퀵커넥트 인라인 및 자동 누수 탐지 등 4개의 전문 생산 라인.",
     "workshop_pp": "PP 필터 생산 라인",
     "workshop_carbon": "카본 블록 필터 생산",
-    "workshop_quick": "퀵 커넥트 필터 생산",
+    "workshop_quick": "퀵커넥트 필터 생산",
     "workshop_leak": "자동 누수 테스트",
-    "exhibition_eyebrow": "전시회 정보",
-    "exhibition_title": "글로벌 전시회 참가",
-    "exhibition_desc": "AquaTech Shanghai 및 기타 주요 산업 전시회에서 당사 팀을 만나보세요.",
+    "exhibition_eyebrow": "Trade Shows",
+    "exhibition_title": "글로벌 전시 활동",
+    "exhibition_desc": "AquaTech Shanghai 및 기타 주요 산업 행사에서 당사 팀을 만나보세요.",
     "exhibition_aqua1": "AquaTech Shanghai 부스",
     "exhibition_aqua2": "AquaTech Shanghai 전시품",
-    "exhibition_show": "산업 전시회 부스",
-    "exhibition_customers": "전시회 방문 고객",
-    "contact_eyebrow": "문의하기",
+    "exhibition_show": "전시회 부스",
+    "exhibition_customers": "전시회 고객",
+    "contact_eyebrow": "Get in Touch",
     "contact_title": "함께 비즈니스를 구축합시다",
-    "contact_desc": "진행 중인 프로젝트에 대해 알려주세요. 영업 엔지니어가 24시간 이내에 답변해 드립니다.",
+    "contact_desc": "프로젝트에 대해 알려주시면 영업 엔지니어가 24시간 이내에 답변해 드립니다.",
     "contact_address_label": "공장 주소",
-    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
+    "contact_address": "중국 저장성 하이닝시 위안화진 창신로 1호",
     "contact_phone_label": "전화 / WhatsApp",
     "contact_email_label": "이메일 주소",
-    "form_title": "문의 보내기",
-    "form_sub": "상세 사양에 대한 견적을 요청하세요.",
-    "form_name": "성함",
+    "form_title": "문의하기",
+    "form_sub": "견적을 요청하세요.",
+    "form_name": "Your Name",
     "form_email": "이메일 주소",
     "form_company": "회사명",
-    "form_msg": "메시지 / 사양",
-    "form_btn": "문의 보내기",
-    "footer_brand_desc": "Leading China manufacturer of water filtration solutions since 1998. Specialized in PP Melt Blown, CTO Carbon Block, GAC, and RO membranes for global bulk wholesale and OEM/ODM partners.",
-    "footer_products": "제품 정보",
-    "footer_company": "회사 정보",
-    "footer_contact": "문의하기",
+    "form_msg": "메시지",
+    "form_btn": "보내기",
+    "footer_brand_desc": "1998년부터 시작된 중국 선도 수처리 솔루션 제조사. PP 멜트블로운, CTO 카본 블록, GAC 및 RO 멤브레인 전문 글로벌 도매 및 OEM/ODM 파트너.",
+    "footer_products": "제품",
+    "footer_company": "회사",
+    "footer_contact": "연락처",
     "footer_rights": "All rights reserved.",
     "modal_specs_title": "기술 사양",
-    "modal_btn_wa": "WhatsApp 문의",
-    "modal_btn_email": "이메일 문의"
+    "modal_btn_wa": "WhatsApp",
+    "modal_btn_email": "이메일"
   },
   "categories": {
     "Filter Cartridge": "필터 카트리지",
@@ -86,570 +86,589 @@
     "Flat Cap Filter": "플랫 캡 필터",
     "Industrial Filter": "산업용 필터",
     "Inline Filter": "인라인 필터",
-    "RO System": "RO(역삼투압) 시스템",
-    "Water Dispenser": "정수기",
-    "Water Purifier": "정수 시스템"
+    "RO System": "RO 시스템",
+    "Water Dispenser": "냉온수기",
+    "Water Purifier": "정수기"
   },
   "products": [
     {
       "id": "alkaline-purifier",
-      "name": "Alkaline Water Purifier System",
+      "name": "알칼리 정수 시스템",
       "category": "Water Purifier",
-      "desc": "Produces alkaline water by increasing pH levels and adding essential minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "pH 수치를 높이고 필수 미네랄을 추가하여 알칼리수를 생성합니다. 공장 직접 공급, OEM/ODM 맞춤화 가능. 산업 및 상업용 수처리를 위한 NSF/ISO 인증.",
       "specs": {
-        "Type": "Alkaline",
-        "pH range": "8.5 - 9.5"
-      }
+        "여과 단계": "다단계 (PP + GAC + UF / RO)",
+        "일일 생산량": "최대 100 L/일 (가정용) – 1,000 L/일 (상업용)",
+        "재질": "식품 등급 FDA 승인 PP / ABS / SUS 304",
+        "작동 압력": "0.1 – 0.4 MPa",
+        "작동 온도": "5°C – 45°C",
+        "인증": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "보증": "하우징 및 전자 부품 12~24개월",
+        "용도": "가정, 레스토랑, 학교, 호텔, 산업/상업용",
+        "유형": "알칼리성",
+        "pH 범위": "8.5 - 9.5",
+        "기능": "미네랄화",
+        "장점": "맛 개선, 건강 증진"
+      },
+      "image": "../assets/products/alkaline-purifier.png"
     },
     {
       "id": "antibacterial-mineralization",
-      "name": "Antibacterial Mineralization Filter Cartridge",
+      "name": "항균 미네랄 필터 카트리지",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.png",
-      "desc": "Effectively removes harmful bacteria and viruses and adds beneficial minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "유해 세균 및 바이러스를 효과적으로 제거하고 유익한 미네랄을 추가합니다. 공장 공급, OEM/ODM 가능.",
       "specs": {
-        "Function": "Antibacterial + Mineralization"
+        "하우징": "식품 등급 PE / PP 일체형 밀폐 바디",
+        "연결": "1/4\" 또는 3/8\" 퀵 커넥트",
+        "여과 미디어": "코코넛 쉘 활성탄 / KDF / 맥반석 / 미네랄 볼",
+        "최대 작동 압력": "0.6 MPa (87 psi)",
+        "수명": "12개월 / 6,000 L (선도래 기준)",
+        "작동 온도": "5°C – 38°C",
+        "인증": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "가능 · 로고 인쇄 가능 · MOQ 2,000개",
+        "기능": "미네랄화",
+        "장점": "맛 개선, 건강 증진"
       },
-      "image_local": "assets/products/antibacterial-mineralization_antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.jpg"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "big-blue-3stage",
-      "name": "30-inch Three Stage Big Blue Water Filter",
+      "name": "30인치 3단계 빅블루 수처리 필터",
       "category": "Filter Housing",
-      "image": "assets/products/2.png",
-      "desc": "Three-stage filtration: PP filter (large particles), RO membrane (heavy metals, bacteria, viruses), CTO Carbon Block (chlorine, taste). Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "깨끗하고 안전한 물을 제공하도록 설계된 3단계 빅블루 필터. PP, RO, CTO 필터로 오염 물질을 제거합니다.",
       "specs": {
-        "Size": "30 inches",
-        "Stages": "3",
-        "Type": "Big Blue"
+        "바디 재질": "강화 FDA 등급 PP / SUS 304 / SUS 316L 스테인리스 스틸",
+        "캡 재질": "ABS / PP / SUS 304",
+        "입구/출구": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "최대 작동 압력": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "정수압 테스트": "정격 압력의 1.5배",
+        "작동 온도": "1°C – 50°C",
+        "인증": "NSF, FDA, ISO 9001:2015, CE",
+        "실링": "식품 등급 실리콘 O-링",
+        "사이즈": "30인치",
+        "단계": "3단계 (PP, RO, CTO)",
+        "유형": "빅블루",
+        "브랜드": "Eco Express Water"
       },
-      "image_local": "assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg"
+      "image": "../assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg"
     },
     {
       "id": "carbon-block",
-      "name": "CTO Coconut Shell CTO Carbon Block Filter Cartridge",
+      "name": "코코넛 쉘 CTO 활성탄 블록 필터 카트리지",
       "category": "Filter Cartridge",
-      "image": "assets/products/1.png",
-      "desc": "Coconut shell activated carbon with high iodine value (1000) for effective purification. 10 inches length, 2.5 inch outer diameter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "독자적인 활성탄과 소결 코코넛 쉘 혼합물을 사용하여 염소 및 VOC 제거에 탁월한 성능을 발휘합니다.",
       "specs": {
-        "Iodine": "1000",
-        "Material": "Coconut Carbon",
-        "Size": "10×2.5 inch"
+        "재질": "활성탄 및 소결 코코넛 쉘",
+        "여과 정밀도": "1 µm / 5 µm / 10 µm (맞춤 가능)",
+        "표준 길이": "10\" / 20\"",
+        "작동 온도": "5°C – 45°C",
+        "최대 작동 압력": "0.4 MPa (60 psi)",
+        "수명": "3~12개월 (수질에 따라 다름)",
+        "인증": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "가능 · MOQ 1,000개",
+        "요오드": "1000",
+        "사이즈": "10×2.5 인치",
+        "기술": "고급 카본 블록",
+        "제거 대상": "염소, VOC, 침전물"
       },
-      "image_local": "assets/products/carbon-block_carbon-block-filter-copy.jpg"
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
     },
     {
       "id": "carbon-block-2",
-      "name": "Compressed Activated CTO Carbon Block",
+      "name": "압축 활성 CTO 카본 블록",
       "category": "Industrial Filter",
-      "image": "assets/products/3.png",
-      "desc": "High-density compressed carbon block for superior chlorine and VOC removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "염소 및 유기 화합물을 강력하게 제거하는 고밀도 카본 블록 필터.",
       "specs": {
-        "Density": "High",
-        "Removes": "Chlorine, VOCs"
+        "재질": "활성탄 및 소결 코코넛 쉘",
+        "길이 옵션": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "여과 등급": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "엔드캡 유형": "DOE / SOE 222 / SOE 226",
+        "최대 작동 압력": "0.6 MPa (87 psi)",
+        "최대 작동 온도": "60°C",
+        "인증": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "용도": "산업용 전처리, RO 처리, 식품 및 음료",
+        "밀도": "고밀도",
+        "제거 대상": "염소, VOC, 침전물"
       },
-      "image_local": "assets/products/carbon-block-2_wechatimg25674-mk3lrNoaEaUvnLg7.jpeg"
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
     },
     {
       "id": "carbon-block-industrial",
-      "name": "Industrial High-Flow CTO Carbon Block Filter",
+      "name": "고유량 산업용 CTO 카본 블록 필터",
       "category": "Industrial Filter",
-      "image": "assets/products/4.png",
-      "desc": "Industrial-grade activated carbon block filter for high-flow chemical absorption applications. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "높은 유량과 효율적인 화학적 불순물 제거가 필요한 산업용으로 설계되었습니다.",
       "specs": {
-        "Type": "Carbon Block",
-        "Industry": "Industrial"
+        "재질": "활성탄 및 소결 코코넛 쉘",
+        "길이 옵션": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "여과 등급": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "엔드캡 유형": "DOE / SOE 222 / SOE 226",
+        "인증": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "용도": "산업용, RO 시스템 전처리",
+        "유형": "카본 블록",
+        "산업": "산업용",
+        "기술": "고급 카본 블록",
+        "제거 대상": "염소, VOC, 침전물"
       },
-      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
     },
     {
       "id": "ceramic-filter",
-      "name": "Ceramic Filter Cartridge",
+      "name": "세라믹 필터 카트리지",
       "category": "Filter Cartridge",
-      "image": "assets/products/5.png",
-      "desc": "High-quality ceramic filter cartridge for removing fine particles and bacteria. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "미세 입자 및 박테리아 제거를 위한 고품질 세라믹 카트리지. 세척 후 재사용 가능.",
       "specs": {
-        "Filtration": "0.2μm",
-        "Type": "Ceramic"
+        "재질": "식품 등급 폴리프로필렌 / 활성탄",
+        "여과 정밀도": "0.2 µm",
+        "표준 길이": "10\" / 20\"",
+        "작동 온도": "5°C – 45°C",
+        "인증": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS",
+        "유형": "세라믹"
       },
-      "image_local": "assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png"
+      "image": "../assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png"
     },
     {
       "id": "filter-combo",
-      "name": "Multi-Stage Filter Cartridge Combination",
+      "name": "다단계 필터 카트리지 콤보",
       "category": "Filter Cartridge",
-      "image": "assets/products/filter-combo-v3.png",
-      "desc": "Combination of various filter cartridges designed for multi-stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "완벽한 정수를 위한 맞춤형 다단계 카트리지 세트.",
       "specs": {
-        "Stages": "3–5",
-        "Combination": "Custom"
+        "단계": "3~5단계",
+        "조합": "맞춤 가능",
+        "기술": "고급 카본 블록",
+        "제거 대상": "염소, VOC, 침전물"
       },
-      "image_local": "assets/products/filter-combo_Filter-cartridge-combination-copy.jpg"
+      "image": "../assets/products/filter-combo.png"
     },
     {
       "id": "flat-cap-cto",
-      "name": "Flat Cap CTO Carbon Block Filter",
+      "name": "플랫 캡 CTO 카본 블록 필터",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676798539834-dOqM8JyQL5fj99OO.jpg",
-      "desc": "Compressed Activated Carbon Block filter with flat cap connection for universal compatibility with standard housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "범용 호환성을 위한 플랫 캡 연결 방식의 압축 카본 블록 필터.",
       "specs": {
-        "Type": "CTO",
-        "Cap": "Flat Cap"
+        "캡 유형": "플랫 캡",
+        "길이": "10\" 표준",
+        "직경": "65 mm – 70 mm",
+        "인증": "NSF/ANSI 42 & 53, FDA",
+        "공정": "광촉매 산화",
+        "제거 대상": "세균, 바이러스, 염소"
       },
-      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
     },
     {
       "id": "flat-cap-gac",
-      "name": "Flat Cap GAC Filter",
+      "name": "플랫 캡 GAC 필터",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/a13apsudf-mp8MqXBP8ptD7oab.jpg",
-      "desc": "Universal GAC filter with Flat Cap connection. Made with silicon rubber flat cap. Effectively removes chlorine, sediment, and other contaminants. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "실리콘 고무 플랫 캡 연결 방식의 범용 GAC 필터.",
       "specs": {
-        "Cap": "Silicon Rubber Flat Cap",
-        "Material": "GAC"
+        "재질": "GAC",
+        "캡 유형": "실리콘 고무 플랫 캡",
+        "제거 대상": "세균, 바이러스, 염소"
       },
-      "image_local": "assets/products/flat-cap-gac_a13apsudf-mp8MqXBP8ptD7oab.jpg"
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
     },
     {
       "id": "flat-cap-pp",
-      "name": "Flat Cap PP Melt Blown Sediment Filter",
+      "name": "플랫 캡 PP 멜트블로운 침전물 필터",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676799952716-A0x3EWL3l7teXEKl.jpg",
-      "desc": "Polypropylene melt-blown sediment filter with flat cap design. Designed for use in standard 10\" filter housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "표준 10인치 하우징용으로 설계된 폴리프로필렌 멜트블로운 필터.",
       "specs": {
-        "Type": "PP Melt-blown",
-        "Cap": "Flat Cap"
+        "유형": "PP 멜트블로운",
+        "캡 유형": "플랫 캡"
       },
-      "image_local": "assets/products/flat-cap-pp_1676799952716-A0x3EWL3l7teXEKl.jpg"
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
     },
     {
       "id": "housing-filter",
-      "name": "Eco Express Water Housing Filter",
+      "name": "Eco Express Water 필터 하우징",
       "category": "Filter Housing",
-      "image": "assets/products/6.png",
-      "desc": "Carbon block filter using activated carbon compressed into a block. Removes chlorine, chloramines, pesticides, and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "카본 블록 및 기타 필터 요소를 위한 견고한 하우징.",
       "specs": {
-        "Type": "Carbon Block Housing",
-        "Connector": "Various"
+        "바디 재질": "강화 PP / SUS 304",
+        "사이즈": "30인치",
+        "유형": "카본 블록 하우징"
       },
-      "image_local": "assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg"
+      "image": "../assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg"
     },
     {
       "id": "inline-cation-resin",
-      "name": "Inline Cation Resin Filter Cartridge",
+      "name": "인라인 양이온 수지 필터 카트리지",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.png",
-      "desc": "Softens water by removing hard minerals such as calcium and magnesium, reducing scale buildup in appliances. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "칼슘, 마그네슘 등 경도 성분을 제거하여 물을 연화시킵니다.",
       "specs": {
-        "Function": "Water Softening",
-        "Resin": "Cation Exchange"
+        "기능": "연수화",
+        "수지": "양이온 교환 수지"
       },
-      "image_local": "assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-pp",
-      "name": "Inline PP Cartridge",
+      "name": "인라인 PP 카트리지",
       "category": "Inline Filter",
-      "image": "assets/products/7.png",
-      "desc": "Inline polypropylene sediment filter for compact water purification systems. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "소형 시스템용 인라인 폴리프로필렌 침전물 필터.",
       "specs": {
-        "Material": "Polypropylene",
-        "Filtration": "5μm"
+        "재질": "폴리프로필렌",
+        "여과": "5µm"
       },
-      "image_local": "assets/products/inline-pp_PP-filter-copy.jpg"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-small-mol",
-      "name": "Small Molecule Antibacterial Mineralization Filter",
+      "name": "소분자 항균 미네랄 필터",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSyVBbJ.png",
-      "desc": "Advanced filtration removing harmful bacteria and viruses while adding beneficial minerals to water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "세균을 제거하면서 물을 미네랄화하는 고급 여과 기능.",
       "specs": {
-        "Function": "Antibacterial + Mineralization",
-        "Connector": "Quick-connect"
+        "기능": "미네랄화",
+        "연결": "퀵 커넥트"
       },
-      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-t33-coconut",
-      "name": "T33 Coconut Shell Carbon Inline Filter",
+      "name": "코코넛 쉘 활성탄 T33 인라인 필터",
       "category": "Inline Filter",
-      "image": "assets/products/8.png",
-      "desc": "Post-filter T33 inline cartridge with premium coconut shell activated carbon for taste polishing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "물맛 개선을 위한 프리미엄 코코넛 쉘 활성탄 T33 포스트 필터.",
       "specs": {
-        "Carbon": "Coconut Shell",
-        "Position": "Post-filter"
+        "카본": "코코넛 쉘",
+        "위치": "포스트 필터"
       },
-      "image_local": "assets/products/inline-t33-coconut_wechatimg25674-m7V2npvka6TLValG.jpeg"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-t33-mineral",
-      "name": "Mineralized Small T33 Inline Water Filter",
+      "name": "미네랄 T33 인라인 수처리 필터",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png",
-      "desc": "Improves taste and odor by removing chlorine and adding beneficial minerals to water for improved health and hydration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "유익한 미네랄을 추가하여 물맛과 냄새를 개선합니다.",
       "specs": {
-        "Function": "Mineralization + Polishing",
-        "Connector": "Quick-connect"
+        "기능": "미네랄화",
+        "연결": "퀵 커넥트"
       },
-      "image_local": "assets/products/inline-t33-mineral_mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png"
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "maifan-inline",
-      "name": "Maifan Stone Inline Filter",
+      "name": "맥반석 인라인 필터",
       "category": "Inline Filter",
-      "image": "assets/products/maifan-inline-v4.png",
-      "desc": "Inline filter containing Maifan stones to mineralize water and improve taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "물을 미네랄화하고 맛을 개선하는 맥반석 포함 인라인 필터.",
       "specs": {
-        "Mineral": "Maifan Stone",
-        "Function": "Mineralization"
+        "미네랄": "맥반석",
+        "기능": "미네랄화"
       },
-      "image_local": "assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg"
+      "image": "../assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg"
     },
     {
       "id": "mid-filter",
-      "name": "Medium Size Water Filter w/ Copper Connector",
+      "name": "구리 커넥터 포함 중형 수처리 필터",
       "category": "Filter Cartridge",
-      "image": "assets/products/9.png",
-      "desc": "Medium-sized water filter cartridge featuring a copper connector for robust installation and performance. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "견고한 설치와 성능을 위한 구리 커넥터 포함 중형 필터 카트리지.",
       "specs": {
-        "Size": "Medium",
-        "Connector": "Copper"
+        "사이즈": "중형",
+        "연결": "구리 커넥터"
       },
-      "image_local": "assets/products/mid-filter_MG_9234-scaled.jpg"
+      "image": "../assets/products/mid-filter_MG_9234-scaled.jpg"
     },
     {
       "id": "mineral-inline",
-      "name": "Inline Mineral Filter",
+      "name": "인라인 미네랄 필터",
       "category": "Inline Filter",
-      "image": "assets/products/mineral-inline-v4.png",
-      "desc": "Adds essential minerals back into purified water to enhance health benefits and taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "정수된 물에 필수 미네랄을 다시 추가하여 건강과 맛을 증진시킵니다.",
       "specs": {
-        "Function": "Mineralization",
-        "Adds": "Ca/Mg/K minerals"
+        "기능": "미네랄화",
+        "추가": "Ca/Mg/K 미네랄"
       },
-      "image_local": "assets/products/mineral-inline_Mineral-Filter-copy.jpg"
+      "image": "../assets/products/mineral-inline_Mineral-Filter-copy.jpg"
     },
     {
       "id": "mt-600dg",
-      "name": "Dark Green Water Dispenser MT-600DG",
+      "name": "다크 그린 정수 디스펜서 MT-600DG",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.png",
-      "desc": "Wall-mounted pipeline water dispenser with sleek modern design in unique dark green color. Saves floor space and provides continuous supply of clean water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "모던한 다크 그린 디자인의 벽걸이형 정수 디스펜서.",
       "specs": {
-        "Mount": "Wall-mounted",
-        "Color": "Dark Green",
-        "Power": "2200W"
+        "장착": "벽걸이형",
+        "색상": "다크 그린",
+        "전력": "2200W",
+        "가열": "3초 즉각 가열"
       },
-      "image_local": "assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg"
+      "image": "../assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg"
     },
     {
       "id": "mt-900g",
-      "name": "Golden Color Water Dispenser MT-900G",
+      "name": "골드 정수 디스펜서 MT-900G",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ee2ae-3-4-m5KPNbPPwluQy8no.png",
-      "desc": "Wall-mounted pipeline water dispenser with 5 stages of water volume (150ml–850ml) and 5 levels of water temperature (25°C–100°C). 316L titanium gold stainless steel heating element. Child safety lock. Premium golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "골드 글래스 패널과 안전 잠금 장치가 있는 프리미엄 디스펜서.",
       "specs": {
-        "Power": "2200W",
-        "Volume": "5 stages 150–850ml",
-        "Temperature": "25–100°C",
-        "Material": "316L Stainless Steel"
+        "전력": "2200W",
+        "출수량": "5단계 150–850ml",
+        "온도 설정": "25–100°C",
+        "재질": "316L 스테인리스 스틸"
       },
-      "image_local": "assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg"
+      "image": "../assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg"
     },
     {
       "id": "mt-b600",
-      "name": "White Color Water Dispenser MT-B600",
+      "name": "화이트 정수 디스펜서 MT-B600",
       "category": "Water Dispenser",
-      "image": "assets/products/mt-b600-white.png",
-      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power and fast 3-second heating. Whole glass panel with matte spray plastic parts. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "3초 즉각 가열 기능이 있는 화이트 글래스 패널 모델.",
       "specs": {
-        "Power": "2200W",
-        "Hot Output": "3 seconds",
-        "Color": "White Glass Panel"
+        "전력": "2200W",
+        "색상": "화이트 글래스 패널"
       },
-      "image_local": "assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg"
+      "image": "../assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg"
     },
     {
       "id": "mt-dv-e600",
-      "name": "1000W Vertical Water Dispenser MT-DV-E600",
+      "name": "1000W 수직형 정수 디스펜서 MT-DV-E600",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-dv-e600-mxBj0l5gB4U8pZwq.png",
-      "desc": "High-power vertical water dispenser with 304 stainless steel tank and 1KW heating power. LED digital screen. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "304 스테인리스 스틸 탱크를 갖춘 고출력 수직형 모델.",
       "specs": {
-        "Power": "1000W",
-        "Tank": "304 Stainless Steel",
-        "Display": "LED Digital"
+        "전력": "1000W",
+        "탱크": "304 스테인리스 스틸",
+        "디스플레이": "디지털 LED"
       },
-      "image_local": "assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg"
+      "image": "../assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg"
     },
     {
       "id": "mt-e600",
-      "name": "Wall Mounted Water Dispenser MT-E600",
+      "name": "벽걸이형 정수 디스펜서 MT-E600",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/e-600-bw-dWxeGeNwMWu0NzBY.png",
-      "desc": "Black & white dual-color wall-mounted pipeline water dispenser. Compact, energy-saving, with multi-stage water output. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "다단계 출수 기능이 있는 컴팩트한 블랙/화이트 디자인.",
       "specs": {
-        "Mount": "Wall-mounted",
-        "Color": "Black/White"
+        "장착": "벽걸이형",
+        "색상": "블랙/화이트"
       },
-      "image_local": "assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg"
+      "image": "../assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg"
     },
     {
       "id": "mt-s800",
-      "name": "Golden Color Water Dispenser MT-S800",
+      "name": "골드 정수 디스펜서 MT-S800",
       "category": "Water Dispenser",
-      "image": "assets/products/mt-s800-golden.png",
-      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power. Fast 3-second hot water output. 5 stages water volume and temperature adjustment. Golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "3초 즉각 가열 및 5단계 조절 기능이 있는 골드 글래스 패널.",
       "specs": {
-        "Power": "2200W",
-        "Hot Output": "3 seconds",
-        "Color": "Golden Glass Panel"
+        "전력": "2200W",
+        "색상": "골드 글래스 패널"
       },
-      "image_local": "assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg"
+      "image": "../assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg"
     },
     {
       "id": "mt-v-e300a",
-      "name": "Vertical Water Dispenser MT-V-E300A",
+      "name": "수직형 정수 디스펜서 MT-V-E300A",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.png",
-      "desc": "Vertical floor-standing water dispenser with 304 stainless steel water tank and multiple water outlet options. Black/White design. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "스테인리스 스틸 탱크가 있는 세련된 디자인의 플로어 스탠딩 모델.",
       "specs": {
-        "Type": "Vertical",
-        "Tank": "304 Stainless Steel",
-        "Color": "Black/White"
+        "유형": "수직형",
+        "탱크": "304 스테인리스 스틸"
       },
-      "image_local": "assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg"
+      "image": "../assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg"
     },
     {
       "id": "post-t33",
-      "name": "Post T33 Inline Carbon Filter",
+      "name": "포스트 T33 인라인 카본 필터",
       "category": "Inline Filter",
-      "image": "assets/products/post-t33-v4.png",
-      "desc": "Post-filtration inline carbon filter for polishing water taste and removing residual odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "최종 단계 맛 정밀 조절 및 잔류 냄새 제거용 필터.",
       "specs": {
-        "Position": "Final stage",
-        "Material": "Activated Carbon"
+        "위치": "최종 단계",
+        "재질": "코코넛 쉘 활성탄"
       },
-      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg"
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg"
     },
     {
       "id": "pp-fin-cap",
-      "name": "PP Melt Blown Filter with Fin End Cap",
+      "name": "핀 엔드캡 포함 PP 멜트블로운 필터",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
-      "desc": "Industrial PP cartridge with a fin-style end cap for secure, leak-free seating in housing units. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "매끄러운 표면 또는 홈이 있는 표면 옵션이 있는 산업용 PP 필터.",
       "specs": {
-        "End Cap": "Fin Type",
-        "Material": "Polypropylene"
+        "재질": "폴리프로필렌",
+        "캡 유형": "핀(Fin)",
+        "사이즈": "10\"~50\""
       },
-      "image_local": "assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg"
+      "image": "../assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg"
     },
     {
       "id": "pp-silicon-ring",
-      "name": "PP Melt Blown Filter with Silicon Ring",
+      "name": "실리콘 링 포함 PP 멜트블로운 필터",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
-      "desc": "PP filter cartridge equipped with food-grade silicon sealing ring for high-reliability sealing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "식품 등급 실리콘 링 실링이 있는 산업용 폴리프로필렌 필터.",
       "specs": {
-        "Ring": "Food-grade Silicon",
-        "Material": "Polypropylene"
+        "링": "식품 등급 실리콘",
+        "유형": "DOE 또는 SOE"
       },
-      "image_local": "assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg"
+      "image": "../assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg"
     },
     {
       "id": "pp-soe-doe",
-      "name": "Industrial PP Melt Blown Sediment Filter (SOE/DOE)",
+      "name": "산업용 PP 침전물 필터 (SOE/DOE)",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.png",
-      "desc": "Industrial-grade PP melt-blown filter, available in SOE (Single Open End) and DOE (Double Open End) configurations. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "SOE 및 DOE 구성으로 제공되는 산업용 필터.",
       "specs": {
-        "Type": "SOE/DOE",
-        "Material": "Polypropylene",
-        "Industry": "Industrial"
+        "유형": "DOE 또는 SOE",
+        "용도": "산업용"
       },
-      "image_local": "assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg"
+      "image": "../assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg"
     },
     {
       "id": "pp-spun",
-      "name": "PP Melt Blown Sediment Filter Cartridge",
+      "name": "PP 멜트블로운 침전물 필터 카트리지",
       "category": "Filter Cartridge",
-      "image": "assets/products/pp-spun-v4.png",
-      "desc": "Melt-blown 100% pure polypropylene microfibers. Removes rust, silt, scale, sediment, dirt. Available in 10/20/30/40 inches. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "100% 순수 폴리프로필렌 마이크로파이버. 녹, 미사 및 침전물 제거.",
       "specs": {
-        "Material": "100% Polypropylene",
-        "Sizes": "10–40 inch",
-        "Removes": "Sediment 5μm"
+        "재질": "100% 폴리프로필렌",
+        "사이즈": "10~40인치",
+        "제거 대상": "5µm 침전물"
       },
-      "image_local": "assets/products/pp-spun_PP-Spun-Filter-copy.jpg"
+      "image": "../assets/products/pp-spun_PP-Spun-Filter-copy.jpg"
     },
     {
       "id": "ppf-cartridge",
-      "name": "PP Melt BlownF Polypropylene Fiber Cartridge",
+      "name": "PPF 폴리프로필렌 섬유 카트리지",
       "category": "Filter Cartridge",
-      "image": "assets/products/ppf-cartridge-v4.png",
-      "desc": "Polypropylene fiber filter cartridge for sediment removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "효율적인 침전물 제거를 위한 폴리프로필렌 섬유 카트리지.",
       "specs": {
-        "Material": "PP Fiber",
-        "Function": "Sediment"
+        "재질": "PP 섬유",
+        "기능": "침전물 제거"
       },
-      "image_local": "assets/products/ppf-cartridge_PPF-Filter-copy.jpg"
+      "image": "../assets/products/ppf-cartridge_PPF-Filter-copy.jpg"
     },
     {
       "id": "pre-udf",
-      "name": "Pre-UDF Activated Carbon Cartridge",
+      "name": "프리 UDF 활성탄 카트리지",
       "category": "Filter Cartridge",
-      "image": "assets/products/pre-udf-v4.png",
-      "desc": "Pre-filtration granular activated carbon cartridge to protect downstream membranes. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "후속 멤브레인을 보호하기 위한 입상 활성탄 카트리지.",
       "specs": {
-        "Position": "Pre-filter",
-        "Material": "GAC"
+        "재질": "GAC",
+        "위치": "프리 필터"
       },
-      "image_local": "assets/products/pre-udf_Pre-UDF-Filter-copy.jpg"
+      "image": "../assets/products/pre-udf_Pre-UDF-Filter-copy.jpg"
     },
     {
       "id": "resin-filter",
-      "name": "Ion-Exchange Resin Filter",
+      "name": "이온 교환 수지 필터",
       "category": "Filter Cartridge",
-      "image": "assets/products/10.png",
-      "desc": "Ion-exchange resin cartridge for water softening and removal of heavy metals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "연수화 및 중금속 제거를 위한 수지 카트리지.",
       "specs": {
-        "Function": "Water Softening",
-        "Removes": "Ca/Mg/Heavy Metals"
+        "기능": "연수화",
+        "제거 대상": "Ca/Mg/중금속"
       },
-      "image_local": "assets/products/resin-filter_WeChat48b644654d6e0f5e709716ba2298b556-889x1024.png"
+      "image": "../assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
     },
     {
       "id": "ro-membrane",
-      "name": "Reverse Osmosis (RO) Membrane Element Element",
+      "name": "역삼투압 (RO) 멤브레인 엘리먼트",
       "category": "Filter Cartridge",
-      "image": "assets/products/ro-membrane-v4.png",
-      "desc": "Reverse osmosis membrane cartridge — the core component of RO systems for desalination and purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "중력식 RO 시스템용 고성능 멤브레인.",
       "specs": {
-        "Type": "RO TFC Membrane",
-        "Capacity": "75/100/400 GPD"
+        "용량": "75/100/400 GPD",
+        "유형": "중력식"
       },
-      "image_local": "assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg"
+      "image": "../assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg"
     },
     {
       "id": "ro-membrane-400g",
-      "name": "400GPD High-Flow Reverse Osmosis (RO) Membrane Element",
+      "name": "400GPD 고유량 RO 멤브레인 엘리먼트",
       "category": "RO System",
-      "desc": "High-capacity reverse osmosis membrane for residential and light commercial water purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "펌프가 필요 없는 시스템을 위한 대용량 RO 멤브레인.",
       "specs": {
-        "Capacity": "400 GPD",
-        "Type": "Dry Membrane"
-      }
+        "용량": "400 GPD",
+        "염분 제거율": "≥ 96% – 99%"
+      },
+      "image": "../assets/products/ro-membrane-400g.png"
     },
     {
       "id": "ro-undersink",
-      "name": "Under-Sink Reverse Osmosis Water Filter",
+      "name": "언더싱크 역삼투압 정수기",
       "category": "RO System",
-      "image": "assets/products/11.png",
-      "desc": "Gravity-fed RO system relying on incoming water pressure to push water through the RO membrane. Multi-stage: sediment filter, carbon filter, RO membrane. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "공급 수압을 이용한 다단계 RO 시스템.",
       "specs": {
-        "Stages": "Multi-stage",
-        "Type": "No Pump Required",
-        "Membrane": "RO 75GPD"
+        "단계": "다단계",
+        "멤브레인": "RO 75GPD"
       },
-      "image_local": "assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg"
+      "image": "../assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg"
     },
     {
       "id": "ss-jumbo-housing",
-      "name": "304/316L 스테인리스 스틸 산업용 점보 필터 하우징",
-      "category": "필터 하우징",
-      "image": "assets/products/ss-jumbo-housing-v4.png",
-      "desc": "10인치 및 20인치 크기로 제공되는 견고한 304 스테인리스 스틸 하우징. UF 멤브레인, PP 침전물 필터 및 카본 블록 필터와 호환됩니다. 대유량 응용 분야에 적합합니다. 공장 도매 공급, OEM/ODM 맞춤화 가능. 산업 및 상업용 수처리를 위한 NSF/ISO 인증 획득.",
+      "name": "304/316L 스테인리스 스틸 산업용 점보 하우징",
+      "category": "Filter Housing",
+      "desc": "고유량 용도에 이상적인 견고한 스테인리스 스틸 하우징.",
       "specs": {
-        "Material": "304 Stainless Steel",
-        "Size": "10\" / 20\" Jumbo",
-        "Compatibility": "PP, Carbon, UF",
-        "Type": "High-Pressure"
+        "재질": "304 스테인리스 스틸",
+        "사이즈": "30인치",
+        "호환성": "PP, 카본, UF"
       },
-      "image_local": "assets/products/ss_jumbo_housing.jpg"
+      "image": "../assets/products/ss-jumbo-housing-v4.png"
     },
     {
       "id": "t33-post",
-      "name": "T33 Post Filter Cartridge",
+      "name": "T33 포스트 필터 카트리지",
       "category": "Inline Filter",
-      "image": "assets/products/t33-post-v4.png",
-      "desc": "High-quality post-carbon filter for final stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "정수의 최종 단계에서 사용되는 고품질 카본 필터.",
       "specs": {
-        "Position": "Post-filter",
-        "Function": "Polishing"
+        "기능": "마감",
+        "재질": "코코넛 쉘 활성탄"
       },
-      "image_local": "assets/products/t33-post_T33-post-Filter-copy.jpg"
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg"
     },
     {
       "id": "udf-cartridge",
-      "name": "GAC Granular Activated Carbon (UDF) Filter Cartridge",
+      "name": "입상 활성탄 (UDF) 필터 카트리지",
       "category": "Filter Cartridge",
-      "image": "assets/products/udf-cartridge-v4.png",
-      "desc": "Standard 10-inch GAC filter from high iodine value carbon. Reduces chlorine, organic chemicals, unnatural tastes and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "높은 요오드 함량의 표준 10인치 GAC 필터.",
       "specs": {
-        "Type": "GAC",
-        "Size": "10 inch",
-        "Iodine": "1000"
+        "유형": "GAC",
+        "요오드": "1000"
       },
-      "image_local": "assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg"
+      "image": "../assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg"
     },
     {
       "id": "uf-cartridge",
-      "name": "Ultrafiltration (UF) Cartridge",
+      "name": "한외여과 (UF) 카트리지",
       "category": "Filter Cartridge",
-      "image": "assets/products/uf-cartridge-v3.png",
-      "desc": "Hollow-fiber ultrafiltration membrane cartridge for removing bacteria, viruses, and colloidal matter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "세균 및 바이러스 제거를 위한 중공사막.",
       "specs": {
-        "Membrane": "Hollow Fiber",
-        "Filtration": "0.01μm"
+        "멤브레인": "중공사",
+        "여과": "0.01µm"
       },
-      "image_local": "assets/products/uf-cartridge_Ultra-FilterUF-copy.jpg"
+      "image": "../assets/products/uf-cartridge.png"
     },
     {
       "id": "uf-filter-2",
-      "name": "UF Hollow Fiber Filter",
+      "name": "UF 중공사 필터",
       "category": "Filter Cartridge",
-      "image": "assets/products/uf-filter-2-v4.png",
-      "desc": "Ultrafiltration cartridge for fine suspended-solids removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "미세 부유 고형물 제거용 한외여과 카트리지.",
       "specs": {
-        "Material": "Hollow Fiber",
-        "Removes": "Bacteria"
+        "제거 대상": "세균"
       },
-      "image_local": "assets/products/uf-filter-2_UF-Filter-copy.jpg"
+      "image": "../assets/products/uf-filter-2_UF-Filter-copy.jpg"
     },
     {
       "id": "ultra-film",
-      "name": "Ultra Film Filter Cartridge",
+      "name": "울트라 필름 필터 카트리지",
       "category": "Filter Cartridge",
-      "image": "assets/products/ultra-film-v4.png",
-      "desc": "Advanced ultrafiltration film cartridge for high-efficiency filtration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "고효율 실현을 위한 고급 한외여과 필름 카트리지.",
       "specs": {
-        "Type": "Ultra Film",
-        "Filtration": "0.01μm"
+        "유형": "울트라 필름",
+        "여과": "0.01µm"
       },
-      "image_local": "assets/products/ultra-film_Ultra-Film-Filter-copy.jpg"
+      "image": "../assets/products/ultra-film_Ultra-Film-Filter-copy.jpg"
     },
     {
       "id": "uv-purifier",
-      "name": "Three Stage Plus UV Water Purifier",
+      "name": "3단계 정수기 + UV",
       "category": "Water Purifier",
-      "image": "assets/products/12.png",
-      "desc": "Three-stage water purification system enhanced with UV sterilization for superior water safety. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "최대 안전을 위한 UV-C 살균 기능이 있는 정수 시스템.",
       "specs": {
-        "Stages": "3 + UV",
-        "Sterilization": "UV-C"
+        "살균": "UV-C",
+        "유형": "중력식"
       },
-      "image_local": "assets/products/12.png"
+      "image": "../assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg"
     },
     {
       "id": "water-purifier-maifan",
-      "name": "Maifan Stone Mineralizing Purifier",
+      "name": "맥반석 미네랄 정수기",
       "category": "Water Purifier",
-      "desc": "Multi-stage purifier featuring Maifan stone for mineralization and improved water quality. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "수질 향상을 위한 맥반석 포함 다단계 정수기.",
       "specs": {
-        "Mineral": "Maifan Stone",
-        "Stages": "5-Stage"
-      }
+        "미네랄": "맥반석",
+        "단계": "5단계"
+      },
+      "image": "../assets/products/water-purifier-maifan.png"
     }
   ]
 }

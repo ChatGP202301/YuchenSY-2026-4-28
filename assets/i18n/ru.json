@@ -6,26 +6,26 @@
     "nav_workshop": "Цех",
     "nav_exhibition": "Выставки",
     "nav_contact": "Контакты",
-    "cta_whatsapp": "WhatsApp",
+    "cta_whatsapp": "Связаться через WhatsApp",
     "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
     "topbar_email": "✉ <a href=\"mailto:expresswater025@gmail.com\">expresswater025@gmail.com</a>",
-    "topbar_tag": "Global Bulk Wholesale · OEM/ODM Specialist · Since 1998",
-    "hero_eyebrow": "✦ Leading China Water Filter Manufacturer | NSF & ISO Certified Factory",
-    "hero_title": "Industrial-Grade Water Purification & OEM Solutions",
-    "hero_desc": "Global bulk wholesale supplier of high-performance PP Melt Blown, CTO, GAC filters, and RO membranes. Since 1998, we provide NSF/ISO certified OEM/ODM technical support for 50+ countries.",
-    "hero_btn_explore": "Каталог продукции",
-    "hero_btn_quote": "Запросить цену",
+    "topbar_tag": "Глобальный опт · Специалист по OEM/ODM · С 1998 года",
+    "hero_eyebrow": "✦ Ведущий китайский производитель фильтров для воды | Завод, сертифицированный по NSF и ISO",
+    "hero_title": "Очистка воды промышленного класса и OEM-решения",
+    "hero_desc": "Глобальный оптовый поставщик высокопроизводительных фильтров из полипропилена (PP), CTO, GAC и мембран обратного осмоса (RO). С 1998 года мы предоставляем техническую поддержку OEM/ODM с сертификацией NSF/ISO для 50+ стран.",
+    "hero_btn_explore": "Каталог завода",
+    "hero_btn_quote": "Запросить оптовую цену",
     "stats_years": "Лет опыта",
     "stats_models": "Моделей продукции",
     "stats_countries": "Стран обслуживания",
     "stats_area": "Площадь производства",
     "about_eyebrow": "О компании",
-    "about_title": "Более 20 лет совершенства в фильтрации воды",
+    "about_title": "20+ лет совершенства в фильтрации воды",
     "about_desc": "Eco Express Water — это высокотехнологичное предприятие по защите окружающей среды, специализирующееся на фильтрующих материалах и оборудовании для очистки воды. Основанная в 1998 году, наша продукция объединяет в себе весь цикл: от исследований и разработок, производства и маркетинга до технической поддержки. Наша компания расположена в городе Юаньхуа, Хайнин, провинция Чжэцзян. У нас есть первоклассная команда технических экспертов, интегрированные функциональные испытательные центры и крупномасштабный производственный центр. Мы являемся сертифицированным поставщиком халяльных фильтров для воды, удовлетворяя уникальные потребности мусульманских потребителей в Малайзии, Индонезии и других странах.",
     "about_feat_1": "Основана в 1998 году – более двух десятилетий производственного опыта",
     "about_feat_2": "Полная вертикальная интеграция: R&D, производство, контроль качества, логистика",
-    "about_feat_3": "NSF, ISO, CE, and Halal certified manufacturing center",
-    "about_feat_4": "Professional OEM/ODM technical support for global brands",
+    "about_feat_3": "Производственный центр, сертифицированный по стандартам NSF, ISO, CE и Халяль",
+    "about_feat_4": "Профессиональная техническая поддержка OEM/ODM для мировых брендов",
     "about_feat_5": "Расположен в Хайнине, Чжэцзян – центре фильтрации воды в Китае",
     "why_eyebrow": "Почему выбирают нас",
     "why_title": "Надежный производственный партнер",
@@ -45,611 +45,1148 @@
     "product_view_details": "Подробнее",
     "workshop_eyebrow": "Производство",
     "workshop_title": "Внутри нашего цеха",
-    "workshop_desc": "4 специализированные производственные линии: полипропиленовые фильтры, угольные блоки, быстроразъемные линейные фильтры и автоматическое обнаружение утечек.",
-    "workshop_pp": "Линия производства ПП фильтров",
-    "workshop_carbon": "Производство угольных блоков",
-    "workshop_quick": "Производство фильтров с быстрым соединением",
-    "workshop_leak": "Автоматическое тестирование на утечки",
+    "workshop_desc": "4 специализированные производственные линии: полипропиленовые фильтры, угольные блоки, линейные фильтры с быстрым соединением и автоматическое обнаружение утечек.",
+    "workshop_pp": "Линия производства PP фильтров",
+    "workshop_carbon": "Линия производства угольных блоков",
+    "workshop_quick": "Линия фильтров быстрого соединения",
+    "workshop_leak": "Автоматический тест на утечки",
     "exhibition_eyebrow": "Выставки",
-    "exhibition_title": "Мировые выставки",
+    "exhibition_title": "Глобальное присутствие",
     "exhibition_desc": "Встретьтесь с нашей командой на AquaTech Shanghai и других крупных отраслевых мероприятиях.",
     "exhibition_aqua1": "Стенд на AquaTech Shanghai",
-    "exhibition_aqua2": "Экспозиция AquaTech Shanghai",
-    "exhibition_show": "Выставочный стенд",
-    "exhibition_customers": "Посетители выставки",
-    "contact_eyebrow": "Связаться с нами",
-    "contact_title": "Давайте строить вместе",
-    "contact_desc": "Расскажите нам о своем проекте. Наши инженеры по продажам ответят в течение 24 часов.",
+    "exhibition_aqua2": "Презентация на Aquatech",
+    "exhibition_canton": "Участие в Кантонской ярмарке",
+    "exhibition_global": "Международные выставки",
+    "contact_eyebrow": "Контакты",
+    "contact_title": "Начните партнерство",
+    "contact_desc": "Свяжитесь с нами для получения оптовых каталогов, технической документации или обсуждения индивидуальных OEM проектов.",
+    "contact_info_title": "Контактная информация",
     "contact_address_label": "Адрес завода",
-    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
-    "contact_phone_label": "Телефон / WhatsApp",
+    "contact_address_value": "Парк научно-технических инноваций, город Юаньхуа, Хайнин, Чжэцзян, Китай",
     "contact_email_label": "Электронная почта",
-    "form_title": "Отправить запрос",
-    "form_sub": "Получите подробное ценовое предложение по вашим спецификациям.",
+    "contact_phone_label": "Телефон/WhatsApp",
     "form_name": "Ваше имя",
     "form_email": "Электронная почта",
-    "form_company": "Название компании",
-    "form_msg": "Сообщение / Спецификации",
-    "form_btn": "Отправить запрос",
-    "footer_brand_desc": "Leading China manufacturer of water filtration solutions since 1998. Specialized in PP Melt Blown, CTO Carbon Block, GAC, and RO membranes for global bulk wholesale and OEM/ODM partners.",
+    "form_subject": "Тема",
+    "form_message": "Ваше сообщение",
+    "form_submit": "Отправить сообщение",
+    "footer_brand_desc": "Ведущий китайский производитель высококачественных компонентов для фильтрации воды. Сертифицировано NSF/ISO. С 1998 года.",
+    "footer_quick_links": "Быстрые ссылки",
+    "footer_legal": "Юридическая информация",
+    "footer_copy": "© 2024 Eco Express Water. Все права защищены. Завод, сертифицированный по ISO 9001:2015.",
+    "exhibition_show": "Выставочный стенд",
+    "exhibition_customers": "Клиенты на выставке",
+    "contact_address": "Китай, пров. Чжэцзян, г. Хайнин, пос. Юаньхуа, ул. Чуансинь, 1",
+    "form_title": "Отправить запрос",
+    "form_sub": "Получите подробное предложение.",
+    "form_company": "Компания",
+    "form_msg": "Сообщение",
+    "form_btn": "Отправить",
     "footer_products": "Продукция",
     "footer_company": "Компания",
-    "footer_contact": "Контакт",
+    "footer_contact": "Контакты",
     "footer_rights": "Все права защищены.",
     "modal_specs_title": "Технические характеристики",
-    "modal_btn_wa": "Запрос через WhatsApp",
-    "modal_btn_email": "Запрос через Email"
-  },
-  "categories": {
-    "Filter Cartridge": "Картридж фильтра",
-    "Filter Housing": "Корпус фильтра",
-    "Flat Cap Filter": "Фильтр с плоской крышкой",
-    "Industrial Filter": "Промышленный фильтр",
-    "Inline Filter": "Линейный фильтр",
-    "RO System": "Система обратного осмоса",
-    "Water Dispenser": "Диспенсер для воды",
-    "Water Purifier": "Очиститель воды"
+    "modal_btn_wa": "WhatsApp",
+    "modal_btn_email": "Email"
   },
   "products": [
     {
       "id": "alkaline-purifier",
-      "name": "Alkaline Water Purifier System",
+      "name": "Щелочной Water Очиститель Система",
       "category": "Water Purifier",
-      "desc": "Produces alkaline water by increasing pH levels and adding essential minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Type": "Alkaline",
-        "pH range": "8.5 - 9.5"
-      }
+        "Этапы фильтрации": "Многоступенчатая (PP + GAC + UF / RO)",
+        "Суточная производительность": "Up to 100 L/day (residential) – 1,000 L/day (commercial)",
+        "Материал": "Food-grade FDA-approved PP / ABS / SUS 304",
+        "Рабочее давление": "0.1 – 0.4 MPa",
+        "Рабочая температура": "5°C – 45°C",
+        "Сертификаты": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "Гарантия": "12 – 24 месяцев on housing & electronics",
+        "Применение": "Residential, restaurant, school, hotel, industrial commercial use",
+        "Тип": "Alkaline",
+        "Диапазон pH": "8.5 - 9.5",
+        "Функция": "Mineralization",
+        "Преимущества": "Improved taste, health"
+      },
+      "image": "../assets/products/alkaline-purifier.png",
+      "image_local": "assets/products/alkaline-purifier.png",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "antibacterial-mineralization",
-      "name": "Antibacterial Mineralization Filter Cartridge",
+      "name": "Antibacterial Mineralization Фильтр Картридж",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.png",
-      "desc": "Effectively removes harmful bacteria and viruses and adds beneficial minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Function": "Antibacterial + Mineralization"
+        "Корпус": "Food-grade PE / PP one-piece sealed body",
+        "Подключение": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Фильтрующий материал": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Срок службы": "12 месяцев / 6,000 L (что наступит раньше)",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификаты": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Доступно · custom logo printing · MOQ 2,000 pcs",
+        "Функция": "Mineralization",
+        "Преимущества": "Improved taste, health"
       },
-      "image_local": "assets/products/antibacterial-mineralization_antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.jpg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "big-blue-3stage",
-      "name": "30-inch Three Stage Big Blue Water Filter",
+      "name": "30-inch Three Stage Big Blue Water Фильтр",
       "category": "Filter Housing",
-      "image": "assets/products/2.png",
-      "desc": "Three-stage filtration: PP filter (large particles), RO membrane (heavy metals, bacteria, viruses), CTO Carbon Block (chlorine, taste). Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Size": "30 inches",
-        "Stages": "3",
-        "Type": "Big Blue"
+        "Материал корпуса": "Reinforced FDA-grade PP / SUS 304 / SUS 316L stainless steel",
+        "Материал крышки": "ABS / PP / SUS 304",
+        "Вход/Выход": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Макс. рабочее давление": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "Гидростатическое испытание": "1.5× rated working pressure",
+        "Рабочая температура": "1°C – 50°C",
+        "Сертификаты": "NSF, FDA, ISO 9001:2015, CE PED 2014/68/EU (where applicable)",
+        "Уплотнение": "Food-grade silicone O-rings",
+        "Размер": "30 inches",
+        "Этапы": "3 (PP, RO, CTO)",
+        "Тип": "Big Blue",
+        "Бренд": "Eco Express Water"
       },
-      "image_local": "assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg"
+      "image_local": "assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg",
+      "features": [
+        "High efficiency",
+        "Large capacity",
+        "Removes particles, chlorine, heavy metals"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/30-big-blue-water-filter/"
     },
     {
       "id": "carbon-block",
-      "name": "CTO Coconut Shell CTO Carbon Block Filter Cartridge",
+      "name": "CTO Coconut Shell CTO Угольный Block Фильтр Картридж",
       "category": "Filter Cartridge",
-      "image": "assets/products/1.png",
-      "desc": "Coconut shell activated carbon with high iodine value (1000) for effective purification. 10 inches length, 2.5 inch outer diameter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Iodine": "1000",
-        "Material": "Coconut Carbon",
-        "Size": "10×2.5 inch"
+        "Материал": "Activated carbon and sintering coconut shell",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Йодное число": "1000",
+        "Размер": "10×2.5 inch",
+        "Технология": "Advanced Carbon Block",
+        "Удаление": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/carbon-block_carbon-block-filter-copy.jpg"
+      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "carbon-block-2",
-      "name": "Compressed Activated CTO Carbon Block",
+      "name": "Compressed Activated CTO Угольный Block",
       "category": "Industrial Filter",
-      "image": "assets/products/3.png",
-      "desc": "High-density compressed carbon block for superior chlorine and VOC removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
+        "Материал": "Activated carbon and sintering coconut shell",
+        "Варианты длины": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Рейтинг фильтрации": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "Тип торцевой крышки": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Макс. рабочая температура": "60°C",
+        "Сертификаты": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Применение": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
         "Density": "High",
-        "Removes": "Chlorine, VOCs"
+        "Removes": "Chlorine, VOCs",
+        "Технология": "Advanced Carbon Block",
+        "Удаление": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/carbon-block-2_wechatimg25674-mk3lrNoaEaUvnLg7.jpeg"
+      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "carbon-block-industrial",
-      "name": "Industrial High-Flow CTO Carbon Block Filter",
+      "name": "Industrial High-Flow CTO Угольный Block Фильтр",
       "category": "Industrial Filter",
-      "image": "assets/products/4.png",
-      "desc": "Industrial-grade activated carbon block filter for high-flow chemical absorption applications. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Type": "Carbon Block",
-        "Industry": "Industrial"
+        "Материал": "Activated carbon and sintering coconut shell",
+        "Варианты длины": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Рейтинг фильтрации": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "Тип торцевой крышки": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Макс. рабочая температура": "60°C",
+        "Сертификаты": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Применение": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
+        "Тип": "Carbon Block",
+        "Отрасль": "Industrial",
+        "Технология": "Advanced Carbon Block",
+        "Удаление": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
+      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "ceramic-filter",
-      "name": "Ceramic Filter Cartridge",
+      "name": "Ceramic Фильтр Картридж",
       "category": "Filter Cartridge",
-      "image": "assets/products/5.png",
-      "desc": "High-quality ceramic filter cartridge for removing fine particles and bacteria. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Filtration": "0.2μm",
-        "Type": "Ceramic"
+        "Материал": "Пищевой полипропилен / Активированный уголь из скорлупы кокоса",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Фильтрация": "0.2μm",
+        "Тип": "Ceramic"
       },
-      "image_local": "assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png"
+      "image_local": "assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png",
+      "features": [
+        "Visual appealing design"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "filter-combo",
-      "name": "Multi-Stage Filter Cartridge Combination",
+      "name": "Multi-Stage Фильтр Картридж Combination",
       "category": "Filter Cartridge",
-      "image": "assets/products/filter-combo-v3.png",
-      "desc": "Combination of various filter cartridges designed for multi-stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/filter-combo.png",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Stages": "3–5",
-        "Combination": "Custom"
+        "Материал": "Activated carbon and sintering coconut shell",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Этапы": "3–5",
+        "Комбинация": "Custom",
+        "Технология": "Advanced Carbon Block",
+        "Удаление": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/filter-combo_Filter-cartridge-combination-copy.jpg"
+      "image_local": "assets/products/filter-combo.png",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "flat-cap-cto",
-      "name": "Flat Cap CTO Carbon Block Filter",
+      "name": "Flat Cap CTO Угольный Block Фильтр",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676798539834-dOqM8JyQL5fj99OO.jpg",
-      "desc": "Compressed Activated Carbon Block filter with flat cap connection for universal compatibility with standard housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Type": "CTO",
-        "Cap": "Flat Cap"
+        "Тип крышки": "Flat End Cap (compatible with most counter-top & under-sink RO systems)",
+        "Длина": "10\" standard",
+        "Диаметр": "65 mm – 70 mm",
+        "Варианты наполнителя": "PP melt-blown / GAC / CTO Carbon Block / T33",
+        "Макс. рабочее давление": "0.6 MPa",
+        "Сертификаты": "NSF/ANSI 42 & 53, FDA, ISO 9001:2015, SGS",
+        "Срок службы": "3 – 12 месяцев",
+        "Тип": "CTO",
+        "Крышка": "Flat Cap",
+        "Процесс": "Photocatalytic oxidation",
+        "Удаление": "Бактерии, viruses, chlorine"
       },
-      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
+      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "flat-cap-gac",
-      "name": "Flat Cap GAC Filter",
+      "name": "Flat Cap GAC Фильтр",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/a13apsudf-mp8MqXBP8ptD7oab.jpg",
-      "desc": "Universal GAC filter with Flat Cap connection. Made with silicon rubber flat cap. Effectively removes chlorine, sediment, and other contaminants. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Cap": "Silicon Rubber Flat Cap",
-        "Material": "GAC"
+        "Тип крышки": "Flat End Cap (compatible with most counter-top & under-sink RO systems)",
+        "Длина": "10\" standard",
+        "Диаметр": "65 mm – 70 mm",
+        "Варианты наполнителя": "PP melt-blown / GAC / CTO Carbon Block / T33",
+        "Макс. рабочее давление": "0.6 MPa",
+        "Сертификаты": "NSF/ANSI 42 & 53, FDA, ISO 9001:2015, SGS",
+        "Срок службы": "3 – 12 месяцев",
+        "Крышка": "Silicon Rubber Flat Cap",
+        "Материал": "GAC",
+        "Процесс": "Photocatalytic oxidation",
+        "Удаление": "Бактерии, viruses, chlorine"
       },
-      "image_local": "assets/products/flat-cap-gac_a13apsudf-mp8MqXBP8ptD7oab.jpg"
+      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "flat-cap-pp",
-      "name": "Flat Cap PP Melt Blown Sediment Filter",
+      "name": "Flat Cap PP Melt Blown Осадочный Фильтр",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676799952716-A0x3EWL3l7teXEKl.jpg",
-      "desc": "Polypropylene melt-blown sediment filter with flat cap design. Designed for use in standard 10\" filter housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Type": "PP Melt-blown",
-        "Cap": "Flat Cap"
+        "Тип крышки": "Flat End Cap (compatible with most counter-top & under-sink RO systems)",
+        "Длина": "10\" standard",
+        "Диаметр": "65 mm – 70 mm",
+        "Варианты наполнителя": "PP melt-blown / GAC / CTO Carbon Block / T33",
+        "Макс. рабочее давление": "0.6 MPa",
+        "Сертификаты": "NSF/ANSI 42 & 53, FDA, ISO 9001:2015, SGS",
+        "Срок службы": "3 – 12 месяцев",
+        "Тип": "PP Melt-blown",
+        "Крышка": "Flat Cap",
+        "Процесс": "Photocatalytic oxidation",
+        "Удаление": "Бактерии, viruses, chlorine"
       },
-      "image_local": "assets/products/flat-cap-pp_1676799952716-A0x3EWL3l7teXEKl.jpg"
+      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "housing-filter",
-      "name": "Eco Express Water Housing Filter",
+      "name": "Eco Express Water Корпус Фильтр",
       "category": "Filter Housing",
-      "image": "assets/products/6.png",
-      "desc": "Carbon block filter using activated carbon compressed into a block. Removes chlorine, chloramines, pesticides, and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Type": "Carbon Block Housing",
-        "Connector": "Various"
+        "Материал корпуса": "Reinforced FDA-grade PP / SUS 304 / SUS 316L stainless steel",
+        "Материал крышки": "ABS / PP / SUS 304",
+        "Вход/Выход": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Макс. рабочее давление": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "Гидростатическое испытание": "1.5× rated working pressure",
+        "Рабочая температура": "1°C – 50°C",
+        "Сертификаты": "NSF, FDA, ISO 9001:2015, CE PED 2014/68/EU (where applicable)",
+        "Уплотнение": "Food-grade silicone O-rings",
+        "Тип": "Carbon Block Housing",
+        "Connector": "Various",
+        "Размер": "30 inches",
+        "Этапы": "3 (PP, RO, CTO)",
+        "Бренд": "Eco Express Water"
       },
-      "image_local": "assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg"
+      "image_local": "assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg",
+      "features": [
+        "High efficiency",
+        "Large capacity",
+        "Removes particles, chlorine, heavy metals"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/30-big-blue-water-filter/"
     },
     {
       "id": "inline-cation-resin",
-      "name": "Inline Cation Resin Filter Cartridge",
+      "name": "Inline Cation Resin Фильтр Картридж",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.png",
-      "desc": "Softens water by removing hard minerals such as calcium and magnesium, reducing scale buildup in appliances. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Function": "Water Softening",
-        "Resin": "Cation Exchange"
+        "Корпус": "Food-grade PE / PP one-piece sealed body",
+        "Подключение": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Фильтрующий материал": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Срок службы": "12 месяцев / 6,000 L (что наступит раньше)",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификаты": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Доступно · custom logo printing · MOQ 2,000 pcs",
+        "Функция": "Water Softening",
+        "Смола": "Cation Exchange"
       },
-      "image_local": "assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "inline-pp",
-      "name": "Inline PP Cartridge",
+      "name": "Inline PP Картридж",
       "category": "Inline Filter",
-      "image": "assets/products/7.png",
-      "desc": "Inline polypropylene sediment filter for compact water purification systems. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Material": "Polypropylene",
-        "Filtration": "5μm"
+        "Корпус": "Food-grade PE / PP one-piece sealed body",
+        "Подключение": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Фильтрующий материал": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Срок службы": "Up to 6 месяцев",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификаты": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Доступно · custom logo printing · MOQ 2,000 pcs",
+        "Материал": "Polypropylene",
+        "Фильтрация": "5μm",
+        "Установка": "Direct inline"
       },
-      "image_local": "assets/products/inline-pp_PP-filter-copy.jpg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "inline-small-mol",
-      "name": "Small Molecule Antibacterial Mineralization Filter",
+      "name": "Small Molecule Antibacterial Mineralization Фильтр",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSyVBbJ.png",
-      "desc": "Advanced filtration removing harmful bacteria and viruses while adding beneficial minerals to water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Function": "Antibacterial + Mineralization",
-        "Connector": "Quick-connect"
+        "Корпус": "Food-grade PE / PP one-piece sealed body",
+        "Подключение": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Фильтрующий материал": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Срок службы": "12 месяцев / 6,000 L (что наступит раньше)",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификаты": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Доступно · custom logo printing · MOQ 2,000 pcs",
+        "Функция": "Mineralization",
+        "Connector": "Quick-connect",
+        "Преимущества": "Improved taste, health"
       },
-      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "inline-t33-coconut",
-      "name": "T33 Coconut Shell Carbon Inline Filter",
+      "name": "T33 Coconut Shell Угольный Inline Фильтр",
       "category": "Inline Filter",
-      "image": "assets/products/8.png",
-      "desc": "Post-filter T33 inline cartridge with premium coconut shell activated carbon for taste polishing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Carbon": "Coconut Shell",
-        "Position": "Post-filter"
+        "Корпус": "Food-grade PE / PP one-piece sealed body",
+        "Подключение": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Фильтрующий материал": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Срок службы": "12 месяцев / 6,000 L (что наступит раньше)",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификаты": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Доступно · custom logo printing · MOQ 2,000 pcs",
+        "Уголь": "Coconut Shell",
+        "Позиция": "Post-filter",
+        "Материал": "Coconut shell activated carbon",
+        "Преимущества": "Improved taste and odor"
       },
-      "image_local": "assets/products/inline-t33-coconut_wechatimg25674-m7V2npvka6TLValG.jpeg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "inline-t33-mineral",
-      "name": "Mineralized Small T33 Inline Water Filter",
-      "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png",
-      "desc": "Improves taste and odor by removing chlorine and adding beneficial minerals to water for improved health and hydration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "name": "Минерализующий малый линейный фильтр T33",
+      "category": "Линейный фильтр",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Улучшает вкус и запах, удаляя хлор и добавляя полезные минералы. Оптовые поставки с завода, кастомизация для OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай, на заводе площадью 20 000+ м². Мы экспортируем в 50+ стран.",
       "specs": {
-        "Function": "Mineralization + Polishing",
-        "Connector": "Quick-connect"
+        "Корпус": "Пищевой PE / PP монолитный корпус",
+        "Подключение": "1/4\" или 3/8\" быстроразъемное",
+        "Фильтрующий материал": "Уголь из кокосовой скорлупы / KDF / камень Майфан / минеральные шарики",
+        "Макс. рабочее давление": "0.6 МПа (87 psi)",
+        "Срок службы": "12 месяцев / 6000 л",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификация": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Доступно · индивидуальный логотип · MOQ 2000 шт.",
+        "Функция": "Минерализация",
+        "Разъем": "Быстроразъемный",
+        "Преимущества": "Улучшенный вкус, здоровье"
       },
-      "image_local": "assets/products/inline-t33-mineral_mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "maifan-inline",
-      "name": "Maifan Stone Inline Filter",
-      "category": "Inline Filter",
-      "image": "assets/products/maifan-inline-v4.png",
-      "desc": "Inline filter containing Maifan stones to mineralize water and improve taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "name": "Линейный фильтр с камнем Майфан",
+      "category": "Линейный фильтр",
+      "image": "../assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg",
+      "desc": "Линейный фильтр с камнями Майфан для минерализации воды. Оптовые поставки с завода, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Чжэцзян, Китай.",
       "specs": {
-        "Mineral": "Maifan Stone",
-        "Function": "Mineralization"
+        "Корпус": "Пищевой PE / PP монолитный корпус",
+        "Подключение": "1/4\" или 3/8\" быстроразъемное",
+        "Фильтрующий материал": "Уголь из кокосовой скорлупы / KDF / камень Майфан / минеральные шарики",
+        "Макс. рабочее давление": "0.6 МПа (87 psi)",
+        "Срок службы": "До 6 месяцев",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификация": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Доступно · индивидуальный логотип · MOQ 2000 шт.",
+        "Минерал": "Камень Майфан",
+        "Функция": "Минерализация",
+        "Установка": "Прямая линейная"
       },
-      "image_local": "assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg"
+      "image_local": "assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "mid-filter",
-      "name": "Medium Size Water Filter w/ Copper Connector",
-      "category": "Filter Cartridge",
-      "image": "assets/products/9.png",
-      "desc": "Medium-sized water filter cartridge featuring a copper connector for robust installation and performance. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "name": "Фильтр для воды среднего размера с медным разъемом",
+      "category": "Фильтрующий картридж",
+      "image": "../assets/products/mid-filter_MG_9234-scaled.jpg",
+      "desc": "Картридж среднего размера с медным разъемом для надежной установки. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Size": "Medium",
-        "Connector": "Copper"
+        "Материал": "Пищевой полипропилен / активированный уголь из скорлупы кокоса",
+        "Точность фильтрации": "1 мкм / 5 мкм / 10 мкм",
+        "Стандартная длина": "10\" / 20\"",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 МПа (60 psi)",
+        "Срок службы": "До 6 месяцев",
+        "Сертификация": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1000 шт.",
+        "Размер": "Средний",
+        "Разъем": "Медный",
+        "Установка": "Прямая линейная"
       },
-      "image_local": "assets/products/mid-filter_MG_9234-scaled.jpg"
+      "image_local": "assets/products/mid-filter_MG_9234-scaled.jpg",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "mineral-inline",
-      "name": "Inline Mineral Filter",
-      "category": "Inline Filter",
-      "image": "assets/products/mineral-inline-v4.png",
-      "desc": "Adds essential minerals back into purified water to enhance health benefits and taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "name": "Линейный минеральный фильтр",
+      "category": "Линейный фильтр",
+      "image": "../assets/products/mineral-inline_Mineral-Filter-copy.jpg",
+      "desc": "Возвращает минералы в воду. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Function": "Mineralization",
-        "Adds": "Ca/Mg/K minerals"
+        "Корпус": "Пищевой PE / PP монолитный корпус",
+        "Подключение": "1/4\" или 3/8\" быстроразъемное",
+        "Фильтрующий материал": "Уголь из кокосовой скорлупы / KDF / камень Майфан / минеральные шарики",
+        "Макс. рабочее давление": "0.6 МПа (87 psi)",
+        "Срок службы": "12 месяцев / 6000 л",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификация": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Доступно · индивидуальный логотип · MOQ 2000 шт.",
+        "Функция": "Минерализация",
+        "Добавки": "Минералы Ca/Mg/K",
+        "Преимущества": "Вкус, здоровье"
       },
-      "image_local": "assets/products/mineral-inline_Mineral-Filter-copy.jpg"
+      "image_local": "assets/products/mineral-inline_Mineral-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "mt-600dg",
-      "name": "Dark Green Water Dispenser MT-600DG",
-      "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.png",
-      "desc": "Wall-mounted pipeline water dispenser with sleek modern design in unique dark green color. Saves floor space and provides continuous supply of clean water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "name": "Настенный диспенсер для воды MT-600DG (Темно-зеленый)",
+      "category": "Диспенсер для воды",
+      "image": "../assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg",
+      "desc": "Настенный пурифайер с современным дизайном. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Mount": "Wall-mounted",
-        "Color": "Dark Green",
-        "Power": "2200W"
+        "Мощность нагрева": "420 Вт – 1000 Вт",
+        "Мощность охлаждения": "85 Вт – 110 Вт",
+        "Температура горячей воды": "85°C – 95°C",
+        "Температура холодной воды": "8°C – 12°C",
+        "Монтаж": "Настенный / Вертикальный / Настольный",
+        "Напряжение": "110В/60Гц или 220В/50Гц",
+        "Этапы фильтрации": "5-этапный RO + UF + минерализация",
+        "Суточная производительность": "75 GPD – 600 GPD",
+        "Сертификация": "CE, RoHS, FCC, China 3C, NSF, Halal",
+        "OEM/ODM": "Цвет, UI панели, вилка, упаковка — кастомизируется",
+        "Крепление": "Настенное",
+        "Цвет": "Темно-зеленый",
+        "Мощность": "2200 Вт",
+        "Этапы": "5 этапов объема, 5 уровней темп.",
+        "Нагрев": "3 секунды мгновенный нагрев",
+        "Цвета": "Золотой, Белый, Темно-зеленый, Черный"
       },
-      "image_local": "assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg"
+      "image_local": "assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg",
+      "source_url": "https://www.expresswater.cn/water-dispenser"
     },
     {
       "id": "mt-900g",
-      "name": "Golden Color Water Dispenser MT-900G",
-      "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ee2ae-3-4-m5KPNbPPwluQy8no.png",
-      "desc": "Wall-mounted pipeline water dispenser with 5 stages of water volume (150ml–850ml) and 5 levels of water temperature (25°C–100°C). 316L titanium gold stainless steel heating element. Child safety lock. Premium golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "name": "Золотистый диспенсер для воды MT-900G",
+      "category": "Диспенсер для воды",
+      "image": "../assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg",
+      "desc": "Настенный диспенсер с 5 уровнями объема и температуры. Нагревательный элемент из нержавеющей стали 316L. Премиальная стеклянная панель. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO.",
       "specs": {
-        "Power": "2200W",
-        "Volume": "5 stages 150–850ml",
-        "Temperature": "25–100°C",
-        "Material": "316L Stainless Steel"
+        "Мощность нагрева": "420 Вт – 1000 Вт",
+        "Мощность охлаждения": "85 Вт – 110 Вт",
+        "Температура горячей воды": "85°C – 95°C",
+        "Температура холодной воды": "8°C – 12°C",
+        "Монтаж": "Настенный / Вертикальный / Настольный",
+        "Напряжение": "110В/60Гц или 220В/50Гц",
+        "Этапы фильтрации": "5-этапный RO + UF + минерализация",
+        "Суточная производительность": "75 GPD – 600 GPD",
+        "Сертификация": "CE, RoHS, FCC, China 3C, NSF, Halal",
+        "OEM/ODM": "Цвет, UI панели, вилка, упаковка — кастомизируется",
+        "Объем": "5 уровней (150-850 мл)",
+        "Температура": "5 уровней (25-100°C)",
+        "Бак": "3-литровый встроенный бак",
+        "Дисплей": "Светодиодный сенсорный экран",
+        "Время нагрева": "Мгновенно"
       },
-      "image_local": "assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg"
+      "image_local": "assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg",
+      "source_url": "https://www.expresswater.cn/water-dispenser"
     },
     {
       "id": "mt-b600",
-      "name": "White Color Water Dispenser MT-B600",
+      "name": "White Color Water Диспенсер MT-B600",
       "category": "Water Dispenser",
-      "image": "assets/products/mt-b600-white.png",
-      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power and fast 3-second heating. Whole glass panel with matte spray plastic parts. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Power": "2200W",
-        "Hot Output": "3 seconds",
-        "Color": "White Glass Panel"
+        "Мощность нагрева": "420W – 1,000W (model dependent)",
+        "Мощность охлаждения": "85W – 110W (model dependent)",
+        "Температура горячей воды": "85°C – 95°C",
+        "Температура холодной воды": "8°C – 12°C",
+        "Монтаж": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Напряжение": "110V/60Hz or 220V/50Hz (настраиваемо for global markets)",
+        "Этапы фильтрации": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Суточная производительность": "75 GPD – 600 GPD",
+        "Сертификаты": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all настраиваемо",
+        "Мощность": "2200W",
+        "Подача горячей воды": "3 seconds",
+        "Цвет": "White Glass Panel",
+        "Этапы": "5 stages volume, 5 levels temp",
+        "Нагрев": "3 seconds instant heat",
+        "Цвета": "Golden, White, Dark Green, Black"
       },
-      "image_local": "assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg"
+      "image_local": "assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg",
+      "source_url": "https://www.expresswater.cn/water-dispenser"
     },
     {
       "id": "mt-dv-e600",
-      "name": "1000W Vertical Water Dispenser MT-DV-E600",
+      "name": "1000W Vertical Water Диспенсер MT-DV-E600",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-dv-e600-mxBj0l5gB4U8pZwq.png",
-      "desc": "High-power vertical water dispenser with 304 stainless steel tank and 1KW heating power. LED digital screen. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Power": "1000W",
-        "Tank": "304 Stainless Steel",
-        "Display": "LED Digital"
+        "Мощность нагрева": "2200W",
+        "Мощность охлаждения": "85W – 110W (model dependent)",
+        "Температура горячей воды": "85°C – 95°C",
+        "Температура холодной воды": "8°C – 12°C",
+        "Монтаж": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Напряжение": "110V/60Hz or 220V/50Hz (настраиваемо for global markets)",
+        "Этапы фильтрации": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Суточная производительность": "75 GPD – 600 GPD",
+        "Сертификаты": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all настраиваемо",
+        "Мощность": "1000W",
+        "Бак": "304 Stainless Steel",
+        "Дисплей": "LED Digital",
+        "Время нагрева": "3 seconds",
+        "Сертификат": "3C"
       },
-      "image_local": "assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg"
+      "image_local": "assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg",
+      "features": [
+        "Multiple temperature settings",
+        "Selectable water volume",
+        "Advanced filtration system"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/hot-and-cold-wall-mounted-pipeline-water-dispenser/"
     },
     {
       "id": "mt-e600",
-      "name": "Wall Mounted Water Dispenser MT-E600",
+      "name": "Wall Mounted Water Диспенсер MT-E600",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/e-600-bw-dWxeGeNwMWu0NzBY.png",
-      "desc": "Black & white dual-color wall-mounted pipeline water dispenser. Compact, energy-saving, with multi-stage water output. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Mount": "Wall-mounted",
-        "Color": "Black/White"
+        "Мощность нагрева": "2200W",
+        "Мощность охлаждения": "85W – 110W (model dependent)",
+        "Температура горячей воды": "85°C – 95°C",
+        "Температура холодной воды": "8°C – 12°C",
+        "Монтаж": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Напряжение": "110V/60Hz or 220V/50Hz (настраиваемо for global markets)",
+        "Этапы фильтрации": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Суточная производительность": "75 GPD – 600 GPD",
+        "Сертификаты": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all настраиваемо",
+        "Крепление": "Wall-mounted",
+        "Цвет": "Black/White",
+        "Время нагрева": "3 seconds",
+        "Сертификат": "3C"
       },
-      "image_local": "assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg"
+      "image_local": "assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg",
+      "features": [
+        "Multiple temperature settings",
+        "Selectable water volume",
+        "Advanced filtration system"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/hot-and-cold-wall-mounted-pipeline-water-dispenser/"
     },
     {
       "id": "mt-s800",
-      "name": "Golden Color Water Dispenser MT-S800",
+      "name": "Golden Color Water Диспенсер MT-S800",
       "category": "Water Dispenser",
-      "image": "assets/products/mt-s800-golden.png",
-      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power. Fast 3-second hot water output. 5 stages water volume and temperature adjustment. Golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Power": "2200W",
-        "Hot Output": "3 seconds",
-        "Color": "Golden Glass Panel"
+        "Мощность нагрева": "420W – 1,000W (model dependent)",
+        "Мощность охлаждения": "85W – 110W (model dependent)",
+        "Температура горячей воды": "85°C – 95°C",
+        "Температура холодной воды": "8°C – 12°C",
+        "Монтаж": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Напряжение": "110V/60Hz or 220V/50Hz (настраиваемо for global markets)",
+        "Этапы фильтрации": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Суточная производительность": "75 GPD – 600 GPD",
+        "Сертификаты": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all настраиваемо",
+        "Мощность": "2200W",
+        "Подача горячей воды": "3 seconds",
+        "Цвет": "Golden Glass Panel",
+        "Этапы": "5 stages volume, 5 levels temp",
+        "Нагрев": "3 seconds instant heat",
+        "Цвета": "Golden, White, Dark Green, Black"
       },
-      "image_local": "assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg"
+      "image_local": "assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg",
+      "source_url": "https://www.expresswater.cn/water-dispenser"
     },
     {
       "id": "mt-v-e300a",
-      "name": "Vertical Water Dispenser MT-V-E300A",
+      "name": "Vertical Water Диспенсер MT-V-E300A",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.png",
-      "desc": "Vertical floor-standing water dispenser with 304 stainless steel water tank and multiple water outlet options. Black/White design. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Type": "Vertical",
-        "Tank": "304 Stainless Steel",
-        "Color": "Black/White"
+        "Мощность нагрева": "2200W",
+        "Мощность охлаждения": "85W – 110W (model dependent)",
+        "Температура горячей воды": "85°C – 95°C",
+        "Температура холодной воды": "8°C – 12°C",
+        "Монтаж": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Напряжение": "110V/60Hz or 220V/50Hz (настраиваемо for global markets)",
+        "Этапы фильтрации": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Суточная производительность": "75 GPD – 600 GPD",
+        "Сертификаты": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all настраиваемо",
+        "Тип": "Vertical",
+        "Бак": "304 Stainless Steel",
+        "Цвет": "Black/White",
+        "Время нагрева": "3 seconds",
+        "Сертификат": "3C"
       },
-      "image_local": "assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg"
+      "image_local": "assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg",
+      "features": [
+        "Multiple temperature settings",
+        "Selectable water volume",
+        "Advanced filtration system"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/hot-and-cold-wall-mounted-pipeline-water-dispenser/"
     },
     {
       "id": "post-t33",
-      "name": "Post T33 Inline Carbon Filter",
+      "name": "Post T33 Inline Угольный Фильтр",
       "category": "Inline Filter",
-      "image": "assets/products/post-t33-v4.png",
-      "desc": "Post-filtration inline carbon filter for polishing water taste and removing residual odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Position": "Final stage",
-        "Material": "Activated Carbon"
+        "Корпус": "Food-grade PE / PP one-piece sealed body",
+        "Подключение": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Фильтрующий материал": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Срок службы": "12 месяцев / 6,000 L (что наступит раньше)",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификаты": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Доступно · custom logo printing · MOQ 2,000 pcs",
+        "Позиция": "Final stage",
+        "Материал": "Coconut shell activated carbon",
+        "Преимущества": "Improved taste and odor"
       },
-      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg"
+      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "pp-fin-cap",
-      "name": "PP Melt Blown Filter with Fin End Cap",
+      "name": "PP Melt Blown Фильтр with Fin End Cap",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
-      "desc": "Industrial PP cartridge with a fin-style end cap for secure, leak-free seating in housing units. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "End Cap": "Fin Type",
-        "Material": "Polypropylene"
+        "Материал": "Polypropylene",
+        "Варианты длины": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Рейтинг фильтрации": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "Тип торцевой крышки": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Макс. рабочая температура": "60°C",
+        "Сертификаты": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Применение": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
+        "End Cap": "222 Flat and Fin end Nitrile O-Ring caps",
+        "Размер": "10\" to 50\"",
+        "Тип": "DOE or SOE"
       },
-      "image_local": "assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg"
+      "image_local": "assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "pp-silicon-ring",
-      "name": "PP Melt Blown Filter with Silicon Ring",
+      "name": "PP Melt Blown Фильтр with Silicon Ring",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
-      "desc": "PP filter cartridge equipped with food-grade silicon sealing ring for high-reliability sealing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
+        "Материал": "Polypropylene",
+        "Варианты длины": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Рейтинг фильтрации": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "Тип торцевой крышки": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Макс. рабочая температура": "60°C",
+        "Сертификаты": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Применение": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
         "Ring": "Food-grade Silicon",
-        "Material": "Polypropylene"
+        "Размер": "10\" to 50\"",
+        "Тип": "DOE or SOE",
+        "End Cap": "222 Flat and Fin end Nitrile O-Ring caps"
       },
-      "image_local": "assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg"
+      "image_local": "assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "pp-soe-doe",
-      "name": "Industrial PP Melt Blown Sediment Filter (SOE/DOE)",
+      "name": "Industrial PP Melt Blown Осадочный Фильтр (SOE/DOE)",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.png",
-      "desc": "Industrial-grade PP melt-blown filter, available in SOE (Single Open End) and DOE (Double Open End) configurations. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Type": "SOE/DOE",
-        "Material": "Polypropylene",
-        "Industry": "Industrial"
+        "Материал": "Polypropylene",
+        "Варианты длины": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Рейтинг фильтрации": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "Тип торцевой крышки": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Макс. рабочее давление": "0.6 MPa (87 psi)",
+        "Макс. рабочая температура": "60°C",
+        "Сертификаты": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Применение": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
+        "Тип": "DOE or SOE",
+        "Отрасль": "Industrial",
+        "Размер": "10\" to 50\"",
+        "End Cap": "222 Flat and Fin end Nitrile O-Ring caps"
       },
-      "image_local": "assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg"
+      "image_local": "assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "pp-spun",
-      "name": "PP Melt Blown Sediment Filter Cartridge",
+      "name": "PP Melt Blown Осадочный Фильтр Картридж",
       "category": "Filter Cartridge",
-      "image": "assets/products/pp-spun-v4.png",
-      "desc": "Melt-blown 100% pure polypropylene microfibers. Removes rust, silt, scale, sediment, dirt. Available in 10/20/30/40 inches. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pp-spun_PP-Spun-Filter-copy.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Material": "100% Polypropylene",
-        "Sizes": "10–40 inch",
-        "Removes": "Sediment 5μm"
+        "Материал": "100% Polypropylene",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Размеры": "10–40 inch",
+        "Removes": "Sediment 5μm",
+        "Размер": "10\" to 50\"",
+        "Микрон": "As small as 0.1 microns",
+        "Тип": "DOE or SOE"
       },
-      "image_local": "assets/products/pp-spun_PP-Spun-Filter-copy.jpg"
+      "image_local": "assets/products/pp-spun_PP-Spun-Filter-copy.jpg",
+      "features": [
+        "Efficient filtration",
+        "High flow rate",
+        "Cost-effective"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/pp-melt-blown-filter-sediments/"
     },
     {
       "id": "ppf-cartridge",
-      "name": "PP Melt BlownF Polypropylene Fiber Cartridge",
+      "name": "PP Melt BlownF Polypropylene Fiber Картридж",
       "category": "Filter Cartridge",
-      "image": "assets/products/ppf-cartridge-v4.png",
-      "desc": "Polypropylene fiber filter cartridge for sediment removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ppf-cartridge_PPF-Filter-copy.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Material": "PP Fiber",
-        "Function": "Sediment"
+        "Материал": "PP Fiber",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Функция": "Sediment",
+        "Размер": "10\" to 50\"",
+        "Микрон": "As small as 0.1 microns",
+        "Тип": "DOE or SOE"
       },
-      "image_local": "assets/products/ppf-cartridge_PPF-Filter-copy.jpg"
+      "image_local": "assets/products/ppf-cartridge_PPF-Filter-copy.jpg",
+      "features": [
+        "Efficient filtration",
+        "High flow rate",
+        "Cost-effective"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/pp-melt-blown-filter-sediments/"
     },
     {
       "id": "pre-udf",
-      "name": "Pre-UDF Activated Carbon Cartridge",
+      "name": "Pre-UDF Activated Угольный Картридж",
       "category": "Filter Cartridge",
-      "image": "assets/products/pre-udf-v4.png",
-      "desc": "Pre-filtration granular activated carbon cartridge to protect downstream membranes. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pre-udf_Pre-UDF-Filter-copy.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Position": "Pre-filter",
-        "Material": "GAC"
+        "Материал": "GAC",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Позиция": "Pre-filter",
+        "Подключение": "Silicon Ring Seal",
+        "Обслуживание": "Easy"
       },
-      "image_local": "assets/products/pre-udf_Pre-UDF-Filter-copy.jpg"
+      "image_local": "assets/products/pre-udf_Pre-UDF-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "resin-filter",
-      "name": "Ion-Exchange Resin Filter",
+      "name": "Ion-Exchange Resin Фильтр",
       "category": "Filter Cartridge",
-      "image": "assets/products/10.png",
-      "desc": "Ion-exchange resin cartridge for water softening and removal of heavy metals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Function": "Water Softening",
+        "Материал": "Пищевой полипропилен / Активированный уголь из скорлупы кокоса",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Функция": "Water Softening",
         "Removes": "Ca/Mg/Heavy Metals"
       },
-      "image_local": "assets/products/resin-filter_WeChat48b644654d6e0f5e709716ba2298b556-889x1024.png"
+      "image_local": "assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg",
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "ro-membrane",
-      "name": "Reverse Osmosis (RO) Membrane Element Element",
-      "category": "Filter Cartridge",
-      "image": "assets/products/ro-membrane-v4.png",
-      "desc": "Reverse osmosis membrane cartridge — the core component of RO systems for desalination and purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "name": "Мембранный элемент обратного осмоса (RO)",
+      "category": "RO System",
+      "image": "../assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg",
+      "desc": "Высококачественная мембрана RO для глубокой очистки воды. Удаляет 99% загрязнений. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Type": "RO TFC Membrane",
-        "Capacity": "75/100/400 GPD"
+        "Тип мембраны": "Тонкопленочный композит (TFC) полиамид",
+        "Производительность": "50 / 75 / 100 / 200 / 400 / 600 GPD",
+        "Степень обессоливания": "≥ 96% – 99%",
+        "Рабочее давление": "0.4 – 1.0 МПа",
+        "Рабочая температура": "5°C – 45°C",
+        "Сертификация": "NSF/ANSI 58, ISO 9001:2015, CE",
+        "OEM/ODM": "Доступно · наклейка бренда · MOQ 500 шт.",
+        "Тип": "Бытовой / Коммерческий",
+        "Этапы": "Основная фильтрация"
       },
-      "image_local": "assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg"
+      "image_local": "assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg",
+      "source_url": "https://www.expresswater.cn/ro-membrane"
     },
     {
       "id": "ro-membrane-400g",
-      "name": "400GPD High-Flow Reverse Osmosis (RO) Membrane Element",
+      "name": "Высокопоточный мембранный элемент RO 400GPD",
       "category": "RO System",
-      "desc": "High-capacity reverse osmosis membrane for residential and light commercial water purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ro-membrane-400g.png",
+      "desc": "Мембрана RO производительностью 400 галлонов в сутки для систем без накопительного бака. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Capacity": "400 GPD",
-        "Type": "Dry Membrane"
-      }
+        "Тип мембраны": "Тонкопленочный композит (TFC) полиамид",
+        "Производительность": "400 GPD",
+        "Степень обессоливания": "≥ 98%",
+        "Рабочее давление": "0.5 – 1.2 МПа",
+        "Рабочая температура": "5°C – 45°C",
+        "Сертификация": "NSF/ANSI 58, ISO 9001:2015, CE",
+        "OEM/ODM": "Доступно · наклейка бренда · MOQ 500 шт.",
+        "Тип": "Высокопоточный"
+      },
+      "image_local": "assets/products/ro-membrane-400g.png",
+      "source_url": "https://www.expresswater.cn/ro-membrane"
     },
     {
       "id": "ro-undersink",
-      "name": "Under-Sink Reverse Osmosis Water Filter",
+      "name": "Система обратного осмоса под мойку",
       "category": "RO System",
-      "image": "assets/products/11.png",
-      "desc": "Gravity-fed RO system relying on incoming water pressure to push water through the RO membrane. Multi-stage: sediment filter, carbon filter, RO membrane. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg",
+      "desc": "Многоступенчатая система RO для дома. Удаляет ржавчину, хлор, тяжелые металлы. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Stages": "Multi-stage",
-        "Type": "No Pump Required",
-        "Membrane": "RO 75GPD"
+        "Этапы фильтрации": "5 / 6 / 7 этапов RO + UV (настраиваемо)",
+        "Тип мембраны": "TFC полиамид",
+        "Производительность": "50 – 600 GPD",
+        "Степень обессоливания": "≥ 96% – 99%",
+        "Рабочее давление": "0.1 – 0.4 МПа",
+        "Соотношение чистая вода/дренаж": "1:1 – 1:3",
+        "Накопительный бак": "3.2 / 4.4 / 5.5 галлона",
+        "Сертификация": "NSF/ANSI 58, ISO 9001, CE",
+        "Тип": "Безнасосная / С насосом",
+        "Мембрана": "RO 75GPD"
       },
-      "image_local": "assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg"
+      "image_local": "assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg",
+      "source_url": "https://www.expresswater.cn/ro-system"
     },
     {
       "id": "ss-jumbo-housing",
-      "name": "Промышленный корпус фильтра Jumbo из нержавеющей стали 304/316L",
-      "category": "Корпус фильтра",
-      "image": "assets/products/ss-jumbo-housing-v4.png",
-      "desc": "Прочный корпус из нержавеющей стали 304 доступен в размерах 10 и 20 дюймов. Совместим с мембранами ультрафильтрации (UF), полипропиленовыми осадочными фильтрами (PP) и угольными блочными фильтрами (CTO). Идеально подходит для высокопоточных систем. Оптовые поставки с завода, возможность изготовления по OEM/ODM. Сертифицирован NSF/ISO для промышленной и коммерческой очистки воды.",
+      "name": "Промышленный корпус фильтра Jumbo из стали 304/316L",
+      "category": "Filter Housing",
+      "image": "../assets/products/ss-jumbo-housing-v4.png",
+      "desc": "Прочный корпус из нержавеющей стали для высоких нагрузок. Размеры 10 и 20 дюймов. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO.",
       "specs": {
-        "Material": "304 Stainless Steel",
-        "Size": "10\" / 20\" Jumbo",
-        "Compatibility": "PP, Carbon, UF",
-        "Type": "High-Pressure"
+        "Материал корпуса": "Усиленный PP / SUS 304 / SUS 316L",
+        "Материал крышки": "ABS / PP / SUS 304",
+        "Вход/Выход": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Макс. рабочее давление": "8.6 бар (PP) / 16 бар (SS)",
+        "Гидростатическое испытание": "1.5× рабочего давления",
+        "Рабочая температура": "1°C – 50°C",
+        "Сертификация": "NSF, FDA, ISO 9001, CE",
+        "Уплотнение": "Пищевой силикон",
+        "Материал": "Нержавеющая сталь 304",
+        "Размер": "10\" / 20\" Jumbo",
+        "Совместимость": "PP, Уголь, UF",
+        "Бренд": "Eco Express Water"
       },
-      "image_local": "assets/products/ss_jumbo_housing.jpg"
+      "image_local": "assets/products/ss-jumbo-housing-v4.png",
+      "source_url": "https://www.expresswater.cn/filter-housing"
     },
     {
       "id": "t33-post",
-      "name": "T33 Post Filter Cartridge",
-      "category": "Inline Filter",
-      "image": "assets/products/t33-post-v4.png",
-      "desc": "High-quality post-carbon filter for final stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "name": "Пост-фильтрующий картридж T33",
+      "category": "Линейный фильтр",
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg",
+      "desc": "Угольный пост-фильтр для финальной очистки. Улучшает вкус и запах. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Position": "Post-filter",
-        "Function": "Polishing"
+        "Корпус": "Пищевой PE / PP",
+        "Подключение": "1/4\" или 3/8\" быстроразъемное",
+        "Фильтрующий материал": "Уголь из кокосовой скорлупы",
+        "Макс. рабочее давление": "0.6 МПа",
+        "Срок службы": "12 месяцев / 6000 л",
+        "Рабочая температура": "5°C – 38°C",
+        "Сертификация": "NSF, FDA, RoHS",
+        "OEM/ODM": "Доступно · печать бренда · MOQ 2000 шт.",
+        "Функция": "Финишная очистка",
+        "Материал": "Активированный уголь из кокосовой скорлупы",
+        "Преимущества": "Улучшение вкуса и запаха"
       },
-      "image_local": "assets/products/t33-post_T33-post-Filter-copy.jpg"
+      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "udf-cartridge",
-      "name": "GAC Granular Activated Carbon (UDF) Filter Cartridge",
-      "category": "Filter Cartridge",
-      "image": "assets/products/udf-cartridge-v4.png",
-      "desc": "Standard 10-inch GAC filter from high iodine value carbon. Reduces chlorine, organic chemicals, unnatural tastes and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "name": "Картридж GAC (UDF) с гранулированным углем",
+      "category": "Фильтрующий картридж",
+      "image": "../assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg",
+      "desc": "Стандартный 10-дюймовый фильтр GAC. Удаляет хлор и органику. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Type": "GAC",
-        "Size": "10 inch",
-        "Iodine": "1000"
+        "Материал": "Пищевой полипропилен / активированный уголь",
+        "Точность фильтрации": "1 мкм / 5 мкм / 10 мкм",
+        "Стандартная длина": "10\" / 20\"",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 МПа",
+        "Срок службы": "3 – 12 месяцев",
+        "Сертификация": "NSF, ISO 9001, FDA",
+        "OEM/ODM": "Доступно · MOQ 1000 шт.",
+        "Тип": "GAC",
+        "Размер": "10 дюймов",
+        "Йодное число": "1000"
       },
-      "image_local": "assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg"
+      "image_local": "assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg",
+      "source_url": "https://www.expresswater.cn/gac-filter"
     },
     {
       "id": "uf-cartridge",
-      "name": "Ultrafiltration (UF) Cartridge",
+      "name": "Ultrafiltration (UF) Картридж",
       "category": "Filter Cartridge",
-      "image": "assets/products/uf-cartridge-v3.png",
-      "desc": "Hollow-fiber ultrafiltration membrane cartridge for removing bacteria, viruses, and colloidal matter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/uf-cartridge.png",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Membrane": "Hollow Fiber",
-        "Filtration": "0.01μm"
+        "Материал": "Пищевой полипропилен / Активированный уголь из скорлупы кокоса",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Membrane": "Полое волокно",
+        "Фильтрация": "0.01μm"
       },
-      "image_local": "assets/products/uf-cartridge_Ultra-FilterUF-copy.jpg"
+      "image_local": "assets/products/uf-cartridge.png",
+      "features": [
+        "Современная мембранная технология"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "uf-filter-2",
-      "name": "UF Hollow Fiber Filter",
+      "name": "UF Hollow Fiber Фильтр",
       "category": "Filter Cartridge",
-      "image": "assets/products/uf-filter-2-v4.png",
-      "desc": "Ultrafiltration cartridge for fine suspended-solids removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/uf-filter-2_UF-Filter-copy.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Material": "Hollow Fiber",
-        "Removes": "Bacteria"
+        "Материал": "Полое волокно",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Removes": "Бактерии"
       },
-      "image_local": "assets/products/uf-filter-2_UF-Filter-copy.jpg"
+      "image_local": "assets/products/uf-filter-2_UF-Filter-copy.jpg",
+      "features": [
+        "Современная мембранная технология"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "ultra-film",
-      "name": "Ultra Film Filter Cartridge",
+      "name": "Ultra Film Фильтр Картридж",
       "category": "Filter Cartridge",
-      "image": "assets/products/ultra-film-v4.png",
-      "desc": "Advanced ultrafiltration film cartridge for high-efficiency filtration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ultra-film_Ultra-Film-Filter-copy.jpg",
+      "desc": "Оптовые поставки с завода, кастомизация для OEM/ODM. Завод сертифицирован по NSF/ISO. Производится в Хайнине, Китай. Продукция проходит независимые испытания на соответствие стандартам NSF/ANSI и имеет маркировку CE. Экспорт в 50+ стран. Имеются сертификаты Халяль.",
       "specs": {
-        "Type": "Ultra Film",
-        "Filtration": "0.01μm"
+        "Материал": "Пищевой полипропилен / Активированный уголь из скорлупы кокоса",
+        "Точность фильтрации": "1 µm / 5 µm / 10 µm (настраиваемо)",
+        "Стандартная длина": "10\" / 20\" (others on request)",
+        "Рабочая температура": "5°C – 45°C",
+        "Макс. рабочее давление": "0.4 MPa (60 psi)",
+        "Срок службы": "3 – 12 месяцев (в зависимости от качества воды)",
+        "Сертификаты": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Доступно · MOQ 1,000 pcs",
+        "Тип": "Ultra Film",
+        "Фильтрация": "0.01μm"
       },
-      "image_local": "assets/products/ultra-film_Ultra-Film-Filter-copy.jpg"
+      "image_local": "assets/products/ultra-film_Ultra-Film-Filter-copy.jpg",
+      "features": [
+        "Современная мембранная технология"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "uv-purifier",
-      "name": "Three Stage Plus UV Water Purifier",
+      "name": "Система очистки воды с УФ-стерилизатором",
       "category": "Water Purifier",
-      "image": "assets/products/12.png",
-      "desc": "Three-stage water purification system enhanced with UV sterilization for superior water safety. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg",
+      "desc": "Многоступенчатая система с УФ-лампой для полной дезинфекции. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Stages": "3 + UV",
-        "Sterilization": "UV-C"
+        "Этапы фильтрации": "Многоступенчатая (PP + GAC + UF / RO)",
+        "Суточная производительность": "До 1000 л/день",
+        "Материал": "Пищевой PP / ABS / SUS 304",
+        "Рабочее давление": "0.1 – 0.4 МПа",
+        "Рабочая температура": "5°C – 45°C",
+        "Сертификация": "NSF, ISO 9001, CE, SGS",
+        "Обслуживание": "Замена ламп раз в год",
+        "Стерилизация": "UV-C",
+        "Тип": "Проточный"
       },
-      "image_local": "assets/products/12.png"
+      "image_local": "assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg",
+      "source_url": "https://www.expresswater.cn/uv-purifier"
     },
     {
       "id": "water-purifier-maifan",
-      "name": "Maifan Stone Mineralizing Purifier",
+      "name": "Минерализующий пурифайер с камнем Майфан",
       "category": "Water Purifier",
-      "desc": "Multi-stage purifier featuring Maifan stone for mineralization and improved water quality. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/water-purifier-maifan.png",
+      "desc": "Пурифайер с камнем Майфан для минерализации воды. Оптовые поставки, OEM/ODM. Сертифицировано NSF/ISO. Производится в Хайнине, Китай.",
       "specs": {
-        "Mineral": "Maifan Stone",
-        "Stages": "5-Stage"
-      }
+        "Этапы фильтрации": "Многоступенчатая (PP + GAC + UF / RO)",
+        "Суточная производительность": "До 1000 л/день",
+        "Материал": "Пищевой PP / ABS / SUS 304",
+        "Рабочее давление": "0.1 – 0.4 МПа",
+        "Рабочая температура": "5°C – 45°C",
+        "Сертификация": "NSF, ISO 9001, CE, SGS",
+        "Минерал": "Камень Майфан",
+        "Этапы": "5-этапный",
+        "Срок службы": "До 6 месяцев",
+        "Установка": "Прямая линейная"
+      },
+      "image_local": "assets/products/water-purifier-maifan.png",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     }
-  ]
+  ],
+  "categories": {
+    "Filter Cartridge": "Фильтрующий картридж",
+    "Filter Housing": "Корпус фильтра",
+    "Flat Cap Filter": "Фильтр с плоской крышкой",
+    "Industrial Filter": "Промышленный фильтр",
+    "Inline Filter": "Линейный фильтр",
+    "RO System": "Система RO",
+    "Water Dispenser": "Диспенсер для воды",
+    "Water Purifier": "Пурифайер для воды"
+  }
 }

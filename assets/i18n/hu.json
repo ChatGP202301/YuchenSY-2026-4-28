@@ -6,650 +6,1222 @@
     "nav_workshop": "Műhely",
     "nav_exhibition": "Kiállítások",
     "nav_contact": "Kapcsolat",
-    "cta_whatsapp": "WhatsApp üzenet küldése",
+    "cta_whatsapp": "WhatsApp",
     "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
     "topbar_email": "✉ <a href=\"mailto:expresswater025@gmail.com\">expresswater025@gmail.com</a>",
-    "topbar_tag": "Global Bulk Wholesale · OEM/ODM Specialist · Since 1998",
-    "hero_eyebrow": "✦ Leading China Water Filter Manufacturer | NSF & ISO Certified Factory",
-    "hero_title": "Industrial-Grade Water Purification & OEM Solutions",
-    "hero_desc": "Global bulk wholesale supplier of high-performance PP Melt Blown, CTO, GAC filters, and RO membranes. Since 1998, we provide NSF/ISO certified OEM/ODM technical support for 50+ countries.",
-    "hero_btn_explore": "Termékek felfedezése",
-    "hero_btn_quote": "Ajánlatkérés",
+    "topbar_tag": "Globális nagykereskedelem · OEM/ODM specialista · 1998 óta",
+    "hero_eyebrow": "✦ Vezető kínai vízszűrő gyártó | NSF és ISO tanúsítvánnyal rendelkező gyár",
+    "hero_title": "Ipari szintű víztisztítás és OEM megoldások",
+    "hero_desc": "Nagy teljesítményű PP Melt Blown, CTO, GAC szűrők és RO membránok globális nagykereskedelmi szállítója. 1998 óta nyújtunk NSF/ISO tanúsítvánnyal rendelkező OEM/ODM technikai támogatást több mint 50 országban.",
+    "hero_btn_explore": "Gyári portfólió megtekintése",
+    "hero_btn_quote": "Nagykereskedelmi ajánlat kérése",
     "stats_years": "Év tapasztalat",
     "stats_models": "Termékmodell",
     "stats_countries": "Kiszolgált ország",
     "stats_area": "Gyártási terület",
     "about_eyebrow": "Rólunk",
-    "about_title": "Több mint 20 év kiválóság a vízszűrésben",
-    "about_desc": "Az Eco Express Water egy csúcstechnológiás környezetvédelmi vállalat, amely vízkezeléshez használt szűrőanyagokra és szűrőberendezésekre specializálódott. Az 1998-ban alapított cégünk integrálja a teljes folyamatot a kutatás-fejlesztéstől, a gyártáson és a marketingen át a technikai támogatásig. Székhelyünk Yuanhua Townban, Haining Cityben, Zhejiang tartományban található. Első osztályú műszaki szakértői csapattal, integrált funkcionális tesztközponttal és nagyszabású gyártóközponttal rendelkezünk. Halal vízszűrők minősített szállítója vagyunk, kielégítve a muszlim fogyasztók egyedi igényeit Malajziában, Indonéziában és más muszlim országokban.",
-    "about_feat_1": "1998-ban alapítva – több mint két évtizedes gyártási szakértelem",
+    "about_title": "20+ év kiválóság a vízszűrésben",
+    "about_desc": "Az Eco Express Water egy csúcstechnológiás környezetvédelmi vállalkozás, amely víztisztításhoz használt szűrőanyagokra és szűrőberendezésekre specializálódott. 1998-ban alapították, termékeink a kutatás-fejlesztéstől, a gyártáson és a marketingen át a technikai támogatásig a teljes folyamatot lefedik. Cégünk Yuanhua városában, Haining Cityben, Zhejiang tartományban található. Első osztályú technikai szakértői csapattal, integrált funkcionális tesztközponttal és nagyméretű gyártóközponttal rendelkezünk. Halal vízszűrők minősített szállítója vagyunk, kielégítve a muszlim fogyasztók egyedi igényeit Malajziában, Indonéziában és más muszlim országokban.",
+    "about_feat_1": "1998-ban alapították – Több mint két évtizedes gyártási tapasztalat",
     "about_feat_2": "Teljes vertikális integráció: K+F, gyártás, minőségellenőrzés, logisztika",
-    "about_feat_3": "NSF, ISO, CE, and Halal certified manufacturing center",
-    "about_feat_4": "Professional OEM/ODM technical support for global brands",
+    "about_feat_3": "NSF, ISO, CE és Halal tanúsítvánnyal rendelkező gyártóközpont",
+    "about_feat_4": "Professzionális OEM/ODM technikai támogatás globális márkák számára",
     "about_feat_5": "Hainingben, Zhejiangban található – Kína vízszűrési központjában",
     "why_eyebrow": "Miért válasszon minket",
     "why_title": "Megbízható gyártási partner",
     "why_desc": "Az alapanyagoktól a végső ellenőrzésig minden termék megfelel szigorú minőségellenőrzési rendszerünknek.",
     "why_card1_title": "Tanúsított minőség",
-    "why_card1_desc": "NSF / ISO / CE / Halal tanúsítványok minden egyes gyártott tételhez.",
-    "why_card2_title": "OEM / ODM készség",
-    "why_card2_desc": "Egyedi márkaépítés, csomagolás és termékspecifikációk az Ön piacához igazítva.",
+    "why_card1_desc": "NSF / ISO / CE / Halal tanúsítványok minden egyes általunk gyártott tétel mögött.",
+    "why_card2_title": "OEM / ODM kész",
+    "why_card2_desc": "Egyedi márkajelzés, csomagolás és termékspecifikációk az Ön piacához igazítva.",
     "why_card3_title": "Házon belüli gyártás",
-    "why_card3_desc": "4 dedikált gyártósor: PP, szén, gyorscsatlakozós és szivárgásvizsgálati sor.",
+    "why_card3_desc": "4 dedikált gyártósor: PP, szén, gyorscsatlakozó és szivárgásteszt.",
     "why_card4_title": "Világszerte történő szállítás",
-    "why_card4_desc": "7–15 napos átfutási idő kiépített exportlogisztikával több mint 50 országba.",
+    "why_card4_desc": "7–15 napos szállítási idő, kiépített exportlogisztikával több mint 50 országba.",
     "products_eyebrow": "Termékeink",
-    "products_title": "Teljes körű vízszűrési portfólió",
+    "products_title": "Teljes vízszűrési portfólió",
     "products_desc": "42 modell 8 kategóriában – az inline patronoktól a függőleges adagolókig és a teljes RO rendszerekig.",
     "cat_all": "Összes termék",
     "product_view_details": "Részletek megtekintése",
     "workshop_eyebrow": "Gyártás",
-    "workshop_title": "Betekintés a műhelyünkbe",
-    "workshop_desc": "4 speciális gyártósor: PP szűrő, szénblokk, gyorscsatlakozós inline és automatikus szivárgásérzékelő sor.",
+    "workshop_title": "Műhelyünk belsejében",
+    "workshop_desc": "4 specializált gyártósor: PP szűrő, szénblokk, gyorscsatlakozós inline és automatikus szivárgásérzékelés.",
     "workshop_pp": "PP szűrő gyártósor",
     "workshop_carbon": "Szénblokk szűrő gyártása",
     "workshop_quick": "Gyorscsatlakozós szűrő gyártása",
-    "workshop_leak": "Automatikus szivárgásvizsgálat",
+    "workshop_leak": "Automatikus szivárgásteszt",
     "exhibition_eyebrow": "Kiállítások",
-    "exhibition_title": "Globális megjelenések",
-    "exhibition_desc": "Találkozzon csapatunkkal az AquaTech Shanghai kiállításon és más jelentős iparági eseményeken.",
+    "exhibition_title": "Globális kiállítások",
+    "exhibition_desc": "Találkozzon csapatunkkal az AquaTech Shanghai és más jelentős iparági eseményeken.",
     "exhibition_aqua1": "AquaTech Shanghai stand",
-    "exhibition_aqua2": "AquaTech Shanghai bemutató",
+    "exhibition_aqua2": "AquaTech Shanghai kiállítás",
     "exhibition_show": "Kiállítási stand",
     "exhibition_customers": "Kiállítási ügyfelek",
     "contact_eyebrow": "Lépjen kapcsolatba velünk",
     "contact_title": "Építsünk együtt",
     "contact_desc": "Meséljen a projektjéről. Értékesítési mérnökeink 24 órán belül válaszolnak.",
     "contact_address_label": "Gyár címe",
-    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang tartomány, Kína",
+    "contact_address": "1# Chuangxin Road, Yuanhua Town, Haining, Zhejiang Province, China",
     "contact_phone_label": "Telefon / WhatsApp",
     "contact_email_label": "E-mail cím",
-    "form_title": "Ajánlatkérés",
+    "form_title": "Ajánlatkérés küldése",
     "form_sub": "Kérjen részletes árajánlatot az Ön specifikációi alapján.",
     "form_name": "Az Ön neve",
     "form_email": "E-mail cím",
     "form_company": "Cégnév",
     "form_msg": "Üzenet / Specifikációk",
     "form_btn": "Ajánlatkérés küldése",
-    "footer_brand_desc": "Leading China manufacturer of water filtration solutions since 1998. Specialized in PP Melt Blown, CTO Carbon Block, GAC, and RO membranes for global bulk wholesale and OEM/ODM partners.",
+    "footer_brand_desc": "Vezető kínai vízszűrési megoldások gyártója 1998 óta. PP Melt Blown, CTO Carbon Block, GAC és RO membránokra specializálódott globális nagykereskedelmi és OEM/ODM partnerek számára.",
     "footer_products": "Termékek",
     "footer_company": "Vállalat",
     "footer_contact": "Kapcsolat",
     "footer_rights": "Minden jog fenntartva.",
-    "modal_specs_title": "Műszaki adatok",
-    "modal_btn_wa": "Érdeklődés WhatsAppon",
+    "modal_specs_title": "Műszaki specifikációk",
+    "modal_btn_wa": "Érdeklődés WhatsApp-on",
     "modal_btn_email": "Érdeklődés e-mailben"
   },
   "categories": {
-    "Filter Cartridge": "Szűrőbetét",
-    "Filter Housing": "Szűrőház",
-    "Flat Cap Filter": "Lapos kupakos szűrő",
-    "Industrial Filter": "Ipari szűrő",
-    "Inline Filter": "Inline szűrő",
-    "RO System": "RO rendszer",
-    "Water Dispenser": "Vízadagoló",
-    "Water Purifier": "Vízszűrő"
+    "Filter Cartridge": "Filter Cartridge",
+    "Filter Housing": "Filter Housing",
+    "Flat Cap Filter": "Flat Cap Filter",
+    "Industrial Filter": "Industrial Filter",
+    "Inline Filter": "Inline Filter",
+    "RO System": "RO System",
+    "Water Dispenser": "Water Dispenser",
+    "Water Purifier": "Water Purifier"
   },
   "products": [
     {
       "id": "alkaline-purifier",
-      "name": "Alkaline Water Purifier System",
+      "name": "Alkaline Víz Tisztító Rendszer",
       "category": "Water Purifier",
-      "desc": "Produces alkaline water by increasing pH levels and adding essential minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Szűrési szakaszok": "Multi-stage (PP + GAC + UF / RO)",
+        "Napi teljesítmény": "Up to 100 L/day (residential) – 1,000 L/day (commercial)",
+        "Anyag": "Food-grade FDA-approved PP / ABS / SUS 304",
+        "Üzemi nyomás": "0.1 – 0.4 MPa",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Tanúsítványok": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "Garancia": "12 – 24 months on housing & electronics",
+        "Alkalmazás": "Residential, restaurant, school, hotel, industrial commercial use",
         "Type": "Alkaline",
-        "pH range": "8.5 - 9.5"
-      }
+        "pH range": "8.5 - 9.5",
+        "Funkció": "Mineralization",
+        "Előnyök": "Improved taste, health"
+      },
+      "image": "../assets/products/alkaline-purifier.png",
+      "image_local": "assets/products/alkaline-purifier.png",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "antibacterial-mineralization",
-      "name": "Antibacterial Mineralization Filter Cartridge",
+      "name": "Antibacterial Mineralization Szűrő Betét",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.png",
-      "desc": "Effectively removes harmful bacteria and viruses and adds beneficial minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Function": "Antibacterial + Mineralization"
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
+        "Funkció": "Mineralization",
+        "Előnyök": "Improved taste, health"
       },
-      "image_local": "assets/products/antibacterial-mineralization_antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.jpg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "big-blue-3stage",
-      "name": "30-inch Three Stage Big Blue Water Filter",
+      "name": "30-inch Three Stage Big Blue Víz Szűrő",
       "category": "Filter Housing",
-      "image": "assets/products/2.png",
-      "desc": "Three-stage filtration: PP filter (large particles), RO membrane (heavy metals, bacteria, viruses), CTO Carbon Block (chlorine, taste). Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Body Material": "Reinforced FDA-grade PP / SUS 304 / SUS 316L stainless steel",
+        "Cap Material": "ABS / PP / SUS 304",
+        "Inlet/Outlet": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Max. üzemi nyomás": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "Hydrostatic Test": "1.5× rated working pressure",
+        "Üzemi hőmérséklet": "1°C – 50°C",
+        "Tanúsítványok": "NSF, FDA, ISO 9001:2015, CE PED 2014/68/EU (where applicable)",
+        "Sealing": "Food-grade silicone O-rings",
         "Size": "30 inches",
-        "Stages": "3",
-        "Type": "Big Blue"
+        "Stages": "3 (PP, RO, CTO)",
+        "Type": "Big Blue",
+        "Brand": "Eco Express Water"
       },
-      "image_local": "assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg"
+      "image_local": "assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg",
+      "features": [
+        "High efficiency",
+        "Large capacity",
+        "Removes particles, chlorine, heavy metals"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/30-big-blue-water-filter/"
     },
     {
       "id": "carbon-block",
-      "name": "CTO Coconut Shell CTO Carbon Block Filter Cartridge",
+      "name": "CTO Coconut Shell CTO Carbon Block Szűrő Betét",
       "category": "Filter Cartridge",
-      "image": "assets/products/1.png",
-      "desc": "Coconut shell activated carbon with high iodine value (1000) for effective purification. 10 inches length, 2.5 inch outer diameter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Activated carbon and sintering coconut shell",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Iodine": "1000",
-        "Material": "Coconut Carbon",
-        "Size": "10×2.5 inch"
+        "Size": "10×2.5 inch",
+        "Technology": "Advanced Carbon Block",
+        "Removal": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/carbon-block_carbon-block-filter-copy.jpg"
+      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "carbon-block-2",
       "name": "Compressed Activated CTO Carbon Block",
       "category": "Industrial Filter",
-      "image": "assets/products/3.png",
-      "desc": "High-density compressed carbon block for superior chlorine and VOC removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Activated carbon and sintering coconut shell",
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Tanúsítványok": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Alkalmazás": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
         "Density": "High",
-        "Removes": "Chlorine, VOCs"
+        "Removes": "Chlorine, VOCs",
+        "Technology": "Advanced Carbon Block",
+        "Removal": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/carbon-block-2_wechatimg25674-mk3lrNoaEaUvnLg7.jpeg"
+      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "carbon-block-industrial",
-      "name": "Industrial High-Flow CTO Carbon Block Filter",
+      "name": "Industrial High-Flow CTO Carbon Block Szűrő",
       "category": "Industrial Filter",
-      "image": "assets/products/4.png",
-      "desc": "Industrial-grade activated carbon block filter for high-flow chemical absorption applications. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Activated carbon and sintering coconut shell",
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Tanúsítványok": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Alkalmazás": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
         "Type": "Carbon Block",
-        "Industry": "Industrial"
+        "Industry": "Industrial",
+        "Technology": "Advanced Carbon Block",
+        "Removal": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
+      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "ceramic-filter",
-      "name": "Ceramic Filter Cartridge",
+      "name": "Ceramic Szűrő Betét",
       "category": "Filter Cartridge",
-      "image": "assets/products/5.png",
-      "desc": "High-quality ceramic filter cartridge for removing fine particles and bacteria. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Filtration": "0.2μm",
         "Type": "Ceramic"
       },
-      "image_local": "assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png"
+      "image_local": "assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png",
+      "features": [
+        "Visual appealing design"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "filter-combo",
-      "name": "Multi-Stage Filter Cartridge Combination",
+      "name": "Multi-Stage Szűrő Betét Combination",
       "category": "Filter Cartridge",
-      "image": "assets/products/filter-combo-v3.png",
-      "desc": "Combination of various filter cartridges designed for multi-stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/filter-combo.png",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Activated carbon and sintering coconut shell",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Stages": "3–5",
-        "Combination": "Custom"
+        "Combination": "Custom",
+        "Technology": "Advanced Carbon Block",
+        "Removal": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/filter-combo_Filter-cartridge-combination-copy.jpg"
+      "image_local": "assets/products/filter-combo.png",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "flat-cap-cto",
-      "name": "Flat Cap CTO Carbon Block Filter",
+      "name": "Flat Cap CTO Carbon Block Szűrő",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676798539834-dOqM8JyQL5fj99OO.jpg",
-      "desc": "Compressed Activated Carbon Block filter with flat cap connection for universal compatibility with standard housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Cap Type": "Flat End Cap (compatible with most counter-top & under-sink RO systems)",
+        "Hossz": "10\" standard",
+        "Átmérő": "65 mm – 70 mm",
+        "Media Options": "PP melt-blown / GAC / CTO Carbon Block / T33",
+        "Max. üzemi nyomás": "0.6 MPa",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, FDA, ISO 9001:2015, SGS",
+        "Élettartam": "3 – 12 months",
         "Type": "CTO",
-        "Cap": "Flat Cap"
+        "Cap": "Flat Cap",
+        "Process": "Photocatalytic oxidation",
+        "Removal": "Bacteria, viruses, chlorine"
       },
-      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
+      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "flat-cap-gac",
-      "name": "Flat Cap GAC Filter",
+      "name": "Flat Cap GAC Szűrő",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/a13apsudf-mp8MqXBP8ptD7oab.jpg",
-      "desc": "Universal GAC filter with Flat Cap connection. Made with silicon rubber flat cap. Effectively removes chlorine, sediment, and other contaminants. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Cap Type": "Flat End Cap (compatible with most counter-top & under-sink RO systems)",
+        "Hossz": "10\" standard",
+        "Átmérő": "65 mm – 70 mm",
+        "Media Options": "PP melt-blown / GAC / CTO Carbon Block / T33",
+        "Max. üzemi nyomás": "0.6 MPa",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, FDA, ISO 9001:2015, SGS",
+        "Élettartam": "3 – 12 months",
         "Cap": "Silicon Rubber Flat Cap",
-        "Material": "GAC"
+        "Anyag": "GAC",
+        "Process": "Photocatalytic oxidation",
+        "Removal": "Bacteria, viruses, chlorine"
       },
-      "image_local": "assets/products/flat-cap-gac_a13apsudf-mp8MqXBP8ptD7oab.jpg"
+      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "flat-cap-pp",
-      "name": "Flat Cap PP Melt Blown Sediment Filter",
+      "name": "Flat Cap PP Melt Blown Sediment Szűrő",
       "category": "Flat Cap Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/1676799952716-A0x3EWL3l7teXEKl.jpg",
-      "desc": "Polypropylene melt-blown sediment filter with flat cap design. Designed for use in standard 10\" filter housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Cap Type": "Flat End Cap (compatible with most counter-top & under-sink RO systems)",
+        "Hossz": "10\" standard",
+        "Átmérő": "65 mm – 70 mm",
+        "Media Options": "PP melt-blown / GAC / CTO Carbon Block / T33",
+        "Max. üzemi nyomás": "0.6 MPa",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, FDA, ISO 9001:2015, SGS",
+        "Élettartam": "3 – 12 months",
         "Type": "PP Melt-blown",
-        "Cap": "Flat Cap"
+        "Cap": "Flat Cap",
+        "Process": "Photocatalytic oxidation",
+        "Removal": "Bacteria, viruses, chlorine"
       },
-      "image_local": "assets/products/flat-cap-pp_1676799952716-A0x3EWL3l7teXEKl.jpg"
+      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "housing-filter",
-      "name": "Eco Express Water Housing Filter",
+      "name": "Eco Express Víz Ház Szűrő",
       "category": "Filter Housing",
-      "image": "assets/products/6.png",
-      "desc": "Carbon block filter using activated carbon compressed into a block. Removes chlorine, chloramines, pesticides, and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Body Material": "Reinforced FDA-grade PP / SUS 304 / SUS 316L stainless steel",
+        "Cap Material": "ABS / PP / SUS 304",
+        "Inlet/Outlet": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Max. üzemi nyomás": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "Hydrostatic Test": "1.5× rated working pressure",
+        "Üzemi hőmérséklet": "1°C – 50°C",
+        "Tanúsítványok": "NSF, FDA, ISO 9001:2015, CE PED 2014/68/EU (where applicable)",
+        "Sealing": "Food-grade silicone O-rings",
         "Type": "Carbon Block Housing",
-        "Connector": "Various"
+        "Csatlakozó": "Various",
+        "Size": "30 inches",
+        "Stages": "3 (PP, RO, CTO)",
+        "Brand": "Eco Express Water"
       },
-      "image_local": "assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg"
+      "image_local": "assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg",
+      "features": [
+        "High efficiency",
+        "Large capacity",
+        "Removes particles, chlorine, heavy metals"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/30-big-blue-water-filter/"
     },
     {
       "id": "inline-cation-resin",
-      "name": "Inline Cation Resin Filter Cartridge",
+      "name": "Inline Cation Resin Szűrő Betét",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.png",
-      "desc": "Softens water by removing hard minerals such as calcium and magnesium, reducing scale buildup in appliances. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Function": "Water Softening",
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
+        "Funkció": "Water Softening",
         "Resin": "Cation Exchange"
       },
-      "image_local": "assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "inline-pp",
-      "name": "Inline PP Cartridge",
+      "name": "Inline PP Betét",
       "category": "Inline Filter",
-      "image": "assets/products/7.png",
-      "desc": "Inline polypropylene sediment filter for compact water purification systems. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Material": "Polypropylene",
-        "Filtration": "5μm"
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
+        "Anyag": "Polypropylene",
+        "Filtration": "5μm",
+        "Lifespan": "Up to 6 months",
+        "Installation": "Direct inline"
       },
-      "image_local": "assets/products/inline-pp_PP-filter-copy.jpg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "inline-small-mol",
-      "name": "Small Molecule Antibacterial Mineralization Filter",
+      "name": "Small Molecule Antibacterial Mineralization Szűrő",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSyVBbJ.png",
-      "desc": "Advanced filtration removing harmful bacteria and viruses while adding beneficial minerals to water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Function": "Antibacterial + Mineralization",
-        "Connector": "Quick-connect"
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
+        "Funkció": "Mineralization",
+        "Csatlakozó": "Quick-connect",
+        "Előnyök": "Improved taste, health"
       },
-      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "inline-t33-coconut",
-      "name": "T33 Coconut Shell Carbon Inline Filter",
+      "name": "T33 Coconut Shell Carbon Inline Szűrő",
       "category": "Inline Filter",
-      "image": "assets/products/8.png",
-      "desc": "Post-filter T33 inline cartridge with premium coconut shell activated carbon for taste polishing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Carbon": "Coconut Shell",
-        "Position": "Post-filter"
+        "Position": "Post-filter",
+        "Anyag": "Coconut shell activated carbon",
+        "Előnyök": "Improved taste and odor"
       },
-      "image_local": "assets/products/inline-t33-coconut_wechatimg25674-m7V2npvka6TLValG.jpeg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "inline-t33-mineral",
-      "name": "Mineralized Small T33 Inline Water Filter",
+      "name": "Mineralized Small T33 Inline Víz Szűrő",
       "category": "Inline Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png",
-      "desc": "Improves taste and odor by removing chlorine and adding beneficial minerals to water for improved health and hydration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Function": "Mineralization + Polishing",
-        "Connector": "Quick-connect"
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
+        "Funkció": "Mineralization",
+        "Csatlakozó": "Quick-connect",
+        "Előnyök": "Improved taste, health"
       },
-      "image_local": "assets/products/inline-t33-mineral_mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "maifan-inline",
-      "name": "Maifan Stone Inline Filter",
+      "name": "Maifan Stone Inline Szűrő",
       "category": "Inline Filter",
-      "image": "assets/products/maifan-inline-v4.png",
-      "desc": "Inline filter containing Maifan stones to mineralize water and improve taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Mineral": "Maifan Stone",
-        "Function": "Mineralization"
+        "Funkció": "Mineralization",
+        "Lifespan": "Up to 6 months",
+        "Installation": "Direct inline"
       },
-      "image_local": "assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg"
+      "image_local": "assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "mid-filter",
-      "name": "Medium Size Water Filter w/ Copper Connector",
+      "name": "Medium Size Víz Szűrő w/ Copper Connector",
       "category": "Filter Cartridge",
-      "image": "assets/products/9.png",
-      "desc": "Medium-sized water filter cartridge featuring a copper connector for robust installation and performance. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mid-filter_MG_9234-scaled.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Size": "Medium",
-        "Connector": "Copper"
+        "Csatlakozó": "Copper",
+        "Lifespan": "Up to 6 months",
+        "Installation": "Direct inline"
       },
-      "image_local": "assets/products/mid-filter_MG_9234-scaled.jpg"
+      "image_local": "assets/products/mid-filter_MG_9234-scaled.jpg",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "mineral-inline",
-      "name": "Inline Mineral Filter",
+      "name": "Inline Mineral Szűrő",
       "category": "Inline Filter",
-      "image": "assets/products/mineral-inline-v4.png",
-      "desc": "Adds essential minerals back into purified water to enhance health benefits and taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mineral-inline_Mineral-Filter-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Function": "Mineralization",
-        "Adds": "Ca/Mg/K minerals"
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
+        "Funkció": "Mineralization",
+        "Adds": "Ca/Mg/K minerals",
+        "Előnyök": "Improved taste, health"
       },
-      "image_local": "assets/products/mineral-inline_Mineral-Filter-copy.jpg"
+      "image_local": "assets/products/mineral-inline_Mineral-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     },
     {
       "id": "mt-600dg",
-      "name": "Dark Green Water Dispenser MT-600DG",
+      "name": "Dark Green Víz Adagoló MT-600DG",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.png",
-      "desc": "Wall-mounted pipeline water dispenser with sleek modern design in unique dark green color. Saves floor space and provides continuous supply of clean water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Heating Power": "420W – 1,000W (model dependent)",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Szűrési szakaszok": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Napi teljesítmény": "75 GPD – 600 GPD",
+        "Tanúsítványok": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Mount": "Wall-mounted",
         "Color": "Dark Green",
-        "Power": "2200W"
+        "Power": "2200W",
+        "Stages": "5 stages volume, 5 levels temp",
+        "Heating": "3 seconds instant heat",
+        "Colors": "Golden, White, Dark Green, Black"
       },
-      "image_local": "assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg"
+      "image_local": "assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg",
+      "source_url": "https://www.expresswater.cn/water-dispenser"
     },
     {
       "id": "mt-900g",
-      "name": "Golden Color Water Dispenser MT-900G",
+      "name": "Golden Color Víz Adagoló MT-900G",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/ee2ae-3-4-m5KPNbPPwluQy8no.png",
-      "desc": "Wall-mounted pipeline water dispenser with 5 stages of water volume (150ml–850ml) and 5 levels of water temperature (25°C–100°C). 316L titanium gold stainless steel heating element. Child safety lock. Premium golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Heating Power": "420W – 1,000W (model dependent)",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Szűrési szakaszok": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Napi teljesítmény": "75 GPD – 600 GPD",
+        "Tanúsítványok": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Power": "2200W",
         "Volume": "5 stages 150–850ml",
         "Temperature": "25–100°C",
-        "Material": "316L Stainless Steel"
+        "Anyag": "316L Stainless Steel",
+        "Stages": "5 stages volume, 5 levels temp",
+        "Heating": "3 seconds instant heat",
+        "Colors": "Golden, White, Dark Green, Black"
       },
-      "image_local": "assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg"
+      "image_local": "assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg",
+      "source_url": "https://www.expresswater.cn/water-dispenser"
     },
     {
       "id": "mt-b600",
-      "name": "White Color Water Dispenser MT-B600",
+      "name": "White Color Víz Adagoló MT-B600",
       "category": "Water Dispenser",
-      "image": "assets/products/mt-b600-white.png",
-      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power and fast 3-second heating. Whole glass panel with matte spray plastic parts. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Heating Power": "420W – 1,000W (model dependent)",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Szűrési szakaszok": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Napi teljesítmény": "75 GPD – 600 GPD",
+        "Tanúsítványok": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Power": "2200W",
         "Hot Output": "3 seconds",
-        "Color": "White Glass Panel"
+        "Color": "White Glass Panel",
+        "Stages": "5 stages volume, 5 levels temp",
+        "Heating": "3 seconds instant heat",
+        "Colors": "Golden, White, Dark Green, Black"
       },
-      "image_local": "assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg"
+      "image_local": "assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg",
+      "source_url": "https://www.expresswater.cn/water-dispenser"
     },
     {
       "id": "mt-dv-e600",
-      "name": "1000W Vertical Water Dispenser MT-DV-E600",
+      "name": "1000W Vertical Víz Adagoló MT-DV-E600",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-dv-e600-mxBj0l5gB4U8pZwq.png",
-      "desc": "High-power vertical water dispenser with 304 stainless steel tank and 1KW heating power. LED digital screen. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Heating Power": "2200W",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Szűrési szakaszok": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Napi teljesítmény": "75 GPD – 600 GPD",
+        "Tanúsítványok": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Power": "1000W",
         "Tank": "304 Stainless Steel",
-        "Display": "LED Digital"
+        "Display": "LED Digital",
+        "Heating Time": "3 seconds",
+        "Cert": "3C"
       },
-      "image_local": "assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg"
+      "image_local": "assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg",
+      "features": [
+        "Multiple temperature settings",
+        "Selectable water volume",
+        "Advanced filtration system"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/hot-and-cold-wall-mounted-pipeline-water-dispenser/"
     },
     {
       "id": "mt-e600",
-      "name": "Wall Mounted Water Dispenser MT-E600",
+      "name": "Wall Mounted Víz Adagoló MT-E600",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/e-600-bw-dWxeGeNwMWu0NzBY.png",
-      "desc": "Black & white dual-color wall-mounted pipeline water dispenser. Compact, energy-saving, with multi-stage water output. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Heating Power": "2200W",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Szűrési szakaszok": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Napi teljesítmény": "75 GPD – 600 GPD",
+        "Tanúsítványok": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Mount": "Wall-mounted",
-        "Color": "Black/White"
+        "Color": "Black/White",
+        "Heating Time": "3 seconds",
+        "Cert": "3C"
       },
-      "image_local": "assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg"
+      "image_local": "assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg",
+      "features": [
+        "Multiple temperature settings",
+        "Selectable water volume",
+        "Advanced filtration system"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/hot-and-cold-wall-mounted-pipeline-water-dispenser/"
     },
     {
       "id": "mt-s800",
-      "name": "Golden Color Water Dispenser MT-S800",
+      "name": "Golden Color Víz Adagoló MT-S800",
       "category": "Water Dispenser",
-      "image": "assets/products/mt-s800-golden.png",
-      "desc": "Wall-mounted pipeline water dispenser with 2200W rated power. Fast 3-second hot water output. 5 stages water volume and temperature adjustment. Golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Heating Power": "420W – 1,000W (model dependent)",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Szűrési szakaszok": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Napi teljesítmény": "75 GPD – 600 GPD",
+        "Tanúsítványok": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Power": "2200W",
         "Hot Output": "3 seconds",
-        "Color": "Golden Glass Panel"
+        "Color": "Golden Glass Panel",
+        "Stages": "5 stages volume, 5 levels temp",
+        "Heating": "3 seconds instant heat",
+        "Colors": "Golden, White, Dark Green, Black"
       },
-      "image_local": "assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg"
+      "image_local": "assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg",
+      "source_url": "https://www.expresswater.cn/water-dispenser"
     },
     {
       "id": "mt-v-e300a",
-      "name": "Vertical Water Dispenser MT-V-E300A",
+      "name": "Vertical Víz Adagoló MT-V-E300A",
       "category": "Water Dispenser",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.png",
-      "desc": "Vertical floor-standing water dispenser with 304 stainless steel water tank and multiple water outlet options. Black/White design. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Heating Power": "2200W",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Szűrési szakaszok": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Napi teljesítmény": "75 GPD – 600 GPD",
+        "Tanúsítványok": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Type": "Vertical",
         "Tank": "304 Stainless Steel",
-        "Color": "Black/White"
+        "Color": "Black/White",
+        "Heating Time": "3 seconds",
+        "Cert": "3C"
       },
-      "image_local": "assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg"
+      "image_local": "assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg",
+      "features": [
+        "Multiple temperature settings",
+        "Selectable water volume",
+        "Advanced filtration system"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/hot-and-cold-wall-mounted-pipeline-water-dispenser/"
     },
     {
       "id": "post-t33",
-      "name": "Post T33 Inline Carbon Filter",
+      "name": "Post T33 Inline Carbon Szűrő",
       "category": "Inline Filter",
-      "image": "assets/products/post-t33-v4.png",
-      "desc": "Post-filtration inline carbon filter for polishing water taste and removing residual odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Position": "Final stage",
-        "Material": "Activated Carbon"
+        "Anyag": "Coconut shell activated carbon",
+        "Előnyök": "Improved taste and odor"
       },
-      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg"
+      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "pp-fin-cap",
-      "name": "PP Melt Blown Filter with Fin End Cap",
+      "name": "PP Melt Blown Szűrő with Fin End Cap",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
-      "desc": "Industrial PP cartridge with a fin-style end cap for secure, leak-free seating in housing units. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "End Cap": "Fin Type",
-        "Material": "Polypropylene"
+        "Anyag": "Polypropylene",
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Tanúsítványok": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Alkalmazás": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
+        "End Cap": "222 Flat and Fin end Nitrile O-Ring caps",
+        "Size": "10\" to 50\"",
+        "Type": "DOE or SOE"
       },
-      "image_local": "assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg"
+      "image_local": "assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "pp-silicon-ring",
-      "name": "PP Melt Blown Filter with Silicon Ring",
+      "name": "PP Melt Blown Szűrő with Silicon Ring",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
-      "desc": "PP filter cartridge equipped with food-grade silicon sealing ring for high-reliability sealing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Polypropylene",
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Tanúsítványok": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Alkalmazás": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
         "Ring": "Food-grade Silicon",
-        "Material": "Polypropylene"
+        "Size": "10\" to 50\"",
+        "Type": "DOE or SOE",
+        "End Cap": "222 Flat and Fin end Nitrile O-Ring caps"
       },
-      "image_local": "assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg"
+      "image_local": "assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "pp-soe-doe",
-      "name": "Industrial PP Melt Blown Sediment Filter (SOE/DOE)",
+      "name": "Industrial PP Melt Blown Sediment Szűrő (SOE/DOE)",
       "category": "Industrial Filter",
-      "image": "https://assets.zyrosite.com/A85Dpv78OotyVQVx/pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.png",
-      "desc": "Industrial-grade PP melt-blown filter, available in SOE (Single Open End) and DOE (Double Open End) configurations. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Type": "SOE/DOE",
-        "Material": "Polypropylene",
-        "Industry": "Industrial"
+        "Anyag": "Polypropylene",
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Tanúsítványok": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Alkalmazás": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
+        "Type": "DOE or SOE",
+        "Industry": "Industrial",
+        "Size": "10\" to 50\"",
+        "End Cap": "222 Flat and Fin end Nitrile O-Ring caps"
       },
-      "image_local": "assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg"
+      "image_local": "assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg",
+      "source_url": "https://www.expresswater.cn/carbonblockfilters"
     },
     {
       "id": "pp-spun",
-      "name": "PP Melt Blown Sediment Filter Cartridge",
+      "name": "PP Melt Blown Sediment Szűrő Betét",
       "category": "Filter Cartridge",
-      "image": "assets/products/pp-spun-v4.png",
-      "desc": "Melt-blown 100% pure polypropylene microfibers. Removes rust, silt, scale, sediment, dirt. Available in 10/20/30/40 inches. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pp-spun_PP-Spun-Filter-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Material": "100% Polypropylene",
+        "Anyag": "100% Polypropylene",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Sizes": "10–40 inch",
-        "Removes": "Sediment 5μm"
+        "Removes": "Sediment 5μm",
+        "Size": "10\" to 50\"",
+        "Micron": "As small as 0.1 microns",
+        "Type": "DOE or SOE"
       },
-      "image_local": "assets/products/pp-spun_PP-Spun-Filter-copy.jpg"
+      "image_local": "assets/products/pp-spun_PP-Spun-Filter-copy.jpg",
+      "features": [
+        "Efficient filtration",
+        "High flow rate",
+        "Cost-effective"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/pp-melt-blown-filter-sediments/"
     },
     {
       "id": "ppf-cartridge",
-      "name": "PP Melt BlownF Polypropylene Fiber Cartridge",
+      "name": "PP Melt BlownF Polypropylene Fiber Betét",
       "category": "Filter Cartridge",
-      "image": "assets/products/ppf-cartridge-v4.png",
-      "desc": "Polypropylene fiber filter cartridge for sediment removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ppf-cartridge_PPF-Filter-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Material": "PP Fiber",
-        "Function": "Sediment"
+        "Anyag": "PP Fiber",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
+        "Funkció": "Sediment",
+        "Size": "10\" to 50\"",
+        "Micron": "As small as 0.1 microns",
+        "Type": "DOE or SOE"
       },
-      "image_local": "assets/products/ppf-cartridge_PPF-Filter-copy.jpg"
+      "image_local": "assets/products/ppf-cartridge_PPF-Filter-copy.jpg",
+      "features": [
+        "Efficient filtration",
+        "High flow rate",
+        "Cost-effective"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/pp-melt-blown-filter-sediments/"
     },
     {
       "id": "pre-udf",
-      "name": "Pre-UDF Activated Carbon Cartridge",
+      "name": "Pre-UDF Activated Carbon Betét",
       "category": "Filter Cartridge",
-      "image": "assets/products/pre-udf-v4.png",
-      "desc": "Pre-filtration granular activated carbon cartridge to protect downstream membranes. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/pre-udf_Pre-UDF-Filter-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "GAC",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Position": "Pre-filter",
-        "Material": "GAC"
+        "Csatlakozás": "Silicon Ring Seal",
+        "Maintenance": "Easy"
       },
-      "image_local": "assets/products/pre-udf_Pre-UDF-Filter-copy.jpg"
+      "image_local": "assets/products/pre-udf_Pre-UDF-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "resin-filter",
-      "name": "Ion-Exchange Resin Filter",
+      "name": "Ion-Exchange Resin Szűrő",
       "category": "Filter Cartridge",
-      "image": "assets/products/10.png",
-      "desc": "Ion-exchange resin cartridge for water softening and removal of heavy metals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Function": "Water Softening",
+        "Anyag": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
+        "Funkció": "Water Softening",
         "Removes": "Ca/Mg/Heavy Metals"
       },
-      "image_local": "assets/products/resin-filter_WeChat48b644654d6e0f5e709716ba2298b556-889x1024.png"
+      "image_local": "assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg",
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "ro-membrane",
       "name": "Reverse Osmosis (RO) Membrane Element Element",
       "category": "Filter Cartridge",
-      "image": "assets/products/ro-membrane-v4.png",
-      "desc": "Reverse osmosis membrane cartridge — the core component of RO systems for desalination and purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Type": "RO TFC Membrane",
-        "Capacity": "75/100/400 GPD"
+        "Anyag": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
+        "Type": "Gravity-fed",
+        "Capacity": "75/100/400 GPD",
+        "Stages": "Multi-stage"
       },
-      "image_local": "assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg"
+      "image_local": "assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg",
+      "features": [
+        "No pump required",
+        "Removes rust, dirt, chlorine, heavy metals",
+        "Storage tank included"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/reverse-osmosis-water-filter-under-sink-without-pump/"
     },
     {
       "id": "ro-membrane-400g",
       "name": "400GPD High-Flow Reverse Osmosis (RO) Membrane Element",
       "category": "RO System",
-      "desc": "High-capacity reverse osmosis membrane for residential and light commercial water purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Szűrési szakaszok": "5-stage / 6-stage / 7-stage RO + UV (configurable)",
+        "Membrane Type": "Thin-Film Composite (TFC) Polyamide",
+        "Output Capacity": "50 / 75 / 100 / 200 / 400 / 600 GPD",
+        "Salt Rejection Rate": "≥ 96% – 99%",
+        "Üzemi nyomás": "0.1 – 0.4 MPa (0.7 MPa with booster pump)",
+        "Pure-to-Waste Ratio": "1:1 – 1:3 (configurable)",
+        "Storage Tank": "3.2 / 4.4 / 5.5 gallon (NSF-listed)",
+        "Tanúsítványok": "NSF/ANSI 58, ISO 9001:2015, CE, SGS, WQA Gold Seal (option)",
         "Capacity": "400 GPD",
-        "Type": "Dry Membrane"
-      }
+        "Type": "Gravity-fed",
+        "Stages": "Multi-stage"
+      },
+      "image": "../assets/products/ro-membrane-400g.png",
+      "image_local": "assets/products/ro-membrane-400g.png",
+      "features": [
+        "No pump required",
+        "Removes rust, dirt, chlorine, heavy metals",
+        "Storage tank included"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/reverse-osmosis-water-filter-under-sink-without-pump/"
     },
     {
       "id": "ro-undersink",
-      "name": "Under-Sink Reverse Osmosis Water Filter",
+      "name": "Under-Sink Reverse Osmosis Víz Szűrő",
       "category": "RO System",
-      "image": "assets/products/11.png",
-      "desc": "Gravity-fed RO system relying on incoming water pressure to push water through the RO membrane. Multi-stage: sediment filter, carbon filter, RO membrane. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Szűrési szakaszok": "5-stage / 6-stage / 7-stage RO + UV (configurable)",
+        "Membrane Type": "Thin-Film Composite (TFC) Polyamide",
+        "Output Capacity": "50 / 75 / 100 / 200 / 400 / 600 GPD",
+        "Salt Rejection Rate": "≥ 96% – 99%",
+        "Üzemi nyomás": "0.1 – 0.4 MPa (0.7 MPa with booster pump)",
+        "Pure-to-Waste Ratio": "1:1 – 1:3 (configurable)",
+        "Storage Tank": "3.2 / 4.4 / 5.5 gallon (NSF-listed)",
+        "Tanúsítványok": "NSF/ANSI 58, ISO 9001:2015, CE, SGS, WQA Gold Seal (option)",
         "Stages": "Multi-stage",
-        "Type": "No Pump Required",
+        "Type": "Gravity-fed",
         "Membrane": "RO 75GPD"
       },
-      "image_local": "assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg"
+      "image_local": "assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg",
+      "features": [
+        "No pump required",
+        "Removes rust, dirt, chlorine, heavy metals",
+        "Storage tank included"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/reverse-osmosis-water-filter-under-sink-without-pump/"
     },
     {
       "id": "ss-jumbo-housing",
-      "name": "304/316L rozsdamentes acél ipari Jumbo szűrőház",
-      "category": "Szűrőház",
-      "image": "assets/products/ss-jumbo-housing-v4.png",
-      "desc": "Nagy teherbírású 304-es rozsdamentes acél ház 10 és 20 hüvelykes méretben. Kompatibilis az UF membránokkal, PP üledékszűrőkkel és szénblokk szűrőkkel. Ideális nagy átfolyású alkalmazásokhoz. Nagykereskedelmi gyári ellátás, testreszabható OEM/ODM számára. NSF/ISO tanúsítvánnyal ipari és kereskedelmi vízkezeléshez.",
+      "name": "304/316L Stainless Steel Industrial Jumbo Szűrő Ház",
+      "category": "Filter Housing",
+      "image": "../assets/products/ss-jumbo-housing-v4.png",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Material": "304 Stainless Steel",
-        "Size": "10\" / 20\" Jumbo",
+        "Body Material": "Reinforced FDA-grade PP / SUS 304 / SUS 316L stainless steel",
+        "Cap Material": "ABS / PP / SUS 304",
+        "Inlet/Outlet": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Max. üzemi nyomás": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "Hydrostatic Test": "1.5× rated working pressure",
+        "Üzemi hőmérséklet": "1°C – 50°C",
+        "Tanúsítványok": "NSF, FDA, ISO 9001:2015, CE PED 2014/68/EU (where applicable)",
+        "Sealing": "Food-grade silicone O-rings",
+        "Anyag": "304 Stainless Steel",
+        "Size": "30 inches",
         "Compatibility": "PP, Carbon, UF",
-        "Type": "High-Pressure"
+        "Type": "High-Pressure",
+        "Stages": "3 (PP, RO, CTO)",
+        "Brand": "Eco Express Water"
       },
-      "image_local": "assets/products/ss_jumbo_housing.jpg"
+      "image_local": "assets/products/ss-jumbo-housing-v4.png",
+      "features": [
+        "High efficiency",
+        "Large capacity",
+        "Removes particles, chlorine, heavy metals"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/30-big-blue-water-filter/"
     },
     {
       "id": "t33-post",
-      "name": "T33 Post Filter Cartridge",
+      "name": "T33 Post Szűrő Betét",
       "category": "Inline Filter",
-      "image": "assets/products/t33-post-v4.png",
-      "desc": "High-quality post-carbon filter for final stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Ház": "Food-grade PE / PP one-piece sealed body",
+        "Csatlakozás": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Szűrőközeg": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max. üzemi nyomás": "0.6 MPa (87 psi)",
+        "Élettartam": "12 months / 6,000 L (whichever first)",
+        "Üzemi hőmérséklet": "5°C – 38°C",
+        "Tanúsítványok": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Position": "Post-filter",
-        "Function": "Polishing"
+        "Funkció": "Polishing",
+        "Anyag": "Coconut shell activated carbon",
+        "Előnyök": "Improved taste and odor"
       },
-      "image_local": "assets/products/t33-post_T33-post-Filter-copy.jpg"
+      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "udf-cartridge",
-      "name": "GAC Granular Activated Carbon (UDF) Filter Cartridge",
+      "name": "GAC Granular Activated Carbon (UDF) Szűrő Betét",
       "category": "Filter Cartridge",
-      "image": "assets/products/udf-cartridge-v4.png",
-      "desc": "Standard 10-inch GAC filter from high iodine value carbon. Reduces chlorine, organic chemicals, unnatural tastes and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Type": "GAC",
         "Size": "10 inch",
-        "Iodine": "1000"
+        "Iodine": "1000",
+        "Csatlakozás": "Silicon Ring Seal",
+        "Maintenance": "Easy"
       },
-      "image_local": "assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg"
+      "image_local": "assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg",
+      "source_url": "https://www.expresswater.cn/flat-cap-filter-series"
     },
     {
       "id": "uf-cartridge",
-      "name": "Ultrafiltration (UF) Cartridge",
+      "name": "Ultrafiltration (UF) Betét",
       "category": "Filter Cartridge",
-      "image": "assets/products/uf-cartridge-v3.png",
-      "desc": "Hollow-fiber ultrafiltration membrane cartridge for removing bacteria, viruses, and colloidal matter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/uf-cartridge.png",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Membrane": "Hollow Fiber",
         "Filtration": "0.01μm"
       },
-      "image_local": "assets/products/uf-cartridge_Ultra-FilterUF-copy.jpg"
+      "image_local": "assets/products/uf-cartridge.png",
+      "features": [
+        "Advanced membrane technology"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "uf-filter-2",
-      "name": "UF Hollow Fiber Filter",
+      "name": "UF Hollow Fiber Szűrő",
       "category": "Filter Cartridge",
-      "image": "assets/products/uf-filter-2-v4.png",
-      "desc": "Ultrafiltration cartridge for fine suspended-solids removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/uf-filter-2_UF-Filter-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Material": "Hollow Fiber",
+        "Anyag": "Hollow Fiber",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Removes": "Bacteria"
       },
-      "image_local": "assets/products/uf-filter-2_UF-Filter-copy.jpg"
+      "image_local": "assets/products/uf-filter-2_UF-Filter-copy.jpg",
+      "features": [
+        "Advanced membrane technology"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "ultra-film",
-      "name": "Ultra Film Filter Cartridge",
+      "name": "Ultra Film Szűrő Betét",
       "category": "Filter Cartridge",
-      "image": "assets/products/ultra-film-v4.png",
-      "desc": "Advanced ultrafiltration film cartridge for high-efficiency filtration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/ultra-film_Ultra-Film-Filter-copy.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Anyag": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Max. üzemi nyomás": "0.4 MPa (60 psi)",
+        "Élettartam": "3 – 12 months (depending on water quality)",
+        "Tanúsítványok": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Type": "Ultra Film",
         "Filtration": "0.01μm"
       },
-      "image_local": "assets/products/ultra-film_Ultra-Film-Filter-copy.jpg"
+      "image_local": "assets/products/ultra-film_Ultra-Film-Filter-copy.jpg",
+      "features": [
+        "Advanced membrane technology"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/product/"
     },
     {
       "id": "uv-purifier",
-      "name": "Three Stage Plus UV Water Purifier",
+      "name": "Three Stage Plus UV Víz Tisztító",
       "category": "Water Purifier",
-      "image": "assets/products/12.png",
-      "desc": "Three-stage water purification system enhanced with UV sterilization for superior water safety. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "image": "../assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
-        "Stages": "3 + UV",
-        "Sterilization": "UV-C"
+        "Szűrési szakaszok": "Multi-stage (PP + GAC + UF / RO)",
+        "Napi teljesítmény": "Up to 100 L/day (residential) – 1,000 L/day (commercial)",
+        "Anyag": "Food-grade FDA-approved PP / ABS / SUS 304",
+        "Üzemi nyomás": "0.1 – 0.4 MPa",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Tanúsítványok": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "Garancia": "12 – 24 months on housing & electronics",
+        "Alkalmazás": "Residential, restaurant, school, hotel, industrial commercial use",
+        "Stages": "Multi-stage",
+        "Sterilization": "UV-C",
+        "Type": "Gravity-fed"
       },
-      "image_local": "assets/products/12.png"
+      "image_local": "assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg",
+      "features": [
+        "No pump required",
+        "Removes rust, dirt, chlorine, heavy metals",
+        "Storage tank included"
+      ],
+      "source_url": "https://www.ecoexpresswater.com/reverse-osmosis-water-filter-under-sink-without-pump/"
     },
     {
       "id": "water-purifier-maifan",
-      "name": "Maifan Stone Mineralizing Purifier",
+      "name": "Maifan Stone Mineralizing Tisztító",
       "category": "Water Purifier",
-      "desc": "Multi-stage purifier featuring Maifan stone for mineralization and improved water quality. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
+      "desc": "Kiváló minőségű vízszűrési megoldás. Nagykereskedelmi gyári beszállítás, OEM/ODM igényekre szabható. NSF/ISO tanúsítvánnyal rendelkezik ipari és kereskedelmi vízkezeléshez. A kínai Zhejiang tartományban, Haining városában, Yuanhua városában található, 20 000+ m²-es, ISO 9001:2015 tanúsítvánnyal rendelkező létesítményünkben készül. Ez a termék a teljes körű vízszűrési termékvonalunk része – az SGS függetlenül tesztelte az NSF/ANSI 42 és 53 szabványok szerint, CE jelöléssel az európai importmegfelelőség érdekében, és kérésre FDA-minőségű anyagnyilatkozatokkal. OEM/ODM saját márkás testreszabás elérhető: márka nyomtatás, egyedi zárókupak formázás, színillesztés és csomagolás. Standard MOQ 1000 db-tól; ömlesztett nagykereskedelem FOB Shanghai/Ningbo T/T 30/70 vagy látra szóló L/C fizetési feltételekkel. Jelenleg több mint 50 országba exportálunk, köztük az Egyesült Államokba, Németországba, Oroszországba, Szaúd-Arábiába, Malajziába, Indonéziába és Brazíliába, a muszlim piacok számára teljes körű halal (JAKIM) tanúsítvánnyal.",
       "specs": {
+        "Szűrési szakaszok": "Multi-stage (PP + GAC + UF / RO)",
+        "Napi teljesítmény": "Up to 100 L/day (residential) – 1,000 L/day (commercial)",
+        "Anyag": "Food-grade FDA-approved PP / ABS / SUS 304",
+        "Üzemi nyomás": "0.1 – 0.4 MPa",
+        "Üzemi hőmérséklet": "5°C – 45°C",
+        "Tanúsítványok": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "Garancia": "12 – 24 months on housing & electronics",
+        "Alkalmazás": "Residential, restaurant, school, hotel, industrial commercial use",
         "Mineral": "Maifan Stone",
-        "Stages": "5-Stage"
-      }
+        "Stages": "5-Stage",
+        "Lifespan": "Up to 6 months",
+        "Installation": "Direct inline"
+      },
+      "image": "../assets/products/water-purifier-maifan.png",
+      "image_local": "assets/products/water-purifier-maifan.png",
+      "source_url": "https://www.expresswater.cn/inline-filter-series"
     }
   ]
 }

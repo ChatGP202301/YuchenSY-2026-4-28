@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://www.yuchensy.com/sitemap.xml
+Sitemap: https://expresswater.cn/sitemap.xml

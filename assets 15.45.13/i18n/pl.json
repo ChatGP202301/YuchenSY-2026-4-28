@@ -97,8 +97,18 @@
       "category": "Water Purifier",
       "desc": "Produces alkaline water by increasing pH levels and adding essential minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Filtration Stages": "Multi-stage (PP + GAC + UF / RO)",
+        "Daily Output": "Up to 100 L/day (residential) – 1,000 L/day (commercial)",
+        "Material": "Food-grade FDA-approved PP / ABS / SUS 304",
+        "Working Pressure": "0.1 – 0.4 MPa",
+        "Working Temperature": "5°C – 45°C",
+        "Certifications": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "Warranty": "12 – 24 months on housing & electronics",
+        "Application": "Residential, restaurant, school, hotel, industrial commercial use",
         "Type": "Alkaline",
-        "pH range": "8.5 - 9.5"
+        "pH range": "8.5 - 9.5",
+        "Function": "Mineralization",
+        "Benefits": "Improved taste, health"
       },
       "image": "../assets/products/alkaline-purifier.png",
       "image_local": "assets/products/alkaline-purifier.png"
@@ -107,23 +117,41 @@
       "id": "antibacterial-mineralization",
       "name": "Antibacterial Mineralization Filter Cartridge",
       "category": "Inline Filter",
-      "image": "../assets/products/antibacterial-mineralization_antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.jpg",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
       "desc": "Effectively removes harmful bacteria and viruses and adds beneficial minerals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
-        "Function": "Antibacterial + Mineralization"
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
+        "Function": "Antibacterial + Mineralization",
+        "Benefits": "Improved taste, health"
       },
-      "image_local": "assets/products/antibacterial-mineralization_antibacterial-mineralization-filter-cartridge-YBgoD6orwBUllOa2.jpg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "big-blue-3stage",
       "name": "30-inch Three Stage Big Blue Water Filter",
       "category": "Filter Housing",
-      "image": "../assets/products/2.png",
+      "image": "../assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg",
       "desc": "Three-stage filtration: PP filter (large particles), RO membrane (heavy metals, bacteria, viruses), CTO Carbon Block (chlorine, taste). Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Body Material": "Reinforced FDA-grade PP / SUS 304 / SUS 316L stainless steel",
+        "Cap Material": "ABS / PP / SUS 304",
+        "Inlet/Outlet": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Max Working Pressure": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "Hydrostatic Test": "1.5× rated working pressure",
+        "Working Temperature": "1°C – 50°C",
+        "Certifications": "NSF, FDA, ISO 9001:2015, CE PED 2014/68/EU (where applicable)",
+        "Sealing": "Food-grade silicone O-rings",
         "Size": "30 inches",
         "Stages": "3",
-        "Type": "Big Blue"
+        "Type": "Big Blue",
+        "Brand": "Eco Express Water"
       },
       "image_local": "assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg"
     },
@@ -131,36 +159,65 @@
       "id": "carbon-block",
       "name": "CTO Coconut Shell CTO Carbon Block Filter Cartridge",
       "category": "Filter Cartridge",
-      "image": "../assets/products/1.png",
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
       "desc": "Coconut shell activated carbon with high iodine value (1000) for effective purification. 10 inches length, 2.5 inch outer diameter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
-        "Iodine": "1000",
         "Material": "Coconut Carbon",
-        "Size": "10×2.5 inch"
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
+        "Iodine": "1000",
+        "Size": "10×2.5 inch",
+        "Technology": "Advanced Carbon Block",
+        "Removal": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/carbon-block_carbon-block-filter-copy.jpg"
+      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
     },
     {
       "id": "carbon-block-2",
       "name": "Compressed Activated CTO Carbon Block",
       "category": "Industrial Filter",
-      "image": "../assets/products/3.png",
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
       "desc": "High-density compressed carbon block for superior chlorine and VOC removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Activated carbon and sintering coconut shell",
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Certifications": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Application": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
         "Density": "High",
-        "Removes": "Chlorine, VOCs"
+        "Removes": "Chlorine, VOCs",
+        "Technology": "Advanced Carbon Block",
+        "Removal": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/carbon-block-2_wechatimg25674-mk3lrNoaEaUvnLg7.jpeg"
+      "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
     },
     {
       "id": "carbon-block-industrial",
       "name": "Industrial High-Flow CTO Carbon Block Filter",
       "category": "Industrial Filter",
-      "image": "../assets/products/4.png",
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg",
       "desc": "Industrial-grade activated carbon block filter for high-flow chemical absorption applications. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Activated carbon and sintering coconut shell",
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Certifications": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Application": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
         "Type": "Carbon Block",
-        "Industry": "Industrial"
+        "Industry": "Industrial",
+        "Technology": "Advanced Carbon Block",
+        "Removal": "Chlorine, VOCs, sediment"
       },
       "image_local": "assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
     },
@@ -168,9 +225,17 @@
       "id": "ceramic-filter",
       "name": "Ceramic Filter Cartridge",
       "category": "Filter Cartridge",
-      "image": "../assets/products/5.png",
+      "image": "../assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png",
       "desc": "High-quality ceramic filter cartridge for removing fine particles and bacteria. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Filtration": "0.2μm",
         "Type": "Ceramic"
       },
@@ -180,13 +245,23 @@
       "id": "filter-combo",
       "name": "Multi-Stage Filter Cartridge Combination",
       "category": "Filter Cartridge",
-      "image": "../assets/products/filter-combo-v3.png",
+      "image": "../assets/products/filter-combo.png",
       "desc": "Combination of various filter cartridges designed for multi-stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Activated carbon and sintering coconut shell",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Stages": "3–5",
-        "Combination": "Custom"
+        "Combination": "Custom",
+        "Technology": "Advanced Carbon Block",
+        "Removal": "Chlorine, VOCs, sediment"
       },
-      "image_local": "assets/products/filter-combo_Filter-cartridge-combination-copy.jpg"
+      "image_local": "assets/products/filter-combo.png"
     },
     {
       "id": "flat-cap-cto",
@@ -195,8 +270,17 @@
       "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
       "desc": "Compressed Activated Carbon Block filter with flat cap connection for universal compatibility with standard housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Cap Type": "Flat End Cap (compatible with most counter-top & under-sink RO systems)",
+        "Length": "10\" standard",
+        "Diameter": "65 mm – 70 mm",
+        "Media Options": "PP melt-blown / GAC / CTO Carbon Block / T33",
+        "Max Working Pressure": "0.6 MPa",
+        "Certifications": "NSF/ANSI 42 & 53, FDA, ISO 9001:2015, SGS",
+        "Service Life": "3 – 12 months",
         "Type": "CTO",
-        "Cap": "Flat Cap"
+        "Cap": "Flat Cap",
+        "Process": "Photocatalytic oxidation",
+        "Removal": "Bacteria, viruses, chlorine"
       },
       "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
     },
@@ -204,35 +288,64 @@
       "id": "flat-cap-gac",
       "name": "Flat Cap GAC Filter",
       "category": "Flat Cap Filter",
-      "image": "../assets/products/flat-cap-gac_a13apsudf-mp8MqXBP8ptD7oab.jpg",
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
       "desc": "Universal GAC filter with Flat Cap connection. Made with silicon rubber flat cap. Effectively removes chlorine, sediment, and other contaminants. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Cap Type": "Flat End Cap (compatible with most counter-top & under-sink RO systems)",
+        "Length": "10\" standard",
+        "Diameter": "65 mm – 70 mm",
+        "Media Options": "PP melt-blown / GAC / CTO Carbon Block / T33",
+        "Max Working Pressure": "0.6 MPa",
+        "Certifications": "NSF/ANSI 42 & 53, FDA, ISO 9001:2015, SGS",
+        "Service Life": "3 – 12 months",
         "Cap": "Silicon Rubber Flat Cap",
-        "Material": "GAC"
+        "Material": "GAC",
+        "Process": "Photocatalytic oxidation",
+        "Removal": "Bacteria, viruses, chlorine"
       },
-      "image_local": "assets/products/flat-cap-gac_a13apsudf-mp8MqXBP8ptD7oab.jpg"
+      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
     },
     {
       "id": "flat-cap-pp",
       "name": "Flat Cap PP Melt Blown Sediment Filter",
       "category": "Flat Cap Filter",
-      "image": "../assets/products/flat-cap-pp_1676799952716-A0x3EWL3l7teXEKl.jpg",
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg",
       "desc": "Polypropylene melt-blown sediment filter with flat cap design. Designed for use in standard 10\" filter housings. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Cap Type": "Flat End Cap (compatible with most counter-top & under-sink RO systems)",
+        "Length": "10\" standard",
+        "Diameter": "65 mm – 70 mm",
+        "Media Options": "PP melt-blown / GAC / CTO Carbon Block / T33",
+        "Max Working Pressure": "0.6 MPa",
+        "Certifications": "NSF/ANSI 42 & 53, FDA, ISO 9001:2015, SGS",
+        "Service Life": "3 – 12 months",
         "Type": "PP Melt-blown",
-        "Cap": "Flat Cap"
+        "Cap": "Flat Cap",
+        "Process": "Photocatalytic oxidation",
+        "Removal": "Bacteria, viruses, chlorine"
       },
-      "image_local": "assets/products/flat-cap-pp_1676799952716-A0x3EWL3l7teXEKl.jpg"
+      "image_local": "assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
     },
     {
       "id": "housing-filter",
       "name": "Eco Express Water Housing Filter",
       "category": "Filter Housing",
-      "image": "../assets/products/6.png",
+      "image": "../assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg",
       "desc": "Carbon block filter using activated carbon compressed into a block. Removes chlorine, chloramines, pesticides, and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Body Material": "Reinforced FDA-grade PP / SUS 304 / SUS 316L stainless steel",
+        "Cap Material": "ABS / PP / SUS 304",
+        "Inlet/Outlet": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Max Working Pressure": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "Hydrostatic Test": "1.5× rated working pressure",
+        "Working Temperature": "1°C – 50°C",
+        "Certifications": "NSF, FDA, ISO 9001:2015, CE PED 2014/68/EU (where applicable)",
+        "Sealing": "Food-grade silicone O-rings",
         "Type": "Carbon Block Housing",
-        "Connector": "Various"
+        "Connector": "Various",
+        "Size": "30 inches",
+        "Stages": "3 (PP, RO, CTO)",
+        "Brand": "Eco Express Water"
       },
       "image_local": "assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg"
     },
@@ -240,25 +353,43 @@
       "id": "inline-cation-resin",
       "name": "Inline Cation Resin Filter Cartridge",
       "category": "Inline Filter",
-      "image": "../assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
       "desc": "Softens water by removing hard minerals such as calcium and magnesium, reducing scale buildup in appliances. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Function": "Water Softening",
         "Resin": "Cation Exchange"
       },
-      "image_local": "assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-pp",
       "name": "Inline PP Cartridge",
       "category": "Inline Filter",
-      "image": "../assets/products/7.png",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
       "desc": "Inline polypropylene sediment filter for compact water purification systems. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Material": "Polypropylene",
-        "Filtration": "5μm"
+        "Filtration": "5μm",
+        "Lifespan": "Up to 6 months",
+        "Installation": "Direct inline"
       },
-      "image_local": "assets/products/inline-pp_PP-filter-copy.jpg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-small-mol",
@@ -267,8 +398,17 @@
       "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
       "desc": "Advanced filtration removing harmful bacteria and viruses while adding beneficial minerals to water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Function": "Antibacterial + Mineralization",
-        "Connector": "Quick-connect"
+        "Connector": "Quick-connect",
+        "Benefits": "Improved taste, health"
       },
       "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
@@ -276,35 +416,64 @@
       "id": "inline-t33-coconut",
       "name": "T33 Coconut Shell Carbon Inline Filter",
       "category": "Inline Filter",
-      "image": "../assets/products/8.png",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
       "desc": "Post-filter T33 inline cartridge with premium coconut shell activated carbon for taste polishing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Carbon": "Coconut Shell",
-        "Position": "Post-filter"
+        "Position": "Post-filter",
+        "Material": "Coconut shell activated carbon",
+        "Benefits": "Improved taste and odor"
       },
-      "image_local": "assets/products/inline-t33-coconut_wechatimg25674-m7V2npvka6TLValG.jpeg"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "inline-t33-mineral",
       "name": "Mineralized Small T33 Inline Water Filter",
       "category": "Inline Filter",
-      "image": "../assets/products/inline-t33-mineral_mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png",
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy",
       "desc": "Improves taste and odor by removing chlorine and adding beneficial minerals to water for improved health and hydration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Function": "Mineralization + Polishing",
-        "Connector": "Quick-connect"
+        "Connector": "Quick-connect",
+        "Benefits": "Improved taste, health"
       },
-      "image_local": "assets/products/inline-t33-mineral_mineralized-small-t33-inline-water-filter-AQEX6g58g7ikZgwl.png"
+      "image_local": "assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
     },
     {
       "id": "maifan-inline",
       "name": "Maifan Stone Inline Filter",
       "category": "Inline Filter",
-      "image": "../assets/products/maifan-inline-v4.png",
+      "image": "../assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg",
       "desc": "Inline filter containing Maifan stones to mineralize water and improve taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Mineral": "Maifan Stone",
-        "Function": "Mineralization"
+        "Function": "Mineralization",
+        "Lifespan": "Up to 6 months",
+        "Installation": "Direct inline"
       },
       "image_local": "assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg"
     },
@@ -312,11 +481,21 @@
       "id": "mid-filter",
       "name": "Medium Size Water Filter w/ Copper Connector",
       "category": "Filter Cartridge",
-      "image": "../assets/products/9.png",
+      "image": "../assets/products/mid-filter_MG_9234-scaled.jpg",
       "desc": "Medium-sized water filter cartridge featuring a copper connector for robust installation and performance. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Size": "Medium",
-        "Connector": "Copper"
+        "Connector": "Copper",
+        "Lifespan": "Up to 6 months",
+        "Installation": "Direct inline"
       },
       "image_local": "assets/products/mid-filter_MG_9234-scaled.jpg"
     },
@@ -324,11 +503,20 @@
       "id": "mineral-inline",
       "name": "Inline Mineral Filter",
       "category": "Inline Filter",
-      "image": "../assets/products/mineral-inline-v4.png",
+      "image": "../assets/products/mineral-inline_Mineral-Filter-copy.jpg",
       "desc": "Adds essential minerals back into purified water to enhance health benefits and taste. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Function": "Mineralization",
-        "Adds": "Ca/Mg/K minerals"
+        "Adds": "Ca/Mg/K minerals",
+        "Benefits": "Improved taste, health"
       },
       "image_local": "assets/products/mineral-inline_Mineral-Filter-copy.jpg"
     },
@@ -339,9 +527,22 @@
       "image": "../assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg",
       "desc": "Wall-mounted pipeline water dispenser with sleek modern design in unique dark green color. Saves floor space and provides continuous supply of clean water. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Heating Power": "420W – 1,000W (model dependent)",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Filtration Stages": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Daily Output": "75 GPD – 600 GPD",
+        "Certifications": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Mount": "Wall-mounted",
         "Color": "Dark Green",
-        "Power": "2200W"
+        "Power": "2200W",
+        "Stages": "5 stages volume, 5 levels temp",
+        "Heating": "3 seconds instant heat",
+        "Colors": "Golden, White, Dark Green, Black"
       },
       "image_local": "assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg"
     },
@@ -352,10 +553,23 @@
       "image": "../assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg",
       "desc": "Wall-mounted pipeline water dispenser with 5 stages of water volume (150ml–850ml) and 5 levels of water temperature (25°C–100°C). 316L titanium gold stainless steel heating element. Child safety lock. Premium golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Heating Power": "420W – 1,000W (model dependent)",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Filtration Stages": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Daily Output": "75 GPD – 600 GPD",
+        "Certifications": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Power": "2200W",
         "Volume": "5 stages 150–850ml",
         "Temperature": "25–100°C",
-        "Material": "316L Stainless Steel"
+        "Material": "316L Stainless Steel",
+        "Stages": "5 stages volume, 5 levels temp",
+        "Heating": "3 seconds instant heat",
+        "Colors": "Golden, White, Dark Green, Black"
       },
       "image_local": "assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg"
     },
@@ -363,12 +577,25 @@
       "id": "mt-b600",
       "name": "White Color Water Dispenser MT-B600",
       "category": "Water Dispenser",
-      "image": "../assets/products/mt-b600-white.png",
+      "image": "../assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg",
       "desc": "Wall-mounted pipeline water dispenser with 2200W rated power and fast 3-second heating. Whole glass panel with matte spray plastic parts. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Heating Power": "420W – 1,000W (model dependent)",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Filtration Stages": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Daily Output": "75 GPD – 600 GPD",
+        "Certifications": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Power": "2200W",
         "Hot Output": "3 seconds",
-        "Color": "White Glass Panel"
+        "Color": "White Glass Panel",
+        "Stages": "5 stages volume, 5 levels temp",
+        "Heating": "3 seconds instant heat",
+        "Colors": "Golden, White, Dark Green, Black"
       },
       "image_local": "assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg"
     },
@@ -379,9 +606,21 @@
       "image": "../assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg",
       "desc": "High-power vertical water dispenser with 304 stainless steel tank and 1KW heating power. LED digital screen. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Heating Power": "2200W",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Filtration Stages": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Daily Output": "75 GPD – 600 GPD",
+        "Certifications": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Power": "1000W",
         "Tank": "304 Stainless Steel",
-        "Display": "LED Digital"
+        "Display": "LED Digital",
+        "Heating Time": "3 seconds",
+        "Cert": "3C"
       },
       "image_local": "assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg"
     },
@@ -392,8 +631,20 @@
       "image": "../assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg",
       "desc": "Black & white dual-color wall-mounted pipeline water dispenser. Compact, energy-saving, with multi-stage water output. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Heating Power": "2200W",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Filtration Stages": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Daily Output": "75 GPD – 600 GPD",
+        "Certifications": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Mount": "Wall-mounted",
-        "Color": "Black/White"
+        "Color": "Black/White",
+        "Heating Time": "3 seconds",
+        "Cert": "3C"
       },
       "image_local": "assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg"
     },
@@ -401,12 +652,25 @@
       "id": "mt-s800",
       "name": "Golden Color Water Dispenser MT-S800",
       "category": "Water Dispenser",
-      "image": "../assets/products/mt-s800-golden.png",
+      "image": "../assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg",
       "desc": "Wall-mounted pipeline water dispenser with 2200W rated power. Fast 3-second hot water output. 5 stages water volume and temperature adjustment. Golden glass panel. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Heating Power": "420W – 1,000W (model dependent)",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Filtration Stages": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Daily Output": "75 GPD – 600 GPD",
+        "Certifications": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Power": "2200W",
         "Hot Output": "3 seconds",
-        "Color": "Golden Glass Panel"
+        "Color": "Golden Glass Panel",
+        "Stages": "5 stages volume, 5 levels temp",
+        "Heating": "3 seconds instant heat",
+        "Colors": "Golden, White, Dark Green, Black"
       },
       "image_local": "assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg"
     },
@@ -417,9 +681,21 @@
       "image": "../assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg",
       "desc": "Vertical floor-standing water dispenser with 304 stainless steel water tank and multiple water outlet options. Black/White design. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Heating Power": "2200W",
+        "Cooling Power": "85W – 110W (model dependent)",
+        "Hot Water Temperature": "85°C – 95°C",
+        "Cold Water Temperature": "8°C – 12°C",
+        "Mounting": "Wall-mounted / Vertical floor-standing / Desktop",
+        "Voltage": "110V/60Hz or 220V/50Hz (customizable for global markets)",
+        "Filtration Stages": "5-stage RO + UF + post-mineralization (model dependent)",
+        "Daily Output": "75 GPD – 600 GPD",
+        "Certifications": "CE, RoHS, FCC, China 3C, NSF (filter elements), Halal",
+        "OEM/ODM": "Color, panel UI, voltage, plug type, packaging — all customizable",
         "Type": "Vertical",
         "Tank": "304 Stainless Steel",
-        "Color": "Black/White"
+        "Color": "Black/White",
+        "Heating Time": "3 seconds",
+        "Cert": "3C"
       },
       "image_local": "assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg"
     },
@@ -427,11 +703,20 @@
       "id": "post-t33",
       "name": "Post T33 Inline Carbon Filter",
       "category": "Inline Filter",
-      "image": "../assets/products/post-t33-v4.png",
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg",
       "desc": "Post-filtration inline carbon filter for polishing water taste and removing residual odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Position": "Final stage",
-        "Material": "Activated Carbon"
+        "Material": "Activated Carbon",
+        "Benefits": "Improved taste and odor"
       },
       "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg"
     },
@@ -442,8 +727,17 @@
       "image": "../assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg",
       "desc": "Industrial PP cartridge with a fin-style end cap for secure, leak-free seating in housing units. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Polypropylene",
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Certifications": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Application": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
         "End Cap": "Fin Type",
-        "Material": "Polypropylene"
+        "Size": "10\" to 50\"",
+        "Type": "DOE or SOE"
       },
       "image_local": "assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg"
     },
@@ -454,8 +748,18 @@
       "image": "../assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg",
       "desc": "PP filter cartridge equipped with food-grade silicon sealing ring for high-reliability sealing. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Polypropylene",
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Certifications": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Application": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
         "Ring": "Food-grade Silicon",
-        "Material": "Polypropylene"
+        "Size": "10\" to 50\"",
+        "Type": "DOE or SOE",
+        "End Cap": "222 Flat and Fin end Nitrile O-Ring caps"
       },
       "image_local": "assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg"
     },
@@ -466,9 +770,18 @@
       "image": "../assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg",
       "desc": "Industrial-grade PP melt-blown filter, available in SOE (Single Open End) and DOE (Double Open End) configurations. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
-        "Type": "SOE/DOE",
         "Material": "Polypropylene",
-        "Industry": "Industrial"
+        "Length Options": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "Filtration Rating": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "End-Cap Type": "DOE / SOE 222 / SOE 226 / Fin / Flat",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Max Operating Temperature": "60°C",
+        "Certifications": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "Application": "Industrial pre-filtration, RO pre-treatment, electronics, food & beverage",
+        "Type": "SOE/DOE",
+        "Industry": "Industrial",
+        "Size": "10\" to 50\"",
+        "End Cap": "222 Flat and Fin end Nitrile O-Ring caps"
       },
       "image_local": "assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg"
     },
@@ -476,12 +789,22 @@
       "id": "pp-spun",
       "name": "PP Melt Blown Sediment Filter Cartridge",
       "category": "Filter Cartridge",
-      "image": "../assets/products/pp-spun-v4.png",
+      "image": "../assets/products/pp-spun_PP-Spun-Filter-copy.jpg",
       "desc": "Melt-blown 100% pure polypropylene microfibers. Removes rust, silt, scale, sediment, dirt. Available in 10/20/30/40 inches. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
         "Material": "100% Polypropylene",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Sizes": "10–40 inch",
-        "Removes": "Sediment 5μm"
+        "Removes": "Sediment 5μm",
+        "Size": "10\" to 50\"",
+        "Micron": "As small as 0.1 microns",
+        "Type": "DOE or SOE"
       },
       "image_local": "assets/products/pp-spun_PP-Spun-Filter-copy.jpg"
     },
@@ -489,11 +812,21 @@
       "id": "ppf-cartridge",
       "name": "PP Melt BlownF Polypropylene Fiber Cartridge",
       "category": "Filter Cartridge",
-      "image": "../assets/products/ppf-cartridge-v4.png",
+      "image": "../assets/products/ppf-cartridge_PPF-Filter-copy.jpg",
       "desc": "Polypropylene fiber filter cartridge for sediment removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
         "Material": "PP Fiber",
-        "Function": "Sediment"
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
+        "Function": "Sediment",
+        "Size": "10\" to 50\"",
+        "Micron": "As small as 0.1 microns",
+        "Type": "DOE or SOE"
       },
       "image_local": "assets/products/ppf-cartridge_PPF-Filter-copy.jpg"
     },
@@ -501,11 +834,20 @@
       "id": "pre-udf",
       "name": "Pre-UDF Activated Carbon Cartridge",
       "category": "Filter Cartridge",
-      "image": "../assets/products/pre-udf-v4.png",
+      "image": "../assets/products/pre-udf_Pre-UDF-Filter-copy.jpg",
       "desc": "Pre-filtration granular activated carbon cartridge to protect downstream membranes. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "GAC",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Position": "Pre-filter",
-        "Material": "GAC"
+        "Connection": "Silicon Ring Seal",
+        "Maintenance": "Easy"
       },
       "image_local": "assets/products/pre-udf_Pre-UDF-Filter-copy.jpg"
     },
@@ -513,23 +855,40 @@
       "id": "resin-filter",
       "name": "Ion-Exchange Resin Filter",
       "category": "Filter Cartridge",
-      "image": "../assets/products/10.png",
+      "image": "../assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg",
       "desc": "Ion-exchange resin cartridge for water softening and removal of heavy metals. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Function": "Water Softening",
         "Removes": "Ca/Mg/Heavy Metals"
       },
-      "image_local": "assets/products/resin-filter_WeChat48b644654d6e0f5e709716ba2298b556-889x1024.png"
+      "image_local": "assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
     },
     {
       "id": "ro-membrane",
       "name": "Reverse Osmosis (RO) Membrane Element Element",
       "category": "Filter Cartridge",
-      "image": "../assets/products/ro-membrane-v4.png",
+      "image": "../assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg",
       "desc": "Reverse osmosis membrane cartridge — the core component of RO systems for desalination and purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Type": "RO TFC Membrane",
-        "Capacity": "75/100/400 GPD"
+        "Capacity": "75/100/400 GPD",
+        "Stages": "Multi-stage"
       },
       "image_local": "assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg"
     },
@@ -539,17 +898,36 @@
       "category": "RO System",
       "desc": "High-capacity reverse osmosis membrane for residential and light commercial water purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Filtration Stages": "5-stage / 6-stage / 7-stage RO + UV (configurable)",
+        "Membrane Type": "Thin-Film Composite (TFC) Polyamide",
+        "Output Capacity": "50 / 75 / 100 / 200 / 400 / 600 GPD",
+        "Salt Rejection Rate": "≥ 96% – 99%",
+        "Working Pressure": "0.1 – 0.4 MPa (0.7 MPa with booster pump)",
+        "Pure-to-Waste Ratio": "1:1 – 1:3 (configurable)",
+        "Storage Tank": "3.2 / 4.4 / 5.5 gallon (NSF-listed)",
+        "Certifications": "NSF/ANSI 58, ISO 9001:2015, CE, SGS, WQA Gold Seal (option)",
         "Capacity": "400 GPD",
-        "Type": "Dry Membrane"
-      }
+        "Type": "Dry Membrane",
+        "Stages": "Multi-stage"
+      },
+      "image": "../assets/products/ro-membrane-400g.png",
+      "image_local": "assets/products/ro-membrane-400g.png"
     },
     {
       "id": "ro-undersink",
       "name": "Under-Sink Reverse Osmosis Water Filter",
       "category": "RO System",
-      "image": "../assets/products/11.png",
+      "image": "../assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg",
       "desc": "Gravity-fed RO system relying on incoming water pressure to push water through the RO membrane. Multi-stage: sediment filter, carbon filter, RO membrane. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Filtration Stages": "5-stage / 6-stage / 7-stage RO + UV (configurable)",
+        "Membrane Type": "Thin-Film Composite (TFC) Polyamide",
+        "Output Capacity": "50 / 75 / 100 / 200 / 400 / 600 GPD",
+        "Salt Rejection Rate": "≥ 96% – 99%",
+        "Working Pressure": "0.1 – 0.4 MPa (0.7 MPa with booster pump)",
+        "Pure-to-Waste Ratio": "1:1 – 1:3 (configurable)",
+        "Storage Tank": "3.2 / 4.4 / 5.5 gallon (NSF-listed)",
+        "Certifications": "NSF/ANSI 58, ISO 9001:2015, CE, SGS, WQA Gold Seal (option)",
         "Stages": "Multi-stage",
         "Type": "No Pump Required",
         "Membrane": "RO 75GPD"
@@ -563,35 +941,65 @@
       "image": "../assets/products/ss-jumbo-housing-v4.png",
       "desc": "Wytrzymała obudowa ze stali nierdzewnej 304 dostępna w rozmiarach 10-calowych i 20-calowych. Kompatybilna z membranami UF, filtrami osadowymi PP i filtrami Carbon Block. Idealna do zastosowań o wysokim natężeniu przepływu. Hurtowa dostawa fabryczna, możliwość dostosowania do potrzeb OEM/ODM. Certyfikat NSF/ISO do przemysłowego i komercyjnego uzdatniania wody.",
       "specs": {
+        "Body Material": "Reinforced FDA-grade PP / SUS 304 / SUS 316L stainless steel",
+        "Cap Material": "ABS / PP / SUS 304",
+        "Inlet/Outlet": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "Max Working Pressure": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "Hydrostatic Test": "1.5× rated working pressure",
+        "Working Temperature": "1°C – 50°C",
+        "Certifications": "NSF, FDA, ISO 9001:2015, CE PED 2014/68/EU (where applicable)",
+        "Sealing": "Food-grade silicone O-rings",
         "Material": "304 Stainless Steel",
         "Size": "10\" / 20\" Jumbo",
         "Compatibility": "PP, Carbon, UF",
-        "Type": "High-Pressure"
+        "Type": "High-Pressure",
+        "Stages": "3 (PP, RO, CTO)",
+        "Brand": "Eco Express Water"
       },
-      "image_local": "assets/products/ss_jumbo_housing.jpg"
+      "image_local": "assets/products/ss-jumbo-housing-v4.png"
     },
     {
       "id": "t33-post",
       "name": "T33 Post Filter Cartridge",
       "category": "Inline Filter",
-      "image": "../assets/products/t33-post-v4.png",
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg",
       "desc": "High-quality post-carbon filter for final stage purification. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Housing": "Food-grade PE / PP one-piece sealed body",
+        "Connection": "1/4\" or 3/8\" Quick Connect (push-fit)",
+        "Filtration Media": "Coconut-shell carbon / KDF / Maifan stone / mineral balls",
+        "Max Working Pressure": "0.6 MPa (87 psi)",
+        "Service Life": "12 months / 6,000 L (whichever first)",
+        "Working Temperature": "5°C – 38°C",
+        "Certifications": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "Available · custom logo printing · MOQ 2,000 pcs",
         "Position": "Post-filter",
-        "Function": "Polishing"
+        "Function": "Polishing",
+        "Material": "Coconut shell activated carbon",
+        "Benefits": "Improved taste and odor"
       },
-      "image_local": "assets/products/t33-post_T33-post-Filter-copy.jpg"
+      "image_local": "assets/products/post-t33_Post-T33-Filter-copy.jpg"
     },
     {
       "id": "udf-cartridge",
       "name": "GAC Granular Activated Carbon (UDF) Filter Cartridge",
       "category": "Filter Cartridge",
-      "image": "../assets/products/udf-cartridge-v4.png",
+      "image": "../assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg",
       "desc": "Standard 10-inch GAC filter from high iodine value carbon. Reduces chlorine, organic chemicals, unnatural tastes and odors. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Type": "GAC",
         "Size": "10 inch",
-        "Iodine": "1000"
+        "Iodine": "1000",
+        "Connection": "Silicon Ring Seal",
+        "Maintenance": "Easy"
       },
       "image_local": "assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg"
     },
@@ -599,22 +1007,37 @@
       "id": "uf-cartridge",
       "name": "Ultrafiltration (UF) Cartridge",
       "category": "Filter Cartridge",
-      "image": "../assets/products/uf-cartridge-v3.png",
+      "image": "../assets/products/uf-cartridge.png",
       "desc": "Hollow-fiber ultrafiltration membrane cartridge for removing bacteria, viruses, and colloidal matter. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Membrane": "Hollow Fiber",
         "Filtration": "0.01μm"
       },
-      "image_local": "assets/products/uf-cartridge_Ultra-FilterUF-copy.jpg"
+      "image_local": "assets/products/uf-cartridge.png"
     },
     {
       "id": "uf-filter-2",
       "name": "UF Hollow Fiber Filter",
       "category": "Filter Cartridge",
-      "image": "../assets/products/uf-filter-2-v4.png",
+      "image": "../assets/products/uf-filter-2_UF-Filter-copy.jpg",
       "desc": "Ultrafiltration cartridge for fine suspended-solids removal. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
         "Material": "Hollow Fiber",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Removes": "Bacteria"
       },
       "image_local": "assets/products/uf-filter-2_UF-Filter-copy.jpg"
@@ -623,9 +1046,17 @@
       "id": "ultra-film",
       "name": "Ultra Film Filter Cartridge",
       "category": "Filter Cartridge",
-      "image": "../assets/products/ultra-film-v4.png",
+      "image": "../assets/products/ultra-film_Ultra-Film-Filter-copy.jpg",
       "desc": "Advanced ultrafiltration film cartridge for high-efficiency filtration. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Material": "Food-grade Polypropylene / Coconut-shell Activated Carbon",
+        "Filtration Accuracy": "1 µm / 5 µm / 10 µm (customizable)",
+        "Standard Length": "10\" / 20\" (others on request)",
+        "Working Temperature": "5°C – 45°C",
+        "Max Working Pressure": "0.4 MPa (60 psi)",
+        "Service Life": "3 – 12 months (depending on water quality)",
+        "Certifications": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "Available · MOQ 1,000 pcs",
         "Type": "Ultra Film",
         "Filtration": "0.01μm"
       },
@@ -635,13 +1066,22 @@
       "id": "uv-purifier",
       "name": "Three Stage Plus UV Water Purifier",
       "category": "Water Purifier",
-      "image": "../assets/products/12.png",
+      "image": "../assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg",
       "desc": "Three-stage water purification system enhanced with UV sterilization for superior water safety. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Filtration Stages": "Multi-stage (PP + GAC + UF / RO)",
+        "Daily Output": "Up to 100 L/day (residential) – 1,000 L/day (commercial)",
+        "Material": "Food-grade FDA-approved PP / ABS / SUS 304",
+        "Working Pressure": "0.1 – 0.4 MPa",
+        "Working Temperature": "5°C – 45°C",
+        "Certifications": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "Warranty": "12 – 24 months on housing & electronics",
+        "Application": "Residential, restaurant, school, hotel, industrial commercial use",
         "Stages": "3 + UV",
-        "Sterilization": "UV-C"
+        "Sterilization": "UV-C",
+        "Type": "Gravity-fed"
       },
-      "image_local": "assets/products/12.png"
+      "image_local": "assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg"
     },
     {
       "id": "water-purifier-maifan",
@@ -649,9 +1089,21 @@
       "category": "Water Purifier",
       "desc": "Multi-stage purifier featuring Maifan stone for mineralization and improved water quality. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.",
       "specs": {
+        "Filtration Stages": "Multi-stage (PP + GAC + UF / RO)",
+        "Daily Output": "Up to 100 L/day (residential) – 1,000 L/day (commercial)",
+        "Material": "Food-grade FDA-approved PP / ABS / SUS 304",
+        "Working Pressure": "0.1 – 0.4 MPa",
+        "Working Temperature": "5°C – 45°C",
+        "Certifications": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "Warranty": "12 – 24 months on housing & electronics",
+        "Application": "Residential, restaurant, school, hotel, industrial commercial use",
         "Mineral": "Maifan Stone",
-        "Stages": "5-Stage"
-      }
+        "Stages": "5-Stage",
+        "Lifespan": "Up to 6 months",
+        "Installation": "Direct inline"
+      },
+      "image": "../assets/products/water-purifier-maifan.png",
+      "image_local": "assets/products/water-purifier-maifan.png"
     }
   ]
 }

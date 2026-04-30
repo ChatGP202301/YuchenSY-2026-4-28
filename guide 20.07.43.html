@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Express Water Global - Language Portal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #F9F9F7; font-family: 'Inter', sans-serif; }
+        .bg-forest { background-color: #485342; }
+        .text-gold { color: #B5A48B; }
+        .card { transition: all 0.3s ease; border: 1px solid #eee; }
+        .card:hover { transform: translateY(-5px); border-color: #B5A48B; box-shadow: 0 10px 20px rgba(0,0,0,0.05); }
+    </style>
+</head>
+<body class="p-8 md:p-16">
+    <div class="max-w-6xl mx-auto">
+        <header class="text-center mb-16">
+            <div class="inline-block bg-forest p-4 rounded-lg mb-6">
+                <h1 class="text-3xl font-bold text-gold uppercase tracking-widest">Express Water</h1>
+            </div>
+            <h2 class="text-4xl font-bold text-gray-800 mb-4">Global B2B Language Portal</h2>
+            <p class="text-gray-500 max-w-2xl mx-auto">Access the high-end multi-page website in 45 different languages. Each version is optimized for local search and AI consultation.</p>
+        </header>
+
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+            <!-- Language Links -->
+            <script>
+                const languages = [
+                    {code: 'en', name: 'English'}, {code: 'es', name: 'Español'}, {code: 'fr', name: 'Français'}, 
+                    {code: 'de', name: 'Deutsch'}, {code: 'pt', name: 'Português'}, {code: 'ru', name: 'Русский'}, 
+                    {code: 'ar', name: 'العربية'}, {code: 'ja', name: '日本語'}, {code: 'ko', name: '한국어'}, 
+                    {code: 'it', name: 'Italiano'}, {code: 'tr', name: 'Türkçe'}, {code: 'hi', name: 'हिन्दी'}, 
+                    {code: 'bn', name: 'বাংলা'}, {code: 'id', name: 'Bahasa Indonesia'}, {code: 'vi', name: 'Tiếng Việt'}, 
+                    {code: 'th', name: 'ไทย'}, {code: 'pl', name: 'Polski'}, {code: 'nl', name: 'Nederlands'}, 
+                    {code: 'fa', name: 'فارسی'}, {code: 'ur', name: 'اردو'}, {code: 'ms', name: 'Bahasa Melayu'}, 
+                    {code: 'tl', name: 'Tagalog'}, {code: 'he', name: 'עברית'}, {code: 'el', name: 'Ελληνικά'}, 
+                    {code: 'cs', name: 'Čeština'}, {code: 'hu', name: 'Magyar'}, {code: 'ro', name: 'Română'}, 
+                    {code: 'sv', name: 'Svenska'}, {code: 'da', name: 'Dansk'}, {code: 'fi', name: 'Suomi'}, 
+                    {code: 'no', name: 'Norsk'}, {code: 'uk', name: 'Українська'}, {code: 'bg', name: 'Български'}, 
+                    {code: 'hr', name: 'Hrvatski'}, {code: 'sr', name: 'Српски'}, {code: 'sk', name: 'Slovenčina'}, 
+                    {code: 'sl', name: 'Slovenščina'}, {code: 'lt', name: 'Lietuvių'}, {code: 'et', name: 'Eesti'}, 
+                    {code: 'lv', name: 'Latviešu'}, {code: 'sw', name: 'Kiswahili'}, {code: 'ha', name: 'Hausa'}, 
+                    {code: 'zu', name: 'isiZulu'}, {code: 'ta', name: 'தமிழ்'}, {code: 'kk', name: 'Қазақ тілі'}
+                ];
+
+                languages.forEach(lang => {
+                    document.write(`
+                        <a href="${lang.code}/index.html" class="card bg-white p-6 rounded-lg text-center block no-underline">
+                            <div class="text-[10px] font-bold text-gray-400 uppercase tracking-tighter mb-2">${lang.code}</div>
+                            <div class="text-sm font-bold text-gray-700">${lang.name}</div>
+                        </a>
+                    `);
+                });
+            </script>
+        </div>
+
+        <footer class="mt-20 pt-8 border-t border-gray-100 text-center text-gray-400 text-xs">
+            <p>Express Water B2B Solution © 2026. expresswater025@gmail.com</p>
+        </footer>
+    </div>
+</body>
+</html>

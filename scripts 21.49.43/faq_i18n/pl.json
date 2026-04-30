@@ -1,0 +1,65 @@
+{
+  "faq_intro": "Często zadawane pytania dotyczące przemysłowego uzdatniania wody, produkcji OEM, certyfikatów NSF/ISO oraz globalnych dostaw hurtowych od Express Water — wiodącego chińskiego producenta filtrów do wody działającego od 1998 roku.",
+  "faqs": [
+    {
+      "q": "Czy filtry Express Water posiadają certyfikaty NSF, CE, ISO i SGS?",
+      "a": "Tak. Wszystkie nasze wkłady PP melt-blown, CTO carbon block, GAC, UF membrane, T33 post-carbon oraz RO membrane są testowane zgodnie z normami NSF/ANSI 42, NSF/ANSI 53 i NSF/ANSI 58. Nasz zakład posiada certyfikat jakości ISO 9001:2015, oznaczenie CE dla eksportu europejskiego, deklaracje materiałowe klasy FDA, chiński certyfikat 3C dla dystrybutorów oraz pełne raporty z testów SGS na zawartość metali ciężkich i LZO (VOC). Certyfikat Halal (JAKIM Malaysia) jest dostępny dla zamówień hurtowych na rynki muzułmańskie."
+    },
+    {
+      "q": "Jaka jest minimalna ilość zamówienia (MOQ) dla wkładów do filtrów wody OEM/ODM?",
+      "a": "MOQ dla standardowych 10-calowych wkładów PP, CTO i GAC zaczyna się od 1000 sztuk na SKU dla produktów z magazynu, 3000 sztuk dla etykiet z nadrukiem OEM oraz 5000 sztuk dla w pełni spersonalizowanych odlewów ODM (prywatna zaślepka, niestandardowy O-ring, markowa folia termokurczliwa). Membrany UF oraz membrany RO 75/100/400 GPD mają zazwyczaj MOQ 500 sztuk. Dystrybutory ścienne mają MOQ 100 sztuk. Mniejsze zamówienia próbne są negocjowalne dla nowych dystrybutorów."
+    },
+    {
+      "q": "Gdzie znajduje się Państwa fabryka i czy kupujący mogą ją odwiedzić?",
+      "a": "Nasze centrum produkcyjne znajduje się w Yuanhua Town, Haining City, Zhejiang Province, Chiny — około 90 minut jazdy samochodem od lotniska Shanghai Hongqiao (SHA) i lotniska Hangzhou Xiaoshan (HGH). Obiekt o powierzchni ponad 20 000 m² mieści dedykowane linie do wytłaczania PP melt-blown, prasy do spiekanych bloków węglowych CTO carbon block, pomieszczenia czyste do montażu membran UF/RO oraz linie montażowe SMT dystrybutorów. Zapraszamy na planowane wizyty kupujących, inspekcje stron trzecich (SGS, BV, TÜV) oraz audyty kwalifikacyjne OEM."
+    },
+    {
+      "q": "Jakiego czasu realizacji (lead time) należy się spodziewać w przypadku zamówień hurtowych?",
+      "a": "Standardowe wkłady PP, CTO, GAC i T33 w kolorach magazynowych są wysyłane w ciągu 7–10 dni. Wkłady pod marką własną OEM z niestandardowym nadrukiem: 20–25 dni od zatwierdzenia grafiki. Elementy membranowe RO/UF: 15–20 dni. Dystrybutory ścienne i nablatowe: 30–45 dni w zależności od stopnia personalizacji. Załadunek kontenera to zazwyczaj 1 × 20'GP (≈ 80 000 wkładów) lub 1 × 40'HQ (≈ 200 dystrybutorów). Dostępne są warunki FOB Shanghai lub Ningbo; CIF, CFR oraz DDP."
+    },
+    {
+      "q": "Czy dostarczają Państwo membrany RO do użytku domowego i komercyjnego?",
+      "a": "Tak. Oferujemy pełną gamę membran do odwróconej osmozy: 50 GPD, 75 GPD, 100 GPD, 200 GPD, 400 GPD, 600 GPD dla domowych systemów podzlewozmywakowych, a także elementy o wysokim odrzucie 300 GPD, 400 GPD i 600 GPD dla lekkich komercyjnych dystrybutorów wody. Elementy przemysłowe 4040 i 8040 (odpowiedniki BW30, SW30) są dostępne dla stacji uzdatniania wody, dializ, płukania półprzewodników i zastosowań farmaceutycznych. Współczynnik odrzutu soli ≥ 96–99%."
+    },
+    {
+      "q": "Jaka jest różnica między filtrami PP melt-blown, CTO carbon block a GAC (granulowany węgiel aktywny)?",
+      "a": "Filtry osadowe PP melt-blown wykorzystują termicznie wiązane włókna polipropylenowe do usuwania zanieczyszczeń cząsteczkowych (rdza, piasek, muł) o wielkości od 0,5 do 50 microns. Filtry ze spiekanego bloku węglowego CTO (Chlorine, Taste & Odor) wykorzystują sprasowany węgiel aktywny z łupin orzecha kokosowego lub węgiel kamienny do usuwania wolnego chloru, chloramin, LZO (VOC), pestycydów i poprawy smaku — zazwyczaj 5 µm lub 10 µm. Filtry z granulowanym węglem aktywnym GAC wykorzystują luźne granule węgla dla dłuższego czasu kontaktu i adsorpcji chloru, i często stanowią drugi stopień w 5-stopniowych systemach RO. Produkujemy wszystkie trzy rodzaje na skalę przemysłową z pełną identyfikowalnością."
+    },
+    {
+      "q": "Czy mogą Państwo produkować certyfikowane produkty do filtracji wody Halal na rynki muzułmańskie?",
+      "a": "Tak. Jesteśmy oficjalnie uznanym dostawcą filtrów do wody Halal z certyfikatem JAKIM Malaysia. Wszystkie media filtracyjne (węgiel aktywny, kulki mineralne, KDF, żywica jonowymienna) oraz komponenty mające kontakt z żywnością są zgodne ze standardami Halal. Regularnie eksportujemy do Malezji, Indonezji, Arabii Saudyjskiej, ZEA, Kataru, Egiptu, Pakistanu, Bangladeszu, Turcji, Maroka i na inne rynki z większością muzułmańską, dołączając dokumentację Halal."
+    },
+    {
+      "q": "Czy zapewniają Państwo personalizację OEM/ODM dla dystrybutorów i oczyszczaczy wody?",
+      "a": "Absolutnie — OEM/ODM to nasza główna specjalność. Personalizujemy: kolor obudowy zewnętrznej (dopasowanie Pantone), logo na przednim panelu (sitodruk lub grawerowanie laserowe), język wyświetlacza LED i interfejs użytkownika, napięcie (110V/220V/240V), typ wtyczki (US/UK/EU/AU), opakowanie (pudełko upominkowe, brązowy karton, kolorowa obwoluta), tłumaczenie instrukcji obsługi oraz zestawy dołączonych akcesoriów. Koszt oprzyrządowania dla nowych form wtryskowych jest zazwyczaj zwracany przy zamówieniach o wielkości ≥ 5000 sztuk."
+    },
+    {
+      "q": "Jakie warunki płatności i handlowe Państwo akceptują?",
+      "a": "Standardowe warunki: 30% depozytu T/T przy potwierdzeniu zamówienia, 70% salda płatne na podstawie kopii B/L przed wysyłką. Akceptujemy również akredytywę (L/C) at sight od renomowanych banków, Western Union i PayPal dla zamówień próbnych o wartości ≤ 3000 USD oraz Alibaba Trade Assurance dla nowych kupujących. Warunki handlowe: EXW Haining, FOB Shanghai/Ningbo, CIF, CFR, DDP i DDU są dostępne w zależności od portu docelowego i preferencji incoterm."
+    },
+    {
+      "q": "Jaka jest typowa żywotność Państwa wkładów filtracyjnych?",
+      "a": "Oczekiwany okres eksploatacji zależy od jakości wody wejściowej i dziennego przepływu: filtr osadowy PP melt-blown — od 3 do 6 miesięcy; CTO carbon block — od 6 do 12 miesięcy; węgiel granulowany GAC — od 6 do 12 miesięcy; T33 post-carbon — 12 miesięcy; membrana ultrafiltracyjna UF — od 24 do 36 miesięcy; element membrany RO — od 24 do 36 miesięcy; wkład mineralizujący / alkaliczny T33 — 12 miesięcy; wkład zmiękczający z żywicą kationową — od 6 do 12 miesięcy w zależności od twardości wody. Przypomnienie o wymianie za pomocą diody LED jest wbudowane we wszystkie nasze inteligentne modele dystrybutorów."
+    },
+    {
+      "q": "Do jakich krajów obecnie Państwo eksportują?",
+      "a": "Dostarczamy produkty do ponad 50 krajów na sześciu kontynentach, z głównymi rynkami w: USA, Kanadzie, Meksyku, Brazylii, Argentynie, Wielkiej Brytanii, Niemczech, Francji, Włoszech, Hiszpanii, Rosji, Ukrainie, Polsce, Turcji, Arabii Saudyjskiej, ZEA, Egipcie, Iranie, Pakistanie, Indiach, Bangladeszu, Sri Lance, Indonezji, Malezji, Wietnamie, Tajlandii, Filipinach, Korei Południowej, Japonii, Australii, Nowej Zelandii, RPA, Nigerii, Kenii, Tanzanii, Maroku, Algierii. Partnerstwa z lokalnymi dystrybutorami i umowy na wyłączność terytorialną są mile widziane."
+    },
+    {
+      "q": "Czy zapewniają Państwo wsparcie techniczne dla systemów odwróconej osmozy i serwis posprzedażowy?",
+      "a": "Tak. Każdy partner OEM otrzymuje: kompletne rysunki techniczne (PDF/DWG), instrukcje montażu, filmy instalacyjne, wielojęzyczne instrukcje obsługi (dostępne w ponad 45 językach), listę części zamiennych z kodami PN, dedykowane wsparcie inżynieryjne przez WhatsApp/e-mail oraz 12- do 24-miesięczną ograniczoną gwarancję na obudowy, membrany i komponenty elektroniczne. Wysłanie inżyniera na miejsce w celu uruchomienia dużych przemysłowych stacji RO jest dostępne za dodatkową opłatą."
+    },
+    {
+      "q": "Czy Państwa obudowy filtrów wytrzymują wysokociśnieniowe zastosowania przemysłowe?",
+      "a": "Tak. Produkujemy obudowy filtrów ze stali nierdzewnej klasy spożywczej SUS 304 i SUS 316L, przystosowane do ciśnienia roboczego do 16 bar (232 psi), z opcjami wlotu/wylotu 1\", 1.5\", 2\" i 3\" NPT/BSP. Obudowy Big Blue 20\" i 30\" ze wzmocnionego PP z mosiężnymi gwintami wytrzymują do 8,6 bar (125 psi). Wszystkie zbiorniki ciśnieniowe są testowane hydrostatycznie pod ciśnieniem 1,5-krotnie wyższym od znamionowego przed wysyłką i są dostarczane z deklaracją CE PED 2014/68/EU, jeśli ma to zastosowanie."
+    },
+    {
+      "q": "Jakie surowce i media filtracyjne Państwo pozyskują?",
+      "a": "Używamy wyłącznie materiałów klasy spożywczej i wymienionych na liście NSF: czystej żywicy polipropylenowej (bez PP z recyklingu) do filtrów melt-blown i obudów; węgla aktywnego z łupin orzecha kokosowego (liczba jodowa ≥ 1100 mg/g) i węgla bitumicznego do CTO/GAC; włókien kapilarnych PVC i PES do membran UF; poliamidu cienkowarstwowego (TFC) do membran RO; silikonu klasy spożywczej do O-ringów; SS 316L do armatury sanitarnej; zatwierdzonego przez FDA ABS i PP do obudów; paneli LG Display dla inteligentnych dystrybutorów; certyfikowanych miedzianych elementów grzejnych (w stosownych przypadkach)."
+    },
+    {
+      "q": "W jaki sposób mogę poprosić o ofertę cenową, próbki lub katalog produktów?",
+      "a": "Skontaktuj się z nami przez WhatsApp pod numerem +86-19908311885 (wsparcie sprzedaży 24/7, dostępne w języku angielskim/chińskim/arabskim), e-mailem na adres expresswater025@gmail.com lub wypełnij formularz zapytania na naszej stronie Kontakt. Prosimy o podanie: docelowego produktu (model/specyfikacja), ilości, kraju docelowego, wymagań dotyczących opakowania oraz wszelkich potrzeb związanych z brandingiem. Szczegółowy katalog PDF, kompletne certyfikaty produktów, film z wizyty w fabryce oraz cennik zostaną wysłane w ciągu 24 godzin w dni robocze."
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "EN": {
+    "1. Enamel Tank Line": "Semi-automatic production line including enameling, drying, and firing furnaces. Specs: 420kW Burning power, 100kW Drying power, 380V/50Hz supply. Capacity: ~30 pieces/hour (100L tank). Features: Energy-saving ceramic fibers, ±5°C temperature control, corrosion-resistant glass fusion.",
+    "2. Solar Water Heater (SWH) Line": "Components: Automatic sheet cutting, tank shrinking, CNC punching, PUF injection, and leakage testing machines. Customization: Supports colorful/stainless steel outer tanks and various thickness requirements.",
+    "3. CNC Punching Machine": "Role: Core component for high-precision processing of tank sheets. Advantage: Integrated automatic flow, high efficiency.",
+    "4. Solar Collectors": "Flat Plate: Efficient absorption/radiation principle, low maintenance, eco-friendly. Heat Pipe: Available in 12-30 tubes, high thermal efficiency vacuum-sealed system.",
+    "5. PV Mounting Structure": "Material: Aluminum 6005-T5 & SUS 304. Limit: Max wind speed <= 60 m/s, Max snow load <= 1.4 kn/m2. Angles: Fixed 5-60 deg, adjustable 5-60 deg. Life: 12-year warranty, 20-year service life.",
+    "6. IMU Sensor System": "Use: 6-axis/9-axis sensors for aerospace, robotics, and navigation stabilization. Tech: High precision with 5V operation."
+  },
+  "AR": {
+    "1. خط إنتاج خزانات المينا": "خط إنتاج نصف أوتوماتيكي يشمل أفران الطلاء بالمينا والتجفيف والحرق. المواصفات: طاقة حرق 420 كيلوواط، طاقة تجفيف 100 كيلوواط، مصدر طاقة 380 فولت / 50 هرتز. السعة: ~30 قطعة/ساعة (خزان 100 لتر). الميزات: ألياف سيراميك موفرة للطاقة، تحكم في درجة الحرارة ±5 درجة مئوية، دمج زجاجي مقاوم للتآكل.",
+    "2. خط سخانات المياه الشمسية (SWH)": "المكونات: آلات قطع الألواح الأوتوماتيكية، تقليص الخزانات، التثقيب باستخدام الحاسب الآلي (CNC)، حقن PUF، واختبار التسرب. التخصيص: يدعم الخزانات الخارجية الملونة/الفولاذ المقاوم للصدأ ومتطلبات السماكة المختلفة.",
+    "3. آلة التثقيب CNC": "الدور: مكون أساسي للمعالجة عالية الدقة لألواح الخزانات. الميزة: تدفق أوتوماتيكي متكامل، كفاءة عالية.",
+    "4. المجمعات الشمسية": "اللوح المسطح: مبدأ الامتصاص/الإشعاع الفعال، صيانة منخفضة، صديق للبيئة. أنبوب الحرارة: متوفر في 12-30 أنبوباً، نظام محكم الغلق مفرغ من الهواء بكفاءة حرارية عالية.",
+    "5. هيكل تركيب الألواح الكهروضوئية": "المواد: ألمنيوم 6005-T5 وفولاذ مقاوم للصدأ SUS 304. الحدود: أقصى سرعة رياح <= 60 م/ث، أقصى حمل ثلج <= 1.4 كيلو نيوتن/م2. الزوايا: ثابتة 5-60 درجة، قابلة للتعديل 5-60 درجة. العمر: ضمان 12 عاماً، عمر خدمة 20 عاماً.",
+    "6. نظام مستشعر IMU": "الاستخدام: مستشعرات بـ 6 محاور / 9 محاور لتطبيقات الفضاء والروبوتات واستقرار الملاحة. التقنية: دقة عالية مع تشغيل بجهد 5 فولت."
+  },
+  "ES": {
+    "1. Línea de Tanques de Esmalte": "Línea de producción semiautomática que incluye hornos de esmaltado, secado y cocción. Especificaciones: Potencia de combustión 420kW, potencia de secado 100kW, suministro 380V/50Hz. Capacidad: ~30 piezas/hora (tanque de 100L). Características: Fibras cerámicas de ahorro energético, control de temperatura ±5°C, fusión de vidrio resistente a la corrosión.",
+    "2. Línea de Calentadores Solares de Agua (SWH)": "Componentes: Máquinas de corte automático de láminas, contracción de tanques, punzonado CNC, inyección de PUF y pruebas de fugas. Personalización: Soporta tanques exteriores de acero inoxidable o colores y varios requisitos de espesor.",
+    "3. Punzonadora CNC": "Función: Componente central para el procesamiento de alta precisión de láminas de tanques. Ventaja: Flujo automático integrado, alta eficiencia.",
+    "4. Colectores Solares": "Placa Plana: Principio eficiente de absorción/radiación, bajo mantenimiento, ecológico. Tubo de Calor: Disponible en 12-30 tubos, sistema sellado al vacío de alta eficiencia térmica.",
+    "5. Estructura de Montaje PV": "Material: Aluminio 6005-T5 y SUS 304. Límites: Velocidad máx. viento <= 60 m/s, carga máx. nieve <= 1.4 kn/m2. Ángulos: Fijos 5-60°, ajustables 5-60°. Vida útil: 12 años de garantía, 20 años de vida útil.",
+    "6. Sistema de Sensores IMU": "Uso: Sensores de 6/9 ejes para aeroespacial, robótica y estabilización de navegación. Tecnología: Alta precisión con operación de 5V."
+  },
+  "FR": {
+    "1. Ligne de Réservoirs en Émail": "Ligne de production semi-automatique comprenant des fours d'émaillage, de séchage et de cuisson. Spécifications: Puissance de combustion 420kW, puissance de séchage 100kW, alimentation 380V/50Hz. Capacité: ~30 pièces/heure (réservoir de 100L). Caractéristiques: Fibres céramiques à économie d'énergie, contrôle de température ±5°C, fusion de verre résistante à la corrosion.",
+    "2. Ligne de Chauffe-eau Solaire (CES)": "Composants: Machines de découpe automatique de tôles, de rétraction de réservoirs, de poinçonnage CNC, d'injection de PUF et de test d'étanchéité. Personnalisation: Prend en charge les réservoirs extérieurs colorés/en acier inoxydable et diverses exigences d'épaisseur.",
+    "3. Poinçonneuse CNC": "Rôle: Composant central pour le traitement de haute précision des tôles de réservoir. Avantage: Flux automatique intégré, haute efficacité.",
+    "4. Capteurs Solaires": "Plat: Principe d'absorption/rayonnement efficace, faible entretien, écologique. Tube Caloduc: Disponible en 12-30 tubes, système scellé sous vide à haute efficacité thermique.",
+    "5. Structure de Montage PV": "Matériau: Aluminium 6005-T5 et SUS 304. Limites: Vitesse max du vent <= 60 m/s, charge de neige max <= 1,4 kn/m2. Angles: Fixes 5-60°, réglables 5-60°. Durée de vie: Garantie 12 ans, durée de vie de 20 ans.",
+    "6. Système de Capteurs IMU": "Utilisation: Capteurs 6 axes/9 axes pour l'aérospatiale, la robotique et la stabilisation de la navigation. Technologie: Haute précision avec fonctionnement en 5V."
+  },
+  "DE": {
+    "1. Email-Tank-Produktionslinie": "Halbautomatische Produktionslinie einschließlich Emaillier-, Trocknungs- und Brennöfen. Spezifikationen: 420 kW Brennleistung, 100 kW Trocknungsleistung, 380 V/50 Hz Versorgung. Kapazität: ~30 Stück/Stunde (100-Liter-Tank). Merkmale: Energiesparende Keramikfasern, ±5°C Temperaturregelung, korrosionsbeständige Glasverschmelzung.",
+    "2. Solarwarmwasserbereiter (SWH)-Linie": "Komponenten: Automatische Blechschneide-, Tankschrumpf-, CNC-Stanz-, PUF-Injektions- und Lecktestmaschinen. Anpassung: Unterstützt farbige/Edelstahl-Außentanks und verschiedene Dickenanforderungen.",
+    "3. CNC-Stanzmaschine": "Rolle: Kernkomponente für die hochpräzise Bearbeitung von Tankblechen. Vorteil: Integrierter automatischer Durchlauf, hohe Effizienz.",
+    "4. Solarkollektoren": "Flachkollektor: Effizientes Absorptions-/Strahlungsprinzip, wartungsarm, umweltfreundlich. Heatpipe: Erhältlich mit 12-30 Röhren, vakuumversiegeltes System mit hoher thermischer Effizienz.",
+    "5. PV-Montagestruktur": "Material: Aluminium 6005-T5 & SUS 304. Grenzwerte: Max. Windgeschwindigkeit <= 60 m/s, max. Schneelast <= 1,4 kn/m2. Winkel: Fest 5-60°, einstellbar 5-60°. Lebensdauer: 12 Jahre Garantie, 20 Jahre Lebensdauer.",
+    "6. IMU-Sensorsystem": "Verwendung: 6-Achsen-/9-Achsen-Sensoren für Luft- und Raumfahrt, Robotik und Navigationsstabilisierung. Technik: Hohe Präzision bei 5V-Betrieb."
+  },
+  "RU": {
+    "1. Линия по производству эмалированных баков": "Полуавтоматическая производственная линия, включающая печи для эмалирования, сушки и обжига. Характеристики: Мощность обжига 420 кВт, мощность сушки 100 кВт, питание 380 В/50 Гц. Производительность: ~30 штук/час (бак на 100 л). Особенности: Энергосберегающие керамические волокна, контроль температуры ±5°C, коррозионностойкое сплавление стекла.",
+    "2. Линия солнечных водонагревателей (SWH)": "Компоненты: Автоматическая резка листов, усадка баков, ЧПУ-пробивка, впрыск ППУ и машины для проверки на герметичность. Индивидуализация: Поддержка цветных баков или баков из нержавеющей стали, различные требования к толщине.",
+    "3. Пробивной станок с ЧПУ": "Роль: Основной компонент для высокоточной обработки листов бака. Преимущество: Интегрированный автоматический поток, высокая эффективность.",
+    "4. Солнечные коллекторы": "Плоский: Эффективный принцип поглощения/излучения, низкие эксплуатационные расходы, экологичность. Тепловая трубка: Доступно от 12 до 30 трубок, вакуумная система с высокой тепловой эффективностью.",
+    "5. Конструкция для монтажа фотоэлектрических систем": "Материал: Алюминий 6005-T5 и SUS 304. Пределы: Макс. скорость ветра <= 60 м/с, макс. снеговая нагрузка <= 1,4 кН/м2. Углы: Фиксированные 5-60°, регулируемые 5-60°. Срок службы: Гарантия 12 лет, срок службы 20 лет.",
+    "6. Система датчиков IMU": "Использование: 6-осевые/9-осевые датчики для аэрокосмической отрасли, робототехники и стабилизации навигации. Технология: Высокая точность при работе от 5 В."
+  },
+  "PT": {
+    "1. Linha de Tanques de Esmalte": "Linha de produção semiautomática incluindo fornos de esmaltação, secagem e queima. Especificações: Potência de queima de 420kW, potência de secagem de 100kW, alimentação 380V/50Hz. Capacidade: ~30 peças/hora (tanque de 100L). Características: Fibras cerâmicas economizadoras de energia, controle de temperatura ±5°C, fusão de vidro resistente à corrosão.",
+    "2. Linha de Aquecedores Solares de Água (SWH)": "Componentes: Corte automático de chapas, encolhimento de tanques, puncionamento CNC, injeção de PUF e máquinas de teste de vazamento. Personalização: Suporta tanques externos coloridos/em aço inoxidável e vários requisitos de espessura.",
+    "3. Puncionadeira CNC": "Função: Componente central para processamento de alta precisão de chapas de tanques. Vantagem: Fluxo automático integrado, alta eficiência.",
+    "4. Coletores Solares": "Placa Plana: Princípio eficiente de absorção/radiação, baixa manutenção, ecológico. Heat Pipe: Disponível em 12-30 tubos, sistema selado a vácuo de alta eficiência térmica.",
+    "5. Estrutura de Montagem PV": "Material: Alumínio 6005-T5 e SUS 304. Limites: Velocidade máx. do vento <= 60 m/s, carga máx. de neve <= 1,4 kn/m2. Ângulos: Fixos 5-60°, ajustáveis 5-60°. Vida útil: Garantia de 12 anos, vida útil de 20 anos.",
+    "6. Sistema de Sensores IMU": "Uso: Sensores de 6/9 eixos para aeroespacial, robótica e estabilização de navegação. Tecnologia: Alta precisão com operação de 5V."
+  },
+  "JA": {
+    "1. エナメルタンクライン": "ホーロー加工、乾燥、焼成炉を含む半自動生産ライン。仕様: 燃焼出力420kW、乾燥出力100kW、電源380V/50Hz。能力: 約30個/時（100Lタンク）。特徴: 省エネセラミックファイバー、±5°Cの温度制御、耐食性ガラスフュージョン。",
+    "2. 太陽熱温水器（SWH）ライン": "構成部品: 自動シート切断機、タンク収縮機、CNCパンチング機、PUF注入機、漏れ試験機。カスタマイズ: カラフル/ステンレス鋼の外装タンクおよび様々な厚さの要件に対応。",
+    "3. CNCパンチングマシン": "役割: タンクシートの高精度加工のためのコアコンポーネント。利点: 統合された自動フロー、高効率。",
+    "4. 太陽熱コレクター": "平板形: 効率的な吸収/輻射原理、低メンテナンス、環境に優しい。ヒートパイプ形: 12〜30本のチューブが利用可能、高熱効率の真空密閉システム。",
+    "5. 太陽光発電架台構造": "材質: アルミニウム 6005-T5 および SUS 304。制限: 最大風速 <= 60 m/s、最大積雪荷重 <= 1.4 kn/m2。角度: 固定5-60度、調整可能5-60度。寿命: 12年間の保証、20年間の耐用年数。",
+    "6. IMUセンサーシステム": "用途: 航空宇宙、ロボット、航法安定化のための6軸/9軸センサー。技術: 5V動作による高精度。"
+  },
+  "KO": {
+    "1. 에나멜 탱크 라인": "에나멜 코팅, 건조 및 소성로를 포함한 반자동 생산 라인. 사양: 420kW 연소 전력, 100kW 건조 전력, 380V/50Hz 공급. 용량: 시간당 약 30개 (100L 탱크 기준). 특징: 에너지 절약형 세라믹 섬유, ±5°C 온도 제어, 부식 방지 유리 융착.",
+    "2. 태양열 온수기 (SWH) 라인": "구성 요소: 자동 시트 절단, 탱크 수축, CNC 펀칭, PUF 주입 및 누출 테스트 기계. 맞춤화: 컬러/스테인리스 스틸 외장 탱크 및 다양한 두께 요구 사항 지원.",
+    "3. CNC 펀칭기": "역할: 탱크 시트의 고정밀 가공을 위한 핵심 부품. 장점: 통합 자동 흐름, 고효율.",
+    "4. 태양열 집열기": "평판형: 효율적인 흡수/복사 원리, 저유지보수, 친환경적. 히트 파이프형: 12-30개 튜브 제공 가능, 고열 효율 진공 밀폐 시스템.",
+    "5. PV 장착 구조": "재질: 알루미늄 6005-T5 및 SUS 304. 제한: 최대 풍속 <= 60 m/s, 최대 적설 하중 <= 1.4 kn/m2. 각도: 고정 5-60도, 조절 가능 5-60도. 수명: 12년 보증, 20년 서비스 수명.",
+    "6. IMU 센서 시스템": "용도: 항공 우주, 로봇 및 항법 안정화를 위한 6축/9축 센서. 기술: 5V 작동의 고정밀 기술."
+  },
+  "IT": {
+    "1. Linea Serbatoi Smaltati": "Linea di produzione semiautomatica comprendente forni di smaltatura, essiccazione e cottura. Specifiche: 420kW potenza combustione, 100kW potenza essiccazione, 380V/50Hz. Capacità: ~30 pz/h (100L). Caratteristiche: Fibre ceramiche, controllo temperatura ±5°C, fusione vetro anticorrosione.",
+    "2. Linea SWH": "Componenti: Taglio automatico, restringimento, punzonatura CNC, iniezione PUF, test perdite. Custom: Serbatoi inox/colorati, vari spessori.",
+    "3. Punzonatrice CNC": "Ruolo: Lavorazione precisione lamiere. Vantaggio: Flusso automatico, alta efficienza.",
+    "4. Collettori Solari": "Piano: Assorbimento efficiente, bassa manutenzione. Heat Pipe: 12-30 tubi, sistema sottovuoto.",
+    "5. Montaggio PV": "Materiale: Alluminio 6005-T5, SUS 304. Limiti: Vento <= 60 m/s, Neve <= 1,4 kn/m2. Angoli: 5-60°. Vita: 12 anni garanzia, 20 anni vita.",
+    "6. Sensori IMU": "Uso: Aerospazio, robotica. Tech: Alta precisione, 5V."
+  },
+  "TR": {
+    "1. Emaye Tank Hattı": "Emayeleme, kurutma ve pişirme fırınlarını içeren yarı otomatik üretim hattı. Özellikler: 420kW Yakma gücü, 100kW Kurutma gücü, 380V/50Hz besleme. Kapasite: ~30 adet/saat (100L tank). Özellikler: Enerji tasarruflu seramik lifler, ±5°C sıcaklık kontrolü, korozyona dayanıklı cam füzyonu.",
+    "2. SWH Hattı": "Bileşenler: Otomatik sac kesme, tank büzme, CNC delme, PUF enjeksiyonu ve sızıntı test makineleri. Özelleştirme: Renkli/paslanmaz çelik dış tankları ve çeşitli kalınlık gereksinimlerini destekler.",
+    "3. CNC Delme Makinesi": "Rol: Tank saclarının yüksek hassasiyetli işlenmesi için temel bileşen. Avantaj: Entegre otomatik akış, yüksek verimlilik.",
+    "4. Güneş Kolektörleri": "Düz Plaka: Verimli emilim/radyasyon prensibi, düşük bakım, çevre dostu. Isı Borusu: 12-30 tüp seçeneği, yüksek termal verimliliğe sahip vakumlu mühürlü sistem.",
+    "5. PV Montaj Yapısı": "Malzeme: Alüminyum 6005-T5 ve SUS 304. Limit: Maksimum rüzgar hızı <= 60 m/s, Maksimum kar yükü <= 1.4 kn/m2. Açılar: Sabit 5-60°, ayarlanabilir 5-60°. Ömür: 12 yıl garanti, 20 yıl hizmet ömrü.",
+    "6. IMU Sensör Sistemi": "Kullanım: Havacılık, robotik ve navigasyon stabilizasyonu için 6 eksenli/9 eksenli sensörler. Teknoloji: 5V çalışma ile yüksek hassasiyet."
+  },
+  "HI": {
+    "1. एनामेल टैंक लाइन": "अर्ध-स्वचालित उत्पादन लाइन। 420kW बर्निंग, 100kW सुखाने, 380V/50Hz। क्षमता: ~30 नग/घंटा (100L)। विशेषताएं: ऊर्जा-बचत फाइबर, ±5°C नियंत्रण, संक्षारण प्रतिरोधी फ्यूजन।",
+    "2. SWH लाइन": "घटक: स्वचालित कटिंग, सिकोड़ना, CNC पंचिंग, PUF इंजेक्शन, परीक्षण। अनुकूलन: रंगीन/स्टेनलेस स्टील बाहरी टैंक।",
+    "3. सीएनसी पंचिंग मशीन": "भूमिका: उच्च-सटीक प्रसंस्करण। लाभ: एकीकृत प्रवाह, उच्च दक्षता।",
+    "4. सौर संग्राहक": "फ्लैट प्लेट: कुशल अवशोषण। हीट पाइप: 12-30 ट्यूब, वैक्यूम-सील्ड।",
+    "5. पीवी माउंटिंग": "सामग्री: एल्युमिनियम 6005-T5, SUS 304। सीमा: हवा <= 60 m/s, बर्फ <= 1.4 kn/m2। कोण: 5-60°। जीवन: 12 साल वारंटी, 20 साल जीवन।",
+    "6. आईएमयू सेंसर": "उपयोग: एयरोस्पेस, रोबोटिक्स। तकनीक: उच्च परिशुद्धता, 5V।"
+  },
+  "BN": {
+    "1. এনামেল ট্যাঙ্ক লাইন": "আধা-স্বয়ংক্রিয় উত্পাদন লাইন। ৪২০kW বার্নিং, ১০০kW ড্রাইং, ৩৮০V/৫০Hz। ক্ষমতা: ~৩০ পিস/ঘন্টা (১০০L)। বৈশিষ্ট্য: সিরামিক ফাইবার, ±৫° সেঃ নিয়ন্ত্রণ, জারা-প্রতিরোধী ফিউশন।",
+    "2. SWH লাইন": "উপাদান: স্বয়ংক্রিয় শীট কাটিং, শ্রিঙ্কিং, সিএনসি পাঞ্চিং, পিইউএফ ইনজেকশন, টেস্টিং। কাস্টমাইজেশন: রঙিন/স্টেইনলেস স্টিল ট্যাঙ্ক।",
+    "3. সিএনসি পাঞ্চিং মেশিন": "ভূমিকা: উচ্চ-নির্ভুল প্রক্রিয়াকরণ। সুবিধা: ইন্টিগ্রেটেড স্বয়ংক্রিয় প্রবাহ।",
+    "4. সৌর সংগ্রাহক": "ফ্ল্যাট প্লেট: দক্ষ শোষণ। হিট পাইপ: ১২-৩০ টিউব, ভ্যাকুয়াম-সিলড।",
+    "5. পিভি মাউন্টিং": "উপাদান: অ্যালুমিনিয়াম 6005-T5, SUS 304। সীমা: বাতাস <= ৬০ মি./সে., তুষার <= ১.৪ kn/m2। কোণ: ৫-৬০°। জীবন: ১২ বছর ওয়ারেন্টি।",
+    "6. আইএমইউ সেন্সর": "ব্যবহার: অ্যারোস্পেস, রোবোটিক্স। প্রযুক্তি: ৫V অপারেশনে উচ্চ নির্ভুলতা।"
+  },
+  "ID": {
+    "1. Lini Tangki Enamel": "Lini semi-otomatis termasuk tungku enameling, pengeringan, pembakaran. 420kW/100kW, 380V/50Hz. Kapasitas: ~30 psc/jam (100L). Fitur: Hemat energi, kontrol ±5°C, tahan korosi.",
+    "2. Lini SWH": "Komponen: Pemotongan otomatis, penyusutan, punching CNC, injeksi PUF, tes kebocoran. Kustom: Tangki luar warna/stainless.",
+    "3. Mesin CNC": "Peran: Pemrosesan presisi tinggi. Keunggulan: Aliran otomatis, efisiensi tinggi.",
+    "4. Kolektor Surya": "Pelat Datar: Penyerapan efisien. Pipa Panas: 12-30 tabung, segel vakum.",
+    "5. Struktur PV": "Bahan: Al 6005-T5, SUS 304. Batas: Angin <= 60 m/s, Salju <= 1,4 kn/m2. Sudut: 5-60°. Hidup: 12 thn garansi, 20 thn pakai.",
+    "6. Sensor IMU": "Guna: Dirgantara, robotika. Tek: Presisi tinggi, 5V."
+  },
+  "VI": {
+    "1. Dây chuyền tráng men": "Dây chuyền bán tự động bao gồm lò tráng men, sấy, nung. 420kW/100kW, 380V/50Hz. Công suất: ~30 chiếc/giờ (100L). Tính năng: Tiết kiệm năng lượng, ±5°C, chống ăn mòn.",
+    "2. Dây chuyền SWH": "Thành phần: Cắt tự động, co bình, đột CNC, phun PUF, thử xì. Tùy chỉnh: Vỏ màu/inox.",
+    "3. Máy đột CNC": "Vai trò: Gia công chính xác. Ưu điểm: Quy trình tự động, hiệu quả cao.",
+    "4. Bộ thu nhiệt": "Tấm phẳng: Hấp thụ tốt. Ống nhiệt: 12-30 ống, chân không.",
+    "5. Giá đỡ PV": "Vật liệu: Nhôm 6005-T5, SUS 304. Giới hạn: Gió <= 60 m/s, Tuyết <= 1,4 kn/m2. Góc: 5-60°. Tuổi thọ: 12 năm bảo hành.",
+    "6. Cảm biến IMU": "Dùng cho: Hàng không, robot. Công nghệ: Độ chính xác cao, 5V."
+  },
+  "TH": {
+    "1. สายการผลิตเอนาเมล": "สายการผลิตกึ่งอัตโนมัติ เตาเคลือบ-อบ-เผา 420kW/100kW, 380V/50Hz ผลิต ~30 ชิ้น/ชม. (100L) ประหยัดพลังงาน คุมอุณหภูมิ ±5°C ทนการกัดกร่อน",
+    "2. สายการผลิต SWH": "ส่วนประกอบ: ตัดแผ่น เจาะ CNC ฉีด PUF ทดสอบรั่ว รองรับถังสี/สแตนเลส",
+    "3. เครื่องเจาะ CNC": "บทบาท: แปรรูปแผ่นถังความแม่นยำสูง ข้อดี: อัตโนมัติ ประสิทธิภาพสูง",
+    "4. แผงรับแสงอาทิตย์": "แผ่นเรียบ: ดูดซับดี ท่อความร้อน: 12-30 ท่อ ระบบสูญญากาศ",
+    "5. โครงสร้าง PV": "วัสดุ: อลูมิเนียม 6005-T5, SUS 304 ลมสูงสุด <= 60 m/s หิมะ <= 1.4 kn/m2 มุม 5-60° ประกัน 12 ปี อายุ 20 ปี",
+    "6. ระบบ IMU": "การใช้งาน: การบิน หุ่นยนต์ นำทาง เทคโนโลยี: แม่นยำสูง 5V"
+  },
+  "PL": {
+    "1. Linia emalierska": "Półautomatyczna linia: piece emalierskie, suszące, wypalające. 420kW/100kW, 380V/50Hz. Wydajność: ~30 szt./h (100L). Cechy: Energooszczędna, ±5°C, odporna na korozję.",
+    "2. Linia SWH": "Komponenty: Cięcie blach, obkurczanie, wykrawanie CNC, wtrysk PUF, testy. Personalizacja: Zbiorniki kolorowe/nierdzewne.",
+    "3. Wykrawarka CNC": "Rola: Precyzyjna obróbka blach. Zaleta: Automatyzacja, wydajność.",
+    "4. Kolektory": "Płaski: Wydajna absorpcja. Heat Pipe: 12-30 rur, próżniowy.",
+    "5. Konstrukcja PV": "Materiał: Al 6005-T5, SUS 304. Limity: Wiatr <= 60 m/s, Śnieg <= 1,4 kn/m2. Kąty: 5-60°. Żywotność: 12 lat gwarancji.",
+    "6. System IMU": "Zastosowanie: Lotnictwo, robotyka. Tech: Wysoka precyzja, 5V."
+  },
+  "NL": {
+    "1. Emaille Lijn": "Semi-automatisch: ovens voor emailleren, drogen, bakken. 420kW/100kW, 380V/50Hz. Cap: ~30 st/u (100L). Kenmerken: Energiezuinig, ±5°C, corrosiebestendig.",
+    "2. SWH Lijn": "Comp: Snijden, krimpen, CNC ponsen, PUF injectie, lektest. Maatwerk: Kleur/RVS buitentanks.",
+    "3. CNC Machine": "Rol: Precisiebewerking. Voordeel: Automatisch, efficiënt.",
+    "4. Collectoren": "Vlakke plaat: Efficiënt. Heat Pipe: 12-30 buizen, vacuüm.",
+    "5. PV Structuur": "Materiaal: Al 6005-T5, SUS 304. Limiet: Wind <= 60 m/s, Sneeuw <= 1,4 kn/m2. Hoek: 5-60°. Garantie: 12 jaar.",
+    "6. IMU Sensor": "Gebruik: Ruimtevaart, robotica. Tech: Hoge precisie, 5V."
+  },
+  "FA": {
+    "1. خط لعاب": "نیمه‌اتوماتیک شامل کوره‌های لعاب، خشک‌کن، پخت. 420kW/100kW، 380V. ظرفیت ~30 عدد/ساعت (100L). ویژگی: کم‌مصرف، ±5°C، ضدخوردگی.",
+    "2. خط SWH": "اجزاء: برش ورق، پانچ CNC، تزریق PUF، تست نشتی. سفارشی: مخزن رنگی/استیل.",
+    "3. دستگاه CNC": "نقش: پردازش دقیق ورق. مزیت: جریان اتوماتیک، کارایی بالا.",
+    "4. کلکتور": "صفحه تخت: جذب بالا. لوله حرارتی: 12-30 لوله، خلاء.",
+    "5. سازه PV": "جنس: آلومینیوم 6005-T5، SUS 304. حد: باد <= 60m/s، برف <= 1.4kn/m2. زاویه: 5-60°. گارانتی: 12 سال.",
+    "6. سنسور IMU": "کاربرد: هوافضا، رباتیک. تکنولوژی: دقت بالا، 5V."
+  },
+  "UR": {
+    "1. اینمل لائن": "نیم خودکار لائن: اینملنگ، خشک کرنے، فائرنگ کی بھٹیاں۔ 420kW/100kW، 380V۔ صلاحیت ~30 ٹکڑے فی گھنٹہ (100L)۔ خصوصیات: توانائی کی بچت، ±5°C کنٹرول۔",
+    "2. SWH لائن": "اجزاء: کٹنگ، سکڑنا، CNC پنچنگ، PUF انجکشن، ٹیسٹنگ۔ تخصیص: رنگین/سٹینلیس سٹیل ٹینک۔",
+    "3. سی این سی مشین": "کردار: اعلیٰ درستگی کی پروسیسنگ۔ فائدہ: خودکار بہاؤ، اعلیٰ کارکردگی۔",
+    "4. سولر کلکٹرز": "فلیٹ پلیٹ: موثر جذب۔ ہیٹ پائپ: 12-30 ٹیوبیں، ویکیوم سیلڈ۔",
+    "5. پی وی ماؤنٹنگ": "مواد: ایلومینیم 6005-T5، SUS 304۔ حد: ہوا <= 60m/s، برف <= 1.4kn/m2۔ زاویہ: 5-60°۔ وارنٹی: 12 سال۔",
+    "6. آئی ایم یو سینسر": "استعمال: ایرو اسپیس، روبوٹکس۔ ٹیکنالوجی: اعلیٰ درستگی، 5V۔"
+  },
+  "MS": {
+    "1. Talian Tangki Enamel": "Talian pengeluaran separa automatik termasuk relau enamelling, pengeringan, dan pembakaran. Spek: 420kW kuasa pembakaran, 100kW kuasa pengeringan. Kapasiti: ~30 keping/jam (tangki 100L). Ciri-ciri: Gentian seramik penjimatan tenaga, kawalan ±5°C, pelakuran kaca tahan kakisan.",
+    "2. Talian SWH": "Komponen: Pemotongan kepingan automatik, pengecutan tangki, penebukan CNC, suntikan PUF, ujian kebocoran. Penyesuaian: Tangki luar berwarna/keluli tahan karat.",
+    "3. Mesin CNC": "Peranan: Pemprosesan kepingan tangki berketepatan tinggi. Kelebihan: Aliran automatik bersepadu, kecekapan tinggi.",
+    "4. Pengumpul Suria": "Plat Rata: Penyerapan/radiasi cekap. Paip Haba: 12-30 tiub, sistem vakum.",
+    "5. Struktur PV": "Bahan: Aluminium 6005-T5, SUS 304. Had: Angin <= 60 m/s, Salji <= 1.4 kn/m2. Sudut: 5-60°. Hayat: Waranti 12 tahun.",
+    "6. Sensor IMU": "Kegunaan: Aeroangkasa, robotik. Teknologi: Ketepatan tinggi, operasi 5V."
+  },
+  "TL": {
+    "1. Enamel Tank Line": "Semi-automatic na linya ng produksyon kabilang ang enameling, drying, at firing furnaces. Specs: 420kW Burning power, 100kW Drying power. Kapasidad: ~30 piraso/oras (100L tank). Tampok: Energy-saving ceramic fibers, ±5°C temperature control.",
+    "2. SWH Line": "Mga Bahagi: Awtomatikong pagputol ng sheet, tank shrinking, CNC punching, PUF injection, at leakage testing. Customization: Makulay/stainless steel na outer tank.",
+    "3. CNC Punching Machine": "Gampanin: High-precision processing ng tank sheets. Bentahe: Integrated automatic flow, mataas na efficiency.",
+    "4. Solar Collectors": "Flat Plate: Efficient na prinsipyo ng absorption. Heat Pipe: 12-30 tubes, vacuum-sealed system.",
+    "5. PV Mounting Structure": "Materyales: Aluminum 6005-T5 & SUS 304. Limit: Max wind speed <= 60 m/s. Warranty: 12 taon, 20 taon service life.",
+    "6. IMU Sensor System": "Gamit: Sensors para sa aerospace, robotics. Teknolohiya: High precision sa 5V."
+  },
+  "HE": {
+    "1. קו ייצור מיכלי אמייל": "קו ייצור חצי אוטומטי הכולל תנורי אמייל, ייבוש ושריפה. מפרט: הספק שריפה 420kW, הספק ייבוש 100kW. קיבולת: כ-30 יחידות לשעה (מיכל 100 ליטר). מאפיינים: סיבים קרמיים חוסכי אנרגיה, בקרת טמפרטורה ±5°C.",
+    "2. קו דודי שמש (SWH)": "רכיבים: חיתוך לוחות אוטומטי, כיווץ מיכלים, ניקוב CNC, הזרקת PUF ובדיקת נזילות. התאמה אישית: מיכלים חיצוניים צבעוניים או מנירוסטה.",
+    "3. מכונת ניקוב CNC": "תפקיד: רכיב ליבה לעיבוד מדויק של לוחות המיכל. יתרון: זרימה אוטומטית משולבת, יעילות גבוהה.",
+    "4. קולטי שמש": "לוח שטוח: עקרון ספיגה/קרינה יעיל. צינור חום: 12-30 צינורות, מערכת אטומה בוואקום.",
+    "5. מבנה הרכבה פוטו-וולטאי": "חומר: אלומיניום 6005-T5 ו-SUS 304. מגבלות: מהירות רוח מקסימלית <= 60 מ'/ש'. אחריות: 12 שנים, חיי שירות של 20 שנה.",
+    "6. מערכת חיישני IMU": "שימוש: חיישני 6/9 צירים לתעופה וחלל, רובוטיקה וניווט. טכנולוגיה: דיוק גבוה עם הפעלה של 5V."
+  },
+  "EL": {
+    "1. Γραμμή Δεξαμενών Εμαγιέ": "Ημιαυτόματη γραμμή παραγωγής με φούρνους εμαγιέ, στεγνώματος και όπτησης. Ισχύς: 420kW καύση, 100kW στέγνωμα. Χωρητικότητα: ~30 τεμ/ώρα (100L). Χαρακτηριστικά: Κεραμικές ίνες εξοικονόμησης ενέργειας, έλεγχος ±5°C.",
+    "2. Γραμμή SWH": "Εξαρτήματα: Αυτόματη κοπή φύλλων, συρρίκνωση δεξαμενής, διάτρηση CNC, έγχυση PUF, έλεγχος διαρροών. Προσαρμογή: Έγχρωμες/ανοξείδωτες δεξαμενές.",
+    "3. Μηχανή Διάτρησης CNC": "Ρόλος: Επεξεργασία υψηλής ακρίβειας φύλλων δεξαμενής. Πλεονέκτημα: Ολοκληρωμένη αυτόματη ροή.",
+    "4. Ηλιακοί Συλλέκτες": "Επίπεδος: Αποδοτική απορρόφηση. Heat Pipe: 12-30 σωλήνες, σύστημα κενού.",
+    "5. Δομή Στήριξης Φ/Β": "Υλικό: Αλουμίνιο 6005-T5 & SUS 304. Όρια: Ταχύτητα ανέμου <= 60 m/s. Εγγύηση: 12 έτη, διάρκεια ζωής 20 έτη.",
+    "6. Σύστημα Αισθητήρων IMU": "Χρήση: Αισθητήρες 6/9 αξόνων για αεροδιαστημική, ρομποτική. Τεχνολογία: Υψηλή ακρίβεια 5V."
+  },
+  "CS": {
+    "1. Linka na smaltované nádrže": "Poloautomatická linka: smaltování, sušení, vypalování. 420kW/100kW, 380V. Kapacita: ~30 ks/h (100L). Vlastnosti: Energeticky úsporná keramická vlákna, regulace ±5°C, odolnost proti korozi.",
+    "2. Linka SWH": "Komponenty: Automatické stříhání, smršťování, CNC děrování, vstřikování PUF, testování těsnosti. Přizpůsobení: Barevné/nerezové nádrže.",
+    "3. CNC děrovací stroj": "Role: Přesné zpracování plechů nádrží. Výhoda: Integrovaný automatický tok, vysoká účinnost.",
+    "4. Solární kolektory": "Plochý: Efektivní absorpce. Heat Pipe: 12-30 trubic, vakuový systém.",
+    "5. PV montážní konstrukce": "Materiál: Hliník 6005-T5 & SUS 304. Limity: Vítr <= 60 m/s, sníh <= 1,4 kn/m2. Záruka: 12 let, životnost 20 let.",
+    "6. Senzorový systém IMU": "Použití: Letectví, robotika. Technologie: Vysoká přesnost, 5V napájení."
+  },
+  "HU": {
+    "1. Zománcozott tartály sor": "Félautomata gyártósor: zománcozó, szárító és égető kemencék. 420kW/100kW. Kapacitás: ~30 db/óra (100L). Jellemzők: Energiatakarékos kerámiaszálak, ±5°C hőmérséklet-szabályozás.",
+    "2. SWH sor": "Alkatrészek: Automata lemezvágás, tartályzsugorítás, CNC stancolás, PUF befecskendezés, szivárgásvizsgálat. Testreszabás: Színes/rozsdamentes acél tartályok.",
+    "3. CNC stancológép": "Szerep: Tartálylemezek nagy pontosságú megmunkálása. Előny: Integrált automata áramlás, nagy hatékonyság.",
+    "4. Napkollektorok": "Sík: Hatékony abszorpció. Heat Pipe: 12-30 csöves, vákuumzáras rendszer.",
+    "5. PV tartószerkezet": "Anyag: Alumínium 6005-T5 és SUS 304. Határérték: Szélsebesség <= 60 m/s, Hónyomás <= 1,4 kn/m2. Élettartam: 12 év garancia, 20 év élettartam.",
+    "6. IMU szenzorrendszer": "Használat: 6/9 tengelyes szenzorok repüléshez, robotikához. Technológia: Nagy pontosság, 5V üzemelés."
+  },
+  "RO": {
+    "1. Linie rezervoare emailate": "Linie semi-automată: cuptoare de emailare, uscare și ardere. 420kW/100kW. Capacitate: ~30 buc/oră (100L). Caracteristici: Fibre ceramice economice, control ±5°C, fuziune sticlă anticorozivă.",
+    "2. Linie SWH": "Componente: Tăiere automată, contracție, poansonare CNC, injecție PUF, testare scurgeri. Personalizare: Rezervoare colorate/inox.",
+    "3. Mașină poansonat CNC": "Rol: Procesare de înaltă precizie a tablei. Avantaj: Flux automat integrat, eficiență ridicată.",
+    "4. Colectori solari": "Plan: Absorbție eficientă. Heat Pipe: 12-30 tuburi, sistem vidat.",
+    "5. Structură montaj PV": "Material: Aluminiu 6005-T5 și SUS 304. Limite: Vânt <= 60 m/s, Zăpadă <= 1,4 kn/m2. Garanție: 12 ani, viață 20 ani.",
+    "6. Sistem senzori IMU": "Utilizare: Senzori 6/9 axe pentru aviație, robotică. Tehnologie: Înaltă precizie, 5V."
+  },
+  "SV": {
+    "1. Emaljtanklinje": "Halvautomatisk produktionslinje: emaljering, torkning, bränning. 420kW/100kW. Kapacitet: ~30 st/h (100L). Funktioner: Energibesparande keramikfiber, ±5°C kontroll.",
+    "2. SWH-linje": "Komponenter: Automatisk plåtskärning, krympning, CNC-stansning, PUF-injektion, läckagetest. Anpassning: Färgad/rostfri yttertank.",
+    "3. CNC-stansmaskin": "Roll: Högprecisionsbearbetning av tankplåt. Fördel: Integrerat flöde, hög effektivitet.",
+    "4. Solfångare": "Platt: Effektiv absorption. Heat Pipe: 12-30 rör, vakuumförseglat system.",
+    "5. PV-monteringsstruktur": "Material: Aluminium 6005-T5 & SUS 304. Gräns: Vind <= 60 m/s, Snö <= 1,4 kn/m2. Garanti: 12 år, 20 års livslängd.",
+    "6. IMU-sensorsystem": "Användning: Flyg, robotik. Teknik: Hög precision, 5V drift."
+  },
+  "DA": {
+    "1. Emaljetanklinje": "Halvautomatisk produktionslinje: emaljering, tørring, brænding. 420kW/100kW. Kapacitet: ~30 stk/t (100L). Funktioner: Energibesparende keramikfibre, ±5°C kontrol.",
+    "2. SWH-linje": "Komponenter: Automatisk pladeskæring, krympning, CNC-stansning, PUF-injektion, lækagetest. Tilpasning: Farvede/rustfri ståltanke.",
+    "3. CNC-stansmaskine": "Rolle: Højpræcisionsbearbejdning af tankplader. Fordel: Integreret automatisk flow.",
+    "4. Solfangere": "Plan: Effektiv absorption. Heat Pipe: 12-30 rør, vakuumforseglet.",
+    "5. PV-monteringsstruktur": "Materiale: Aluminium 6005-T5 & SUS 304. Grænser: Vind <= 60 m/s, Sne <= 1,4 kn/m2. Levetid: 12 års garanti, 20 års levetid.",
+    "6. IMU-sensorsystem": "Brug: Luftfart, robotik. Teknologi: Høj præcision, 5V drift."
+  },
+  "FI": {
+    "1. Emalisäiliölinja": "Puoliautomaattinen linja: emalointi, kuivaus, poltto. 420kW/100kW. Kapasiteetti: ~30 kpl/h (100L). Ominaisuudet: Energiansäästökuitu, ±5°C ohjaus, korroosionkestävä.",
+    "2. SWH-linja": "Komponentit: Automaattileikkaus, kutistus, CNC-stanssaus, PUF-injektio, vuototesti. Räätälöinti: Väri/ruostumaton teräs.",
+    "3. CNC-stanssaus": "Rooli: Säiliölevyjen tarkkuustyöstö. Etu: Integroitu automaattivirtaus.",
+    "4. Aurinkokeräimet": "Tasokeräin: Tehokas absorptio. Heat Pipe: 12-30 putkea, tyhjiöjärjestelmä.",
+    "5. PV-asennusrakenne": "Materiaali: Alumiini 6005-T5 & SUS 304. Rajat: Tuuli <= 60 m/s, Lumi <= 1,4 kn/m2. Takuu: 12 vuotta, käyttöikä 20 vuotta.",
+    "6. IMU-anturijärjestelmä": "Käyttö: Ilmailu, robotiikka. Teknologia: Korkea tarkkuus, 5V."
+  },
+  "NO": {
+    "1. Emaljetanklinje": "Halvautomatisk linje: emaljering, tørking, brenning. 420kW/100kW. Kapasitet: ~30 stk/t (100L). Egenskaper: Energisparende keramisk fiber, ±5°C kontroll.",
+    "2. SWH-linje": "Komponenter: Automatisk plateskjæring, krymping, CNC-stansing, PUF-injeksjon, lekkasjetest. Tilpasning: Fargede/rustfrie tankero.",
+    "3. CNC-stansemaskin": "Rolle: Høypresisjonsbearbeiding av tankplater. Fordel: Integrert automatisk flyt.",
+    "4. Solfangere": "Plan: Effektiv absorpsjon. Heat Pipe: 12-30 rør, vakuumforseglet.",
+    "5. PV-monteringsstruktur": "Materiale: Aluminium 6005-T5 & SUS 304. Grenser: Vind <= 60 m/s, Snø <= 1,4 kn/m2. Garanti: 12 år, 20 års levetid.",
+    "6. IMU-sensorsystem": "Bruk: Luftfart, robotikk. Teknologi: Høy presisjon, 5V drift."
+  },
+  "UK": {
+    "1. Лінія емальованих баків": "Напівавтоматична лінія: емалювання, сушіння, випалювання. 420кВт/100кВт. Продуктивність: ~30 шт/год (100л). Особливості: Енергозберігаюче волокно, контроль ±5°C.",
+    "2. Лінія SWH": "Компоненти: Автоматична різка, усадка, ЧПУ-пробивка, впорскування ППУ, тест на герметичність. Кастомізація: Кольорові баки або нержавійка.",
+    "3. Пробивний станок ЧПУ": "Роль: Високоточна обробка листів бака. Перевага: Інтегрований потік, висока ефективність.",
+    "4. Сонячні колектори": "Плоский: Ефективне поглинання. Теплова трубка: 12-30 трубок, вакуумна система.",
+    "5. Монтажна структура PV": "Матеріал: Алюміній 6005-T5 та SUS 304. Межі: Вітер <= 60 м/с, Сніг <= 1,4 кН/м2. Гарантія: 12 років, термін служби 20 років.",
+    "6. Система датчиків IMU": "Використання: Аерокосмічна галузь, робототехніка. Технологія: Висока точність, 5В."
+  },
+  "BG": {
+    "1. Линия за емайлирани резервоари": "Полуавтоматична линия: емайлиране, сушене, изпичане. 420kW/100kW. Капацитет: ~30 бр/час (100L). Характеристики: Енергоспестяващи влакна, контрол ±5°C.",
+    "2. Линия SWH": "Компоненти: Автоматично рязане, свиване, CNC щанцоване, PUF инжектиране, тест за течове. Персонализация: Цветни/неръждаеми резервоари.",
+    "3. CNC щанцова машина": "Роля: Високопрецизна обработка на листове. Предимство: Интегриран автоматичен поток.",
+    "4. Слънчеви колектори": "Плосък: Ефективна абсорбция. Heat Pipe: 12-30 тръби, вакуумна система.",
+    "5. PV монтажна структура": "Материал: Алуминий 6005-T5 и SUS 304. Ограничения: Вятър <= 60 m/s, Сняг <= 1,4 kn/m2. Гаранция: 12 години, живот 20 години.",
+    "6. IMU сензорна система": "Употреба: Аерокосмическа индустрия, роботика. Технология: Висока точност, 5V."
+  },
+  "HR": {
+    "1. Linija emajliranih spremnika": "Poluautomatska linija: emajliranje, sušenje, pečenje. 420kW/100kW. Kapacitet: ~30 kom/h (100L). Značajke: Energetski štedljiva vlakna, kontrola ±5°C.",
+    "2. SWH linija": "Komponente: Automatsko rezanje, skupljanje, CNC probijanje, PUF ubrizgavanje, ispitivanje curenja. Prilagodba: Obojeni/inox spremnici.",
+    "3. CNC stroj za probijanje": "Uloga: Visokoprecizna obrada limova. Prednost: Integrirani automatski protok.",
+    "4. Solarni kolektori": "Ravni: Učinkovita apsorpcija. Heat Pipe: 12-30 cijevi, vakuumski sustav.",
+    "5. PV montažna struktura": "Materijal: Aluminij 6005-T5 i SUS 304. Granice: Vjetar <= 60 m/s, Snijeg <= 1,4 kn/m2. Jamstvo: 12 godina, vijek 20 godina.",
+    "6. IMU senzorski sustav": "Upotreba: Zrakoplovstvo, robotika. Tehnologija: Visoka preciznost, 5V."
+  },
+  "SR": {
+    "1. Linija emajliranih rezervoara": "Poluautomatska linija: emajliranje, sušenje, pečenje. 420kW/100kW. Kapacitet: ~30 kom/h (100L). Karakteristike: Energetski štedljiva vlakna, kontrola ±5°C.",
+    "2. SWH linija": "Komponente: Automatsko sečenje, skupljanje, CNC probijanje, PUF ubrizgavanje, test curenja. Prilagođavanje: Obojeni/inox rezervoari.",
+    "3. CNC mašina za probijanje": "Uloga: Visokoprecizna obrada limova. Prednost: Integrisani automatski protok.",
+    "4. Solarni kolektori": "Ravni: Efikasna apsorpcija. Heat Pipe: 12-30 cevi, vakuumski sistem.",
+    "5. PV montažna struktura": "Materijal: Aluminijum 6005-T5 i SUS 304. Granice: Vetar <= 60 m/s, Sneg <= 1,4 kn/m2. Garancija: 12 godina, vek 20 godina.",
+    "6. IMU senzorski sistem": "Upotreba: Vazduhoplovstvo, robotika. Tehnologija: Visoka preciznost, 5V."
+  },
+  "SK": {
+    "1. Linka na smaltované nádrže": "Poloautomatická linka: smaltovanie, sušenie, vypaľovanie. 420kW/100kW. Kapacita: ~30 ks/h (100L). Vlastnosti: Energeticky úsporné vlákna, regulácia ±5°C.",
+    "2. SWH linka": "Komponenty: Automatické strihanie, smršťovanie, CNC dierovanie, vstrekovanie PUF, test tesnosti. Prispôsobenie: Farebné/nerezové nádrže.",
+    "3. CNC dierovací stroj": "Úloha: Presné spracovanie plechov nádrží. Výhoda: Integrovaný automatický tok.",
+    "4. Solárne kolektory": "Plochý: Efektívna absorpcia. Heat Pipe: 12-30 trubíc, vákuový systém.",
+    "5. PV montážna konštrukcia": "Materiál: Hliník 6005-T5 & SUS 304. Limity: Vietor <= 60 m/s, Sneh <= 1,4 kn/m2. Záruka: 12 rokov, životnosť 20 rokov.",
+    "6. Senzorový systém IMU": "Použitie: Letectvo, robotika. Technológia: Vysoká presnosť, 5V."
+  },
+  "SL": {
+    "1. Linija emajliranih rezervoarjev": "Polavtomatska linija: emajliranje, sušenje, žganje. 420kW/100kW. Kapaciteta: ~30 kos/h (100L). Lastnosti: Varčna keramična vlakna, nadzor ±5°C.",
+    "2. SWH linija": "Komponente: Avtomatski razrez, krčenje, CNC prebijanje, PUF vbrizgavanje, test puščanja. Prilagoditev: Barvni/inox rezervoarji.",
+    "3. CNC stroj za prebijanje": "Vloga: Visokonatančna obdelava pločevine. Prednost: Integriran avtomatski tok.",
+    "4. Solarni kolektorji": "Ploski: Učinkovita absorpcija. Heat Pipe: 12-30 cevi, vakuumski sistem.",
+    "5. PV montažna struktura": "Material: Aluminij 6005-T5 in SUS 304. Meje: Veter <= 60 m/s, Sneg <= 1,4 kn/m2. Garancija: 12 let, doba 20 let.",
+    "6. IMU senzorski sistem": "Uporaba: Letalstvo, robotika. Tehnologija: Visoka natančnost, 5V."
+  },
+  "LT": {
+    "1. Emaliuotų talpų linija": "Pusiau automatinė linija: emaliavimas, džiovinimas, degimas. 420kW/100kW. Našumas: ~30 vnt./val. (100L). Savybės: Taupantis energiją pluoštas, ±5°C kontrolė.",
+    "2. SWH linija": "Komponentai: Automatinis pjaustymas, traukimas, CNC štampavimas, PUF injekcija, sandarumo testas. Pritaikymas: Spalvotos/inox talpos.",
+    "3. CNC štampavimo staklės": "Rolė: Tikslus talpų lakštų apdirbimas. Privalumas: Integruotas automatinis srautas.",
+    "4. Saulės kolektoriai": "Plokščias: Efektyvi absorbcija. Heat Pipe: 12-30 vamzdelių, vakuuminė sistema.",
+    "5. PV montavimo konstrukcija": "Medžiaga: Aliuminis 6005-T5 ir SUS 304. Ribos: Vėjas <= 60 m/s, Sniegas <= 1,4 kn/m2. Garantija: 12 metų, tarnavimo laikas 20 metų.",
+    "6. IMU jutiklių sistema": "Naudojimas: Aviacija, robotika. Technologija: Didelis tikslumas, 5V."
+  }
+}

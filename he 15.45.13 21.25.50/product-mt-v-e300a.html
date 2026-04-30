@@ -1,0 +1,101 @@
+<!DOCTYPE html><html lang='he'><head><meta charset='UTF-8'><style>
+    :root {
+      --primary: #485342;
+      --accent: #B5A48B;
+      --bg: #F9F9F7;
+      --dark: #1A1A1A;
+      --light: #FFFFFF;
+      --border: #E5E5E0;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', sans-serif; color: var(--dark); background: var(--bg); line-height: 1.6; }
+    h1, h2, h3, h4 { font-family: 'Playfair Display', serif; }
+    .container { max-width: 1400px; margin: 0 auto; padding: 0 20px; }
+    
+    .header { background: #fff; border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 1000; }
+    .header-inner { display: flex; align-items: center; height: 100px; }
+    .logo { display: flex; align-items: center; text-decoration: none; margin-right: 20px; }
+    .logo img { height: 75px; width: auto; object-fit: contain; }
+    
+    .nav { display: flex; gap: 0px; align-items: center; }
+    .nav a { text-decoration: none; color: var(--dark); font-weight: 600; font-size: 0.95rem; padding: 12px 15px; border-radius: 4px; transition: 0.3s; }
+    .nav a:hover, .nav a.active { color: var(--accent); }
+    
+    .spacer { flex: 1; }
+    
+    .header-right { display: flex; align-items: center; }
+    .header-lang { margin: 0 15px; }
+    .lang-select { padding: 8px 12px; border: 1px solid var(--border); border-radius: 6px; font-size: 0.85rem; cursor: pointer; background: #fff; color: var(--primary); font-weight: 600; }
+    
+    .cta { background: var(--primary); color: #fff; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.95rem; display: flex; align-items: center; gap: 8px; white-space: nowrap; }
+
+    .section { padding: 80px 0; }
+    .section-title { text-align: center; margin-bottom: 60px; }
+    .section-title h2 { font-size: 3rem; color: var(--primary); }
+    
+    /* Product Grid */
+    .product-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 40px; }
+    .product-card { background: #fff; border: 1px solid var(--border); border-radius: 12px; padding: 30px; transition: 0.3s; display: flex; flex-direction: column; text-align: center; text-decoration: none; color: inherit; }
+    .product-card:hover { transform: translateY(-8px); box-shadow: 0 20px 40px rgba(0,0,0,0.08); border-color: var(--accent); }
+    .product-img { height: 280px; display: flex; align-items: center; justify-content: center; margin-bottom: 25px; overflow: hidden; }
+    .product-img img { max-width: 100%; max-height: 100%; object-fit: contain; }
+    
+    /* Detail Page */
+    .detail-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: start; }
+    .detail-img { background: #fff; padding: 40px; border-radius: 20px; border: 1px solid var(--border); position: sticky; top: 120px; }
+    .detail-img img { width: 100%; height: auto; object-fit: contain; }
+    .detail-info h1 { font-size: 3rem; color: var(--primary); margin-bottom: 20px; }
+    .detail-cat { color: var(--accent); text-transform: uppercase; letter-spacing: 2px; font-weight: 600; margin-bottom: 20px; }
+    .detail-desc { font-size: 1.2rem; color: #555; margin-bottom: 40px; line-height: 1.8; }
+    .detail-specs { background: #fff; padding: 40px; border-radius: 15px; border: 1px solid var(--border); margin-bottom: 40px; }
+    .detail-specs table { width: 100%; border-collapse: collapse; }
+    .detail-specs td { padding: 12px 0; border-bottom: 1px solid #f0f0f0; }
+    .detail-specs td:first-child { font-weight: 600; color: var(--primary); width: 180px; }
+
+    .footer { background: var(--primary); color: #fff; padding: 80px 0; margin-top: 100px; }
+    .footer-grid { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 60px; }
+    .footer h4 { color: var(--accent); margin-bottom: 25px; font-size: 1.2rem; }
+    .footer ul { list-style: none; }
+    .footer ul li { margin-bottom: 12px; }
+    .footer ul li a { color: rgba(255,255,255,0.7); text-decoration: none; transition: 0.3s; }
+    .footer ul li a:hover { color: #fff; }
+
+    @media (max-width: 992px) {
+      .header-inner { height: 80px; } .logo img { height: 55px; } .nav, .spacer, .header-right { display: none; }
+      .product-grid, .detail-grid, .footer-grid { grid-template-columns: 1fr; gap: 40px; }
+    }
+    [dir="rtl"] { text-align: right; }
+    [dir="rtl"] .header-inner { flex-direction: row-reverse; }
+    [dir="rtl"] .logo { margin-right: 0; margin-left: 20px; }
+    [dir="rtl"] .nav { flex-direction: row-reverse; }
+    [dir="rtl"] .header-right { flex-direction: row-reverse; }
+</style></head><body>
+    <header class="header">
+        <div class="container header-inner">
+            <a href="index.html" class="logo"><img src="../assets/logo.png" alt="Logo"></a>
+            <nav class="nav">
+                <a href="index.html" class="">בית</a>
+                <a href="about.html" class="">עלינו</a>
+                <a href="products.html" class="active">מוצרים</a>
+                <a href="workshop.html" class="">סדנא</a>
+                <a href="contact.html" class="">צור קשר</a>
+            </nav>
+            <div class="spacer"></div>
+            <div class="header-right">
+                <div class="header-lang">
+                    <select onchange="window.location.href = '../' + this.value + '/products.html'" class="lang-select">
+                        <option value="en" >EN</option><option value="es" >ES</option><option value="ar" >AR</option><option value="pt" >PT</option><option value="fr" >FR</option><option value="de" >DE</option><option value="ru" >RU</option><option value="ja" >JA</option><option value="ko" >KO</option><option value="it" >IT</option><option value="nl" >NL</option><option value="tr" >TR</option><option value="vi" >VI</option><option value="th" >TH</option><option value="id" >ID</option><option value="ms" >MS</option><option value="pl" >PL</option><option value="sv" >SV</option><option value="no" >NO</option><option value="da" >DA</option><option value="fi" >FI</option><option value="he" selected>HE</option><option value="ta" >TA</option><option value="my" >MY</option><option value="km" >KM</option><option value="lo" >LO</option><option value="fa" >FA</option><option value="kk" >KK</option><option value="uz" >UZ</option><option value="ps" >PS</option><option value="sw" >SW</option><option value="ha" >HA</option><option value="zu" >ZU</option><option value="uk" >UK</option><option value="cs" >CS</option><option value="hu" >HU</option><option value="ro" >RO</option><option value="el" >EL</option>
+                    </select>
+                </div>
+                <a href="https://wa.me/8619908311885" class="cta">שלחו לנו הודעה בוואטסאפ</a>
+            </div>
+        </div>
+    </header><main><section class='section'><div class='container detail-grid'><div class='detail-img'><img src='https://assets.zyrosite.com/A85Dpv78OotyVQVx/mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.png' alt='Vertical Water Dispenser MT-V-E300A'></div><div class='detail-info'><div class='detail-cat'>Water Dispenser</div><h1>Vertical Water Dispenser MT-V-E300A</h1><div class='detail-desc'>Vertical floor-standing water dispenser with 304 stainless steel water tank and multiple water outlet options. Black/White design. Wholesale factory supply, customizable for OEM/ODM. NSF/ISO certified for industrial and commercial water treatment.</div><div class='detail-specs'><h3>Technical Specifications</h3><table><tr><td>Type</td><td>Vertical</td></tr><tr><td>Tank</td><td>304 Stainless Steel</td></tr><tr><td>Color</td><td>Black/White</td></tr></table></div><a href='https://wa.me/8619908311885' class='cta'>Inquiry via WhatsApp</a></div></div></section></main>
+    <footer class="footer">
+        <div class="container footer-grid">
+            <div><h4 style="color:#fff;">Eco Express Water</h4><p style="color: rgba(255,255,255,0.6); margin-top: 15px;">Leading China manufacturer of water filtration solutions since 1998. Specialized in PP Melt Blown, CTO Carbon Block, GAC, and RO membranes for global ...</p></div>
+            <div><h4>מוצרים</h4><ul><li><a href="products.html">Filter Cartridges</a></li><li><a href="products.html">RO Systems</a></li></ul></div>
+            <div><h4>חברה</h4><ul><li><a href="about.html">About Us</a></li><li><a href="workshop.html">Workshop</a></li></ul></div>
+            <div><h4>צור קשר</h4><p style="color: rgba(255,255,255,0.6);">WhatsApp: +86-19908311885</p></div>
+        </div>
+    </footer></body></html>

@@ -1,0 +1,674 @@
+{
+  "ui": {
+    "nav_home": "Home",
+    "nav_products": "Products",
+    "nav_about": "About Us",
+    "nav_workshop": "工房",
+    "nav_exhibition": "Exhibitions",
+    "nav_contact": "お問い合わせ",
+    "cta_whatsapp": "WhatsAppで相談",
+    "topbar_phone": "📞 <a href=\"tel:+86-19908311885\">+86-19908311885</a>",
+    "topbar_email": "✉ <a href=\"mailto:expresswater025@gmail.com\">expresswater025@gmail.com</a>",
+    "topbar_tag": "グローバル卸売 · OEM/ODMスペシャリスト · 1998年創業",
+    "hero_eyebrow": "✦ 中国の大手浄水フィルターメーカー | NSF & ISO認証工場",
+    "hero_title": "工業グレードの浄水およびOEMソリューション",
+    "hero_desc": "高性能PPメルトブローン、CTO、GACフィルター、RO膜のグローバルバルク卸売サプライヤー。1998年以来、50カ国以上にNSF/ISO認証のOEM/ODM技術サポートを提供しています。",
+    "hero_btn_explore": "工場ポートフォリオを見る",
+    "hero_btn_quote": "卸売の見積もりを依頼",
+    "stats_years": "Years Experience",
+    "stats_models": "製品モデル数",
+    "stats_countries": "サービス提供国",
+    "stats_area": "Manufacturing Area",
+    "about_eyebrow": "About Us",
+    "about_title": "20年以上にわたる水ろ過の卓越性",
+    "about_desc": "Eco Express Waterは、浄水用のろ材およびろ過装置を専門とするハイテク環境保護企業です。1998年に設立され、研究開発、製造、マーケティングから技術サポートまでを一貫して行っています。当社は浙江省海寧市袁花鎮に位置しています。一流の技術専門家チーム、統合されたテスト施設、大規模な製造センターを擁しています。マレーシアやインドネシアなどのイスラム諸国のニーズに応えるハラール認証フィルターの認定サプライヤーでもあります。",
+    "about_feat_1": "1998年設立 – 20年以上の製造ノウハウ",
+    "about_feat_2": "垂直統合体制：研究開発、製造、品質管理、物流",
+    "about_feat_3": "NSF, ISO, CE, ハラール認証済みの製造センター",
+    "about_feat_4": "グローバルブランド向けプロフェッショナルOEM/ODMサポート",
+    "about_feat_5": "浙江省海寧市に立地 – 中国の浄水フィルター産業の中心地",
+    "why_eyebrow": "選ばれる理由",
+    "why_title": "信頼される製造パートナー",
+    "why_desc": "原材料から最終検査まで、すべての製品が当社の厳格な品質管理システムを通過しています。",
+    "why_card1_title": "認証された品質",
+    "why_card1_desc": "すべての製造バッチにおいてNSF / ISO / CE / ハラール認証に裏打ちされています。",
+    "why_card2_title": "OEM / ODM対応",
+    "why_card2_desc": "市場に合わせたカスタムブランディング、パッケージ、製品仕様を提供します。",
+    "why_card3_title": "In-House Production",
+    "why_card3_desc": "PP、カーボン、クイックコネクト、リークテストをカバーする4つの専用生産ライン。",
+    "why_card4_title": "Worldwide Shipping",
+    "why_card4_desc": "リードタイム7〜15日。50カ国以上への輸出物流体制を確立しています。",
+    "products_eyebrow": "製品ラインナップ",
+    "products_title": "包括的な水ろ過ポートフォリオ",
+    "products_desc": "インラインカートリッジから垂直型給水機、完全なROシステムまで、8カテゴリー42モデルを展開。",
+    "cat_all": "すべての製品",
+    "product_view_details": "詳細を見る",
+    "workshop_eyebrow": "Manufacturing",
+    "workshop_title": "ワークショップの内部",
+    "workshop_desc": "4つの専門生産ライン：PPフィルター、カーボンブロック、クイックコネクト、自動リーク検出。",
+    "workshop_pp": "PPフィルター生産ライン",
+    "workshop_carbon": "カーボンブロックフィルター生産",
+    "workshop_quick": "クイックコネクトフィルター生産",
+    "workshop_leak": "自動リークテスト",
+    "exhibition_eyebrow": "展示会情報",
+    "exhibition_title": "グローバルな展示活動",
+    "exhibition_desc": "AquaTech Shanghaiやその他の主要な業界イベントで当社のチームとお会いください。",
+    "exhibition_aqua1": "AquaTech Shanghaiブース",
+    "exhibition_aqua2": "AquaTech Shanghai展示品",
+    "exhibition_show": "展示ブース",
+    "exhibition_customers": "展示会来場者",
+    "contact_eyebrow": "お問い合わせ",
+    "contact_title": "共にビジネスを築きましょう",
+    "contact_desc": "プロジェクトについてお聞かせください。当社のセールスエンジニアが24時間以内に回答いたします。",
+    "contact_address_label": "工場所在地",
+    "contact_address": "中国浙江省海寧市袁花鎮創新路1号",
+    "contact_phone_label": "電話 / WhatsApp",
+    "contact_email_label": "メールアドレス",
+    "form_title": "お問い合わせ",
+    "form_sub": "お見積もりはこちらから。",
+    "form_name": "Your Name",
+    "form_email": "メールアドレス",
+    "form_company": "会社名",
+    "form_msg": "メッセージ",
+    "form_btn": "送信",
+    "footer_brand_desc": "1998年創業、中国を代表する浄水ソリューションメーカー。PPメルトブローン、CTOカーボンブロック、GAC、RO膜を専門とし、グローバルな卸売およびOEM/ODMパートナーシップを展開。",
+    "footer_products": "製品",
+    "footer_company": "会社情報",
+    "footer_contact": "連絡先",
+    "footer_rights": "無断複写・転載を禁じます。",
+    "modal_specs_title": "技術仕様",
+    "modal_btn_wa": "WhatsApp",
+    "modal_btn_email": "メール"
+  },
+  "categories": {
+    "Filter Cartridge": "フィルターカートリッジ",
+    "Filter Housing": "フィルターハウジング",
+    "Flat Cap Filter": "フラットキャップフィルター",
+    "Industrial Filter": "工業用フィルター",
+    "Inline Filter": "インラインフィルター",
+    "RO System": "ROシステム",
+    "Water Dispenser": "ウォーターサーバー",
+    "Water Purifier": "浄水器"
+  },
+  "products": [
+    {
+      "id": "alkaline-purifier",
+      "name": "アルカリ浄水器システム",
+      "category": "Water Purifier",
+      "desc": "pHレベルを上げ、必須ミネラルを加えることでアルカリ水を生成します。工場直送、OEM/ODMカスタマイズ可能。工業・商業用浄水としてNSF/ISO認証取得済み。",
+      "specs": {
+        "ろ過段階": "多段階 (PP + GAC + UF / RO)",
+        "1日あたりの出力": "最大 100 L/日 (家庭用) – 1,000 L/日 (商業用)",
+        "材質": "食品グレード FDA承認 PP / ABS / SUS 304",
+        "動作圧力": "0.1 – 0.4 MPa",
+        "動作温度": "5°C – 45°C",
+        "認証": "NSF/ANSI 42, 53 & 58, ISO 9001:2015, CE, SGS",
+        "保証": "ハウジングおよび電子部品に対し 12〜24ヶ月",
+        "用途": "家庭、レストラン、学校、ホテル、工業・商業用途",
+        "タイプ": "アルカリ性",
+        "pH範囲": "8.5 - 9.5",
+        "機能": "ミネラル化",
+        "メリット": "味の向上、健康維持"
+      },
+      "image": "../assets/products/alkaline-purifier.png"
+    },
+    {
+      "id": "antibacterial-mineralization",
+      "name": "抗菌ミネラル化フィルターカートリッジ",
+      "category": "Inline Filter",
+      "desc": "有害な細菌やウイルスを効果的に除去し、有益なミネラルを添加します。工場直送、OEM/ODM対応。",
+      "specs": {
+        "ハウジング": "食品グレード PE / PP 一体型密閉ボディ",
+        "接続": "1/4\" または 3/8\" クイックコネクト",
+        "ろ材": "ヤシ殻活性炭 / KDF / 麦飯石 / ミネラルボール",
+        "最大動作圧力": "0.6 MPa (87 psi)",
+        "寿命": "12ヶ月 / 6,000 L (いずれか早い方)",
+        "動作温度": "5°C – 38°C",
+        "認証": "NSF/ANSI 42, FDA, RoHS, SGS",
+        "OEM/ODM": "対応可能 · カスタムロゴ印刷 · MOQ 2,000個",
+        "機能": "ミネラル化",
+        "メリット": "味の向上、健康維持"
+      },
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+    },
+    {
+      "id": "big-blue-3stage",
+      "name": "30インチ 3段階ビッグブルー水フィルター",
+      "category": "Filter Housing",
+      "desc": "清潔で安全な水を提供するために設計された3段階ビッグブルーフィルター。PP、RO、CTOフィルターで不純物を除去します。",
+      "specs": {
+        "本体材質": "強化FDAグレード PP / SUS 304 / SUS 316L ステンレス鋼",
+        "キャップ材質": "ABS / PP / SUS 304",
+        "入口/出口": "1/4\", 1/2\", 3/4\", 1\", 1.5\", 2\" NPT/BSP",
+        "最大動作圧力": "8.6 bar (125 psi) PP / 16 bar (232 psi) SS",
+        "水圧テスト": "定格圧力の1.5倍",
+        "動作温度": "1°C – 50°C",
+        "認証": "NSF, FDA, ISO 9001:2015, CE",
+        "シーリング": "食品グレード シリコンOリング",
+        "サイズ": "30インチ",
+        "段階": "3段階 (PP, RO, CTO)",
+        "タイプ": "ビッグブルー",
+        "ブランド": "Eco Express Water"
+      },
+      "image": "../assets/products/big-blue-3stage_IMG_8856-scaled-768x1024.jpg"
+    },
+    {
+      "id": "carbon-block",
+      "name": "ヤシ殻CTO活性炭ブロックフィルターカートリッジ",
+      "category": "Filter Cartridge",
+      "desc": "当社のカーボンブロックフィルターは、独自の活性炭と焼結ヤシ殻の混合物を使用し、塩素やVOCの除去において比類のない性能を発揮します。",
+      "specs": {
+        "材質": "活性炭および焼結ヤシ殻",
+        "ろ過精度": "1 µm / 5 µm / 10 µm (カスタマイズ可能)",
+        "標準長さ": "10\" / 20\"",
+        "動作温度": "5°C – 45°C",
+        "最大動作圧力": "0.4 MPa (60 psi)",
+        "寿命": "3〜12ヶ月 (水質による)",
+        "認証": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS, FDA",
+        "OEM/ODM": "対応可能 · MOQ 1,000個",
+        "ヨウ素価": "1000",
+        "サイズ": "10×2.5 インチ",
+        "テクノロジー": "高度なカーボンブロック",
+        "除去対象": "塩素、VOC、堆積物"
+      },
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
+    },
+    {
+      "id": "carbon-block-2",
+      "name": "圧縮活性CTOカーボンブロック",
+      "category": "Industrial Filter",
+      "desc": "塩素や有機化合物を強力に除去する高密度カーボンブロックフィルター。",
+      "specs": {
+        "材質": "活性炭および焼結ヤシ殻",
+        "長さオプション": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "ろ過定格": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "エンドキャップ形式": "DOE / SOE 222 / SOE 226",
+        "最大動作圧力": "0.6 MPa (87 psi)",
+        "最大動作温度": "60°C",
+        "認証": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "用途": "工業用前処理、RO処理、食品・飲料",
+        "密度": "高密度",
+        "除去対象": "塩素、VOC、堆積物"
+      },
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
+    },
+    {
+      "id": "carbon-block-industrial",
+      "name": "高流量工業用CTOカーボンブロックフィルター",
+      "category": "Industrial Filter",
+      "desc": "高流量と効率的な化学的不純物除去を必要とする工業用途向けに設計されています。",
+      "specs": {
+        "材質": "活性炭および焼結ヤシ殻",
+        "長さオプション": "10\" / 20\" / 30\" / 40\" / 50\"",
+        "ろ過定格": "0.5 / 1 / 5 / 10 / 25 / 50 µm",
+        "エンドキャップ形式": "DOE / SOE 222 / SOE 226",
+        "認証": "NSF/ANSI 42, ISO 9001:2015, FDA, CE",
+        "用途": "工業用、ROシステム前処理",
+        "タイプ": "カーボンブロック",
+        "業界": "工業用",
+        "テクノロジー": "高度なカーボンブロック",
+        "除去対象": "塩素、VOC、堆積物"
+      },
+      "image": "../assets/products/carbon-block-industrial_wechatimg25665-YbNbr1krr7SvNJV0.jpeg"
+    },
+    {
+      "id": "ceramic-filter",
+      "name": "セラミックフィルターカートリッジ",
+      "category": "Filter Cartridge",
+      "desc": "微粒子や細菌を除去するための高品質セラミックカートリッジ。洗浄して再利用可能です。",
+      "specs": {
+        "材質": "食品グレード ポリプロピレン / 活性炭",
+        "ろ過精度": "0.2 µm",
+        "標準長さ": "10\" / 20\"",
+        "動作温度": "5°C – 45°C",
+        "認証": "NSF/ANSI 42 & 53, ISO 9001:2015, SGS",
+        "タイプ": "セラミック"
+      },
+      "image": "../assets/products/ceramic-filter_WeChat8b6176de1327055fb109da157c1d47dd-845x1024.png"
+    },
+    {
+      "id": "filter-combo",
+      "name": "多段階フィルターカートリッジコンボ",
+      "category": "Filter Cartridge",
+      "desc": "完全な浄水のためのカスタム多段階カートリッジセット。",
+      "specs": {
+        "段階": "3〜5段階",
+        "組み合わせ": "カスタム可能",
+        "テクノロジー": "高度なカーボンブロック",
+        "除去対象": "塩素、VOC、堆積物"
+      },
+      "image": "../assets/products/filter-combo.png"
+    },
+    {
+      "id": "flat-cap-cto",
+      "name": "フラットキャップCTOカーボンブロックフィルター",
+      "category": "Flat Cap Filter",
+      "desc": "ユニバーサルな互換性を持つフラットキャップ接続の圧縮カーボンブロックフィルター。",
+      "specs": {
+        "キャップタイプ": "フラットキャップ",
+        "長さ": "10\" 標準",
+        "直径": "65 mm – 70 mm",
+        "認証": "NSF/ANSI 42 & 53, FDA",
+        "プロセス": "光触媒酸化",
+        "除去対象": "細菌、ウイルス、塩素"
+      },
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
+    },
+    {
+      "id": "flat-cap-gac",
+      "name": "フラットキャップGACフィルター",
+      "category": "Flat Cap Filter",
+      "desc": "シリコンゴムフラットキャップ接続を採用したユニバーサルGACフィルター。",
+      "specs": {
+        "材質": "GAC (粒状活性炭)",
+        "キャップタイプ": "シリコンゴムフラットキャップ",
+        "除去対象": "細菌、ウイルス、塩素"
+      },
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
+    },
+    {
+      "id": "flat-cap-pp",
+      "name": "フラットキャップPPメルトブローン堆積物フィルター",
+      "category": "Flat Cap Filter",
+      "desc": "標準的な10インチハウジング用に設計されたポリプロピレンメルトブローンフィルター。",
+      "specs": {
+        "タイプ": "PP メルトブローン",
+        "キャップタイプ": "フラットキャップ"
+      },
+      "image": "../assets/products/flat-cap-cto_1676798539834-dOqM8JyQL5fj99OO.jpg"
+    },
+    {
+      "id": "housing-filter",
+      "name": "Eco Express Water フィルターハウジング",
+      "category": "Filter Housing",
+      "desc": "カーボンブロックフィルターやその他のフィルター要素用の頑丈なハウジング。",
+      "specs": {
+        "本体材質": "強化PP / SUS 304",
+        "サイズ": "30インチ",
+        "タイプ": "カーボンブロックハウジング"
+      },
+      "image": "../assets/products/housing-filter_IMG_5618-scaled-1024x768.jpg"
+    },
+    {
+      "id": "inline-cation-resin",
+      "name": "インライン陽イオン樹脂フィルターカートリッジ",
+      "category": "Inline Filter",
+      "desc": "カルシウムやマグネシウムなどの硬度成分を除去して水を軟化させます。",
+      "specs": {
+        "機能": "硬水軟化",
+        "樹脂": "陽イオン交換樹脂"
+      },
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+    },
+    {
+      "id": "inline-pp",
+      "name": "インラインPPカートリッジ",
+      "category": "Inline Filter",
+      "desc": "コンパクトなシステム用のインラインポリプロピレン堆積物フィルター。",
+      "specs": {
+        "材質": "ポリプロピレン",
+        "ろ過": "5µm"
+      },
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+    },
+    {
+      "id": "inline-small-mol",
+      "name": "小分子抗菌ミネラル化フィルター",
+      "category": "Inline Filter",
+      "desc": "細菌を除去しながら水をミネラル化する高度なろ過機能。",
+      "specs": {
+        "機能": "ミネラル化",
+        "接続": "クイックコネクト"
+      },
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+    },
+    {
+      "id": "inline-t33-coconut",
+      "name": "ヤシ殻活性炭 T33 インラインフィルター",
+      "category": "Inline Filter",
+      "desc": "味を整えるためのプレミアムヤシ殻活性炭を使用したT33ポストフィルターカートリッジ。",
+      "specs": {
+        "カーボン": "ヤシ殻",
+        "位置": "ポストフィルター"
+      },
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+    },
+    {
+      "id": "inline-t33-mineral",
+      "name": "ミネラル化 T33 インライン水フィルター",
+      "category": "Inline Filter",
+      "desc": "有益なミネラルを添加することで、味と臭いを改善します。",
+      "specs": {
+        "機能": "ミネラル化",
+        "接続": "クイックコネクト"
+      },
+      "image": "../assets/products/inline-small-mol_inline-small-molecule-antibacterial-mineralization-filter-cartridge-m2WbO3PQ8rSy"
+    },
+    {
+      "id": "maifan-inline",
+      "name": "麦飯石インラインフィルター",
+      "category": "Inline Filter",
+      "desc": "水をミネラル化し味を向上させる麦飯石を含むインラインフィルター。",
+      "specs": {
+        "ミネラル": "麦飯石",
+        "機能": "ミネラル化"
+      },
+      "image": "../assets/products/maifan-inline_Maifan-stone-Filter-copy.jpg"
+    },
+    {
+      "id": "mid-filter",
+      "name": "銅コネクタ付きミディアムサイズ水フィルター",
+      "category": "Filter Cartridge",
+      "desc": "確実な取り付けと性能を実現する銅コネクタ付きの中型フィルターカートリッジ。",
+      "specs": {
+        "サイズ": "ミディアム",
+        "接続": "銅コネクタ"
+      },
+      "image": "../assets/products/mid-filter_MG_9234-scaled.jpg"
+    },
+    {
+      "id": "mineral-inline",
+      "name": "インラインミネラルフィルター",
+      "category": "Inline Filter",
+      "desc": "浄化された水に必須ミネラルを戻し、健康効果と味を高めます。",
+      "specs": {
+        "機能": "ミネラル化",
+        "添加物": "Ca/Mg/K ミネラル"
+      },
+      "image": "../assets/products/mineral-inline_Mineral-Filter-copy.jpg"
+    },
+    {
+      "id": "mt-600dg",
+      "name": "ダークグリーン給水機 MT-600DG",
+      "category": "Water Dispenser",
+      "desc": "モダンなダークグリーンデザインの壁掛け式給水機。",
+      "specs": {
+        "設置": "壁掛け",
+        "カラー": "ダークグリーン",
+        "電力": "2200W",
+        "加熱": "3秒速暖"
+      },
+      "image": "../assets/products/mt-600dg_ac-c-e2c-r-co-aeoaepsec-mp8M9o3jKVHDxrn2.jpg"
+    },
+    {
+      "id": "mt-900g",
+      "name": "ゴールド給水機 MT-900G",
+      "category": "Water Dispenser",
+      "desc": "ゴールドガラスパネルとチャイルドロックを備えたプレミアム給水機。",
+      "specs": {
+        "電力": "2200W",
+        "出水量": "5段階 150–850ml",
+        "温度設定": "25–100°C",
+        "材質": "316L ステンレス鋼"
+      },
+      "image": "../assets/products/mt-900g_ee2ae-3-4-m5KPNbPPwluQy8no.jpg"
+    },
+    {
+      "id": "mt-b600",
+      "name": "ホワイト給水機 MT-B600",
+      "category": "Water Dispenser",
+      "desc": "3秒速暖機能を備えたホワイトガラスパネルモデル。",
+      "specs": {
+        "電力": "2200W",
+        "カラー": "ホワイトガラスパネル"
+      },
+      "image": "../assets/products/mt-b600_c1-2e2-1-copy-YD0r4gjVybULQ1pw.jpg"
+    },
+    {
+      "id": "mt-dv-e600",
+      "name": "1000W 垂直型給水機 MT-DV-E600",
+      "category": "Water Dispenser",
+      "desc": "304ステンレス鋼タンクを備えた高出力垂直型モデル。",
+      "specs": {
+        "電力": "1000W",
+        "タンク": "304 ステンレス鋼",
+        "ディスプレイ": "デジタルLED"
+      },
+      "image": "../assets/products/mt-dv-e600_mt-dv-e600-mxBj0l5gB4U8pZwq.jpg"
+    },
+    {
+      "id": "mt-e600",
+      "name": "壁掛け式給水機 MT-E600",
+      "category": "Water Dispenser",
+      "desc": "多段階の出水機能を備えたコンパクトなモノクロデザイン。",
+      "specs": {
+        "設置": "壁掛け",
+        "カラー": "ブラック/ホワイト"
+      },
+      "image": "../assets/products/mt-e600_e-600-bw-dWxeGeNwMWu0NzBY.jpg"
+    },
+    {
+      "id": "mt-s800",
+      "name": "ゴールド給水機 MT-S800",
+      "category": "Water Dispenser",
+      "desc": "3秒速暖と5段階調整機能を備えたゴールドガラスパネル。",
+      "specs": {
+        "電力": "2200W",
+        "カラー": "ゴールドガラスパネル"
+      },
+      "image": "../assets/products/mt-s800_ee2ae-3-4-copy-mePynXO7bpcqML47.jpg"
+    },
+    {
+      "id": "mt-v-e300a",
+      "name": "垂直型給水機 MT-V-E300A",
+      "category": "Water Dispenser",
+      "desc": "ステンレス鋼タンクを備えたモダンなデザインのフロアスタンド型モデル。",
+      "specs": {
+        "タイプ": "垂直型",
+        "タンク": "304 ステンレス鋼"
+      },
+      "image": "../assets/products/mt-v-e300a_mt-v-e300a-black-white-dWxeGwbOrkf1yWW0.jpg"
+    },
+    {
+      "id": "post-t33",
+      "name": "ポスト T33 インラインカーボンフィルター",
+      "category": "Inline Filter",
+      "desc": "最終段階での味の調整と残留臭気の除去用フィルター。",
+      "specs": {
+        "位置": "最終段階",
+        "材質": "ヤシ殻活性炭"
+      },
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg"
+    },
+    {
+      "id": "pp-fin-cap",
+      "name": "フィンエンドキャップ付き PP メルトブローンフィルター",
+      "category": "Industrial Filter",
+      "desc": "滑らかまたは溝付きの表面オプションを持つ工業用PPフィルター。",
+      "specs": {
+        "材質": "ポリプロピレン",
+        "キャップタイプ": "フィン(Fin)",
+        "サイズ": "10\"〜50\""
+      },
+      "image": "../assets/products/pp-fin-cap_pp-filter-with-fin-end-cap-AQEXE9JgGXIjQaoo.jpg"
+    },
+    {
+      "id": "pp-silicon-ring",
+      "name": "シリコンリング付き PP メルトブローンフィルター",
+      "category": "Industrial Filter",
+      "desc": "食品グレードのシリコンリングシーリングを備えた工業用ポリプロピレンフィルター。",
+      "specs": {
+        "リング": "食品グレード シリコン",
+        "タイプ": "DOE または SOE"
+      },
+      "image": "../assets/products/pp-silicon-ring_pp-filter-with-silicon-ring-YrDLDBNea9fG9Q5k.jpg"
+    },
+    {
+      "id": "pp-soe-doe",
+      "name": "工業用 PP 堆積物フィルター (SOE/DOE)",
+      "category": "Industrial Filter",
+      "desc": "SOEおよびDOE構成で利用可能な工業用フィルター。",
+      "specs": {
+        "タイプ": "DOE または SOE",
+        "用途": "工業用"
+      },
+      "image": "../assets/products/pp-soe-doe_pp-filter-soe-and-doe-A0x4xbrBOPcpr4nX.jpg"
+    },
+    {
+      "id": "pp-spun",
+      "name": "PP メルトブローン堆積物フィルターカートリッジ",
+      "category": "Filter Cartridge",
+      "desc": "100%純ポリプロピレンマイクロファイバー。錆、シルト、堆積物を除去します。",
+      "specs": {
+        "材質": "100% ポリプロピレン",
+        "サイズ": "10〜40インチ",
+        "除去対象": "5µm 堆積物"
+      },
+      "image": "../assets/products/pp-spun_PP-Spun-Filter-copy.jpg"
+    },
+    {
+      "id": "ppf-cartridge",
+      "name": "PPF ポリプロピレン繊維カートリッジ",
+      "category": "Filter Cartridge",
+      "desc": "効率的な堆積物除去のためのポリプロピレン繊維カートリッジ。",
+      "specs": {
+        "材質": "PP繊維",
+        "機能": "堆積物除去"
+      },
+      "image": "../assets/products/ppf-cartridge_PPF-Filter-copy.jpg"
+    },
+    {
+      "id": "pre-udf",
+      "name": "プリ UDF 活性炭カートリッジ",
+      "category": "Filter Cartridge",
+      "desc": "後続の膜を保護するための粒状活性炭カートリッジ。",
+      "specs": {
+        "材質": "GAC",
+        "位置": "プリフィルター"
+      },
+      "image": "../assets/products/pre-udf_Pre-UDF-Filter-copy.jpg"
+    },
+    {
+      "id": "resin-filter",
+      "name": "イオン交換樹脂フィルター",
+      "category": "Filter Cartridge",
+      "desc": "硬水軟化と重金属除去のための樹脂カートリッジ。",
+      "specs": {
+        "機能": "硬水軟化",
+        "除去対象": "Ca/Mg/重金属"
+      },
+      "image": "../assets/products/inline-cation-resin_inline-cation-resin-filter-cartridge-AGBr0XGDo7t0NDKE.jpg"
+    },
+    {
+      "id": "ro-membrane",
+      "name": "逆浸透 (RO) 膜エレメント",
+      "category": "Filter Cartridge",
+      "desc": "重力式ROシステム用の高性能メンブレン。",
+      "specs": {
+        "容量": "75/100/400 GPD",
+        "タイプ": "重力式"
+      },
+      "image": "../assets/products/ro-membrane_RO-Membrane-Filter-Cartridge-copy.jpg"
+    },
+    {
+      "id": "ro-membrane-400g",
+      "name": "400GPD 高流量 RO 膜エレメント",
+      "category": "RO System",
+      "desc": "ポンプ不要のシステム用の大容量RO膜。",
+      "specs": {
+        "容量": "400 GPD",
+        "脱塩率": "≥ 96% – 99%"
+      },
+      "image": "../assets/products/ro-membrane-400g.png"
+    },
+    {
+      "id": "ro-undersink",
+      "name": "アンダーシンク逆浸透浄水器",
+      "category": "RO System",
+      "desc": "供給水圧を利用した多段階ROシステム。",
+      "specs": {
+        "段階": "多段階",
+        "メンブレン": "RO 75GPD"
+      },
+      "image": "../assets/products/ro-undersink_IMG_5846-scaled-768x1024.jpg"
+    },
+    {
+      "id": "ss-jumbo-housing",
+      "name": "304/316L ステンレス鋼工業用ジャンボハウジング",
+      "category": "Filter Housing",
+      "desc": "高流量用途に理想的な頑丈なステンレス鋼ハウジング。",
+      "specs": {
+        "材質": "304 ステンレス鋼",
+        "サイズ": "30インチ",
+        "互換性": "PP, カーボン, UF"
+      },
+      "image": "../assets/products/ss-jumbo-housing-v4.png"
+    },
+    {
+      "id": "t33-post",
+      "name": "T33 ポストフィルターカートリッジ",
+      "category": "Inline Filter",
+      "desc": "浄化の最終段階で使用する高品質カーボンフィルター。",
+      "specs": {
+        "機能": "仕上げ",
+        "材質": "ヤシ殻活性炭"
+      },
+      "image": "../assets/products/post-t33_Post-T33-Filter-copy.jpg"
+    },
+    {
+      "id": "udf-cartridge",
+      "name": "粒状活性炭 (UDF) フィルターカートリッジ",
+      "category": "Filter Cartridge",
+      "desc": "高ヨウ素価の標準10インチGACフィルター。",
+      "specs": {
+        "タイプ": "GAC",
+        "ヨウ素価": "1000"
+      },
+      "image": "../assets/products/udf-cartridge_UDF-Filter-cartridge-copy.jpg"
+    },
+    {
+      "id": "uf-cartridge",
+      "name": "限外ろ過 (UF) カートリッジ",
+      "category": "Filter Cartridge",
+      "desc": "細菌やウイルスを除去するための中空糸膜。",
+      "specs": {
+        "メンブレン": "中空糸",
+        "ろ過": "0.01µm"
+      },
+      "image": "../assets/products/uf-cartridge.png"
+    },
+    {
+      "id": "uf-filter-2",
+      "name": "UF 中空糸フィルター",
+      "category": "Filter Cartridge",
+      "desc": "微細な浮遊固形物除去用の限外ろ過カートリッジ。",
+      "specs": {
+        "除去対象": "細菌"
+      },
+      "image": "../assets/products/uf-filter-2_UF-Filter-copy.jpg"
+    },
+    {
+      "id": "ultra-film",
+      "name": "ウルトラフィルム フィルターカートリッジ",
+      "category": "Filter Cartridge",
+      "desc": "高効率を実現する高度な限外ろ過フィルムカートリッジ。",
+      "specs": {
+        "タイプ": "ウルトラフィルム",
+        "ろ過": "0.01µm"
+      },
+      "image": "../assets/products/ultra-film_Ultra-Film-Filter-copy.jpg"
+    },
+    {
+      "id": "uv-purifier",
+      "name": "3段階浄水器 + UV",
+      "category": "Water Purifier",
+      "desc": "最大限の安全性を実現するUV-C殺菌機能付き浄水システム。",
+      "specs": {
+        "殺菌": "UV-C",
+        "タイプ": "重力式"
+      },
+      "image": "../assets/products/uv-purifier_ed1b75a2f9de969d15bf4904160302e-768x1024.jpg"
+    },
+    {
+      "id": "water-purifier-maifan",
+      "name": "麦飯石ミネラル浄水器",
+      "category": "Water Purifier",
+      "desc": "水質向上のための麦飯石を備えた多段階浄水器。",
+      "specs": {
+        "ミネラル": "麦飯石",
+        "段階": "5段階"
+      },
+      "image": "../assets/products/water-purifier-maifan.png"
+    }
+  ]
+}

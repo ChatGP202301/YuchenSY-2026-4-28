@@ -1,0 +1,107 @@
+{
+  "company_name": "Metatecno",
+  "website": "http://www.solarwaterheatermachinery.com",
+  "products": [
+    {
+      "name": "Enamel Tank Production Line",
+      "description": "Semi-automatic production line for solar enamel tanks, including enameling, drying, and firing stages.",
+      "components": [
+        "Semi-automatic Enameling Machine",
+        "Drying Design",
+        "Firing Line",
+        "Conveyor Line",
+        "Firing Hanging Tool"
+      ],
+      "technical_specifications": {
+        "power_supply": "380V, 50Hz",
+        "electric_heating_burning": "420kW",
+        "electric_heating_drying": "100kW",
+        "burning_capacity": "650kg/h, ~30 pcs/h (100L)",
+        "temperature_range": "700°C - 880°C",
+        "max_workpiece_size": "Φ500mm x 1500mm"
+      },
+      "features": [
+        "Energy saving via ceramic fiber insulation",
+        "High-precision temperature control (+/- 5°C)",
+        "Hygienic and corrosion-resistant enamel coating"
+      ]
+    },
+    {
+      "name": "Solar Water Heater Production Line",
+      "description": "Lines for pressurized and non-pressurized solar water heater manufacturing.",
+      "components": [
+        "Automatic Sheet Cutting Machine",
+        "Automatic Tank Shrinking Machine",
+        "CNC Punching Machine",
+        "CNC Sheet Cutting Machine",
+        "PUF Machine & Platform",
+        "Sheet Round Rolling Machine",
+        "Side Cover Trimming Machine",
+        "Solar Bracket Forming Machine",
+        "Solar Tenon Press Machine",
+        "Tank Leakage Testing Machine"
+      ],
+      "features": [
+        "Support for stainless steel and colorful outer tanks",
+        "Customizable inner tank thickness"
+      ]
+    },
+    {
+      "name": "CNC Punching Machine",
+      "description": "Core component for high-precision punching of solar tank components.",
+      "features": [
+        "Integrated into automatic production flow",
+        "High efficiency and precision"
+      ]
+    },
+    {
+      "name": "Solar Collectors (Flat Plate / Heat Pipe)",
+      "types": [
+        {
+          "type": "Flat Plate",
+          "working_principle": "Absorption, conduction, radiation",
+          "advantages": ["Efficient", "Low maintenance", "Affordable", "Easy installation"]
+        },
+        {
+          "type": "Heat Pipe",
+          "configurations": "12, 15, 18, 20, 24, 30 tubes",
+          "features": ["High thermal efficiency", "Fast heat transfer", "Durable", "Vacuum-sealed"]
+        }
+      ]
+    },
+    {
+      "name": "PV Mounting Structure",
+      "technical_specs": {
+        "site": "Flat Roof or Pitched Roof",
+        "material": "Aluminum 6005-T5 & SUS 304",
+        "max_wind_speed": "< 60 m/s",
+        "max_snow_load": "< 1.4 kn/m2",
+        "fixed_angle": "5° - 60°",
+        "warranty": "12 Years",
+        "service_life": "20 Years"
+      },
+      "benefits": [
+        "Non-Penetrating",
+        "Pre-assembled",
+        "Rail-less",
+        "Universal orientation"
+      ]
+    },
+    {
+      "name": "Inertial Sensor System (IMU)",
+      "description": "System for measuring acceleration, angular velocity, and orientation in 3D space.",
+      "applications": [
+        "Aerospace",
+        "Robotics",
+        "Navigation (GPS-denied)",
+        "Virtual Reality"
+      ],
+      "specs": {
+        "power_supply": "5V",
+        "current_products": 4
+      }
+    }
+  ],
+  "pdf_catalogs_found": false,
+  "notes": "No PDF links found. Contact info@solarwaterheatermachinery.com for documentation."
+}

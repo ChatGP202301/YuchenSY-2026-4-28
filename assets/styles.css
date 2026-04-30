@@ -1,0 +1,141 @@
+/* 
+  Express Water Ultimate B2B Responsive Stylesheet
+  Colors: Forest Green (#485342), Gold (#B5A48B)
+*/
+:root {
+  --fg: #485342;
+  --fg-dark: #3a4536;
+  --gd: #B5A48B;
+  --gd-dark: #a19077;
+  --gd-light: #f1ede6;
+  --bg: #F9F9F7;
+  --txt: #2c3329;
+  --muted: #6b7368;
+  --white: #ffffff;
+  --shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { 
+  font-family: 'Inter', sans-serif; 
+  background: var(--bg); 
+  color: var(--txt); 
+  line-height: 1.6; 
+  overflow-x: hidden; 
+}
+h1, h2, h3, h4, .brand-name { font-family: 'Playfair Display', serif; }
+a { text-decoration: none; color: inherit; transition: 0.3s; }
+
+.container { 
+  max-width: 1200px; 
+  margin: 0 auto; 
+  padding: 0 20px; 
+}
+
+/* Header & Nav */
+.header { 
+  background: var(--white); 
+  box-shadow: var(--shadow); 
+  padding: 15px 0; 
+  position: sticky; 
+  top: 0; 
+  z-index: 1000; 
+}
+.header-row { display: flex; align-items: center; justify-content: space-between; }
+.brand { display: flex; align-items: center; gap: 12px; }
+.logo-img { height: 42px; width: auto; }
+.brand-name { font-size: 1.5rem; font-weight: 700; color: var(--fg); }
+
+.nav { display: flex; gap: 24px; }
+.nav-link { font-weight: 500; font-size: 0.95rem; color: var(--muted); }
+.nav-link:hover, .nav-link.active { color: var(--fg); border-bottom: 2px solid var(--gd); }
+
+.header-actions { display: flex; align-items: center; gap: 20px; }
+.cta-wa { 
+  background: #25D366; 
+  color: white !important; 
+  padding: 8px 16px; 
+  border-radius: 6px; 
+  font-weight: 600; 
+  font-size: 0.9rem;
+}
+
+/* Mobile Menu Toggle */
+.mobile-menu-toggle { display: none; font-size: 1.8rem; cursor: pointer; color: var(--fg); }
+
+/* Hero Section */
+.hero { 
+  background: linear-gradient(rgba(58,69,54,0.85), rgba(58,69,54,0.7)), url('backgrounds/eco_hero1.jpg');
+  background-size: cover; background-position: center;
+  padding: 120px 0; color: var(--white); text-align: center;
+}
+.hero-eyebrow { text-transform: uppercase; letter-spacing: 2px; font-size: 0.9rem; color: var(--gd); margin-bottom: 12px; }
+.hero h1 { font-size: 3.5rem; margin-bottom: 24px; line-height: 1.2; }
+.hero-desc { font-size: 1.2rem; max-width: 800px; margin: 0 auto 40px; opacity: 0.9; }
+
+/* Sections */
+.section { padding: 100px 0; }
+.section-cream { background: var(--gd-light); }
+.section-head { text-align: center; margin-bottom: 60px; }
+.eyebrow { color: var(--gd-dark); font-weight: 600; text-transform: uppercase; font-size: 0.85rem; margin-bottom: 8px; }
+
+/* Grid Layouts */
+.product-grid { 
+  display: grid; 
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); 
+  gap: 30px; 
+}
+.product-card { 
+  background: white; border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); 
+  transition: transform 0.3s;
+}
+.product-card:hover { transform: translateY(-5px); }
+.product-img-wrap { display: block; height: 260px; background: #fff; overflow: hidden; position: relative; }
+.product-img-wrap img { width: 100%; height: 100%; object-fit: contain; }
+.product-body { padding: 20px; }
+.product-body h3 { font-size: 1.25rem; margin-bottom: 12px; color: var(--fg); }
+
+/* FAQ */
+.faq-wrap { max-width: 800px; margin: 0 auto; }
+.faq-item { border-bottom: 1px solid #ddd; padding: 15px 0; }
+.faq-q { width: 100%; text-align: left; background: none; border: none; font-size: 1.1rem; font-weight: 600; cursor: pointer; color: var(--fg); display: flex; justify-content: space-between; }
+.faq-a { max-height: 0; overflow: hidden; transition: 0.3s; }
+.faq-item.open .faq-a { max-height: 500px; margin-top: 10px; }
+
+/* Contact */
+.contact-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; }
+.contact-form .form-row { margin-bottom: 20px; }
+.contact-form label { display: block; margin-bottom: 8px; font-weight: 600; font-size: 0.9rem; }
+.contact-form input, .contact-form textarea { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 4px; font-family: inherit; }
+
+/* Responsive Media Queries */
+@media (max-width: 992px) {
+  .hero h1 { font-size: 2.5rem; }
+  .nav { display: none; } /* Hide main nav */
+  .mobile-menu-toggle { display: block; }
+  
+  /* Mobile Open Nav */
+  .nav.open {
+    display: flex; flex-direction: column; 
+    position: absolute; top: 100%; left: 0; width: 100%; 
+    background: white; padding: 20px; border-top: 1px solid #eee;
+    box-shadow: var(--shadow);
+  }
+  .contact-grid { grid-template-columns: 1fr; }
+}
+
+@media (max-width: 600px) {
+  .hero { padding: 80px 0; }
+  .hero h1 { font-size: 1.8rem; }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 20px; }
+  .product-grid { grid-template-columns: 1fr; }
+  .header-actions { gap: 10px; }
+  .cta-wa { padding: 6px 10px; font-size: 0.8rem; }
+}
+
+/* RTL Support */
+body.rtl { direction: rtl; }
+body.rtl .header-row, body.rtl .stats-grid, body.rtl .feat-grid, body.rtl .footer-grid, body.rtl .contact-grid { 
+  flex-direction: row-reverse; 
+}
+body.rtl .brand { flex-direction: row-reverse; }

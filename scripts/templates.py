@@ -147,10 +147,10 @@ def topbar_html(t, lang):
 '''
 
 
-def lang_switcher_dropdown(current_lang):
+def lang_switcher_dropdown(current_lang, page_path="index.html"):
     """Inline language picker between Contact and WhatsApp."""
     options = "\n".join(
-        f'    <a href="../{l}/index.html" class="lang-option {"active" if l == current_lang else ""}" lang="{l}">{LANG_LABELS[l]}</a>'
+        f'    <a href="../{l}/{page_path}" class="lang-option {"active" if l == current_lang else ""}" lang="{l}">{LANG_LABELS[l]}</a>'
         for l in LANGS
     )
     return f'''
@@ -188,11 +188,11 @@ def navbar_html(t, lang, current_page="index.html"):
       {items}
     </nav>
     <div class="header-actions">
-      {lang_switcher_dropdown(lang)}
+      {lang_switcher_dropdown(lang, current_page)}
       <a href="https://wa.me/{GEO['wa']}" target="_blank" rel="noopener" class="cta-wa">📱 {wa_label}</a>
+      <button class="mobile-menu-toggle" onclick="document.querySelector('.nav').classList.toggle('open')">☰</button>
     </div>
   </div>
-  <div class="mobile-menu-toggle" onclick="document.querySelector('.nav').classList.toggle('open')">☰</div>
 </header>
 '''
 
